@@ -95,7 +95,6 @@ public class SkylineProblem {
     return skyPoints;
   }
 
-
 }
 
 
