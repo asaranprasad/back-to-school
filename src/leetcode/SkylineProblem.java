@@ -1,3 +1,5 @@
+// Incomplete
+
 // https://leetcode.com/problems/the-skyline-problem/description/
 
 package leetcode;
@@ -7,6 +9,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import org.junit.Assert;
+import org.junit.jupiter.api.Test;
 
 /*
  * Skyline Probem - my algorithm.
@@ -18,9 +22,20 @@ public class SkylineProblem {
     int[][] buildings = {{2, 9, 10}, {3, 7, 15}, {5, 12, 12}, {15, 20, 10}, {19, 24, 8}};
     List<int[]> skyPoints = (new SkylineProblem()).getSkyline(buildings);
 
-    for (int[] eachSkyPoint : skyPoints) {
+    for (int[] eachSkyPoint : skyPoints)
       System.out.print("[" + eachSkyPoint[0] + "," + eachSkyPoint[1] + "], ");
-    }
+
+    // Inp: {2, 9, 10}, {3, 7, 15}, {5, 12, 12}, {15, 20, 10}, {19, 24, 8}
+    // Exp: [2,10],[3,15],[7,12],[12,0],[15,10],[20,8],[24,0]
+    // Act: [2,10],[3,15],[5,12],[9,0],[15,10],[20,8],[24,0]
+
+    System.out.println();
+    int[][] buildings2 = {{2, 9, 10}, {3, 4, 15}, {5, 12, 12}};
+    for (int[] eachSkyPoint : (new SkylineProblem()).getSkyline(buildings2))
+      System.out.print("[" + eachSkyPoint[0] + "," + eachSkyPoint[1] + "], ");
+
+    // Inp: {{2,9,10},{3,4,15},{5,12,12}}
+    // Exp: [2,10],[3,15],[4,10],[5,12],[12,0]
   }
 
   public List<int[]> getSkyline(int[][] buildings) {
@@ -102,5 +117,18 @@ class CustomArraySort implements Comparator<int[]> {
   @Override
   public int compare(int[] o1, int[] o2) {
     return o1[0] - o2[0];
+  }
+}
+
+
+class MyTest {
+  @Test
+  public void testSkyLine() {
+    int[][] buildings = {{2, 9, 10}, {3, 7, 15}, {5, 12, 12}, {15, 20, 10}, {19, 24, 8}};
+    List<int[]> skyPoints = (new SkylineProblem()).getSkyline(buildings);
+
+    int[][] expectedSkyPoints = {{2, 10}, {3, 15}, {7, 12}, {12, 0}, {15, 10}, {20, 8}, {24, 0}};
+
+    Assert.assertArrayEquals(expectedSkyPoints, skyPoints.toArray());
   }
 }
