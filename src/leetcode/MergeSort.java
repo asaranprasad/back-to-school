@@ -3,6 +3,35 @@
 // divide list into even indices list and odd indices list
 // and merge them.
 
+//;; merge : SortedList SortedList -> SortedList
+//;; merges its two arguments
+//;; strategy: recur on (rest lst1) or (rest lst2)
+//;; HALTING MEASURE: (length lst1) + (length lst2) 
+//(define (merge lst1 lst2)
+//  (cond
+//    [(empty? lst1) lst2]
+//    [(empty? lst2) lst1]
+//    [(< (first lst1) (first lst2))
+//     (cons (first lst1) (merge (rest lst1) lst2))]
+//    [else
+//     (cons (first lst2) (merge lst1 (rest lst2)))]))
+//
+//
+//;; merge-sort : RealList -> SortedList
+//(define (merge-sort lst)
+//  (cond
+//    [(empty? lst) lst]
+//    [(empty? (rest lst)) lst]
+//    [else
+//      (local
+//       ((define evens (even-elements lst))
+//        (define odds  (odd-elements lst)))
+//       (merge 
+//        (merge-sort evens)
+//        (merge-sort odds)))]))
+
+
+
 package leetcode;
 
 import java.util.ArrayList;
