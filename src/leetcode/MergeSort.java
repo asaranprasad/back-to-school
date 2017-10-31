@@ -19,7 +19,7 @@ public class MergeSort {
   }
 
   public List<Integer> mergeSort(List<Integer> list) {
-    if (list.size() < 2)
+    if (list.size() < 2) // if the list has 1 or no elements, stop recursing and start merging.
       return list;
     return merge(mergeSort(evenList(list)), mergeSort(oddList(list)));
   }
