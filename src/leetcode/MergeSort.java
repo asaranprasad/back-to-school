@@ -42,7 +42,7 @@ public class MergeSort {
 
   public static void main(String[] args) {
     MergeSort m = new MergeSort();
-    List<Integer> list = Arrays.asList(1, 4, 8, 10, -24, -6, 9, 21, 45, 1234, 20, 58, 77);
+    List<Integer> list = Arrays.asList(1, 4, 8, 10, -24, -6, 9, 21, 45, 1234, 20, 58, 77,14);
     for (int i : m.mergeSort(list))
       System.out.print(i + " ");
   }
