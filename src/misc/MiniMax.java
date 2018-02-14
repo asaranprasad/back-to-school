@@ -6,7 +6,7 @@ public class MiniMax {
 
   public static void main(String[] args) {
 
-    int[] a = {3, 21, 4, 47, 3, 3, 6, 23, 7, 43, 23, 6, 5, 3, 4};
+    int[] a = {3, 21, 4, 47, 3, 3, 6, 23, 7, 43, -23, 6, 5, 3, 4};
     int[] op = (new MiniMax()).minimax(a, 0, a.length - 1);
     System.out.println("min: " + op[0]);
     System.out.println("max: " + op[1]);
