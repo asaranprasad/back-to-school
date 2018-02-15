@@ -3,8 +3,6 @@
 
 package misc;
 
-import java.util.Arrays;
-
 public class MaximumSubArray {
 
   public static void main(String[] args) {
