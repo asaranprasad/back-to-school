@@ -16,7 +16,7 @@ public class isNumeric {
     System.out.println(test(z.isNumber("1e"), false));
     System.out.println(test(z.isNumber("4."), true));
     System.out.println(test(z.isNumber("5.0"), true));
-    System.out.println(test(z.isNumber("5.e5"), false));
+    System.out.println(test(z.isNumber("5.e5"), true));
     System.out.println(test(z.isNumber("5.3214e5"), true));
     System.out.println(test(z.isNumber(".e5"), false));
     System.out.println(test(z.isNumber(".5"), true));
@@ -28,8 +28,17 @@ public class isNumeric {
     System.out.println(test(z.isNumber("6+1"), false));
     System.out.println(test(z.isNumber("+."), false));
     System.out.println(test(z.isNumber("+.8"), true));
-    System.out.println(test(z.isNumber("46.e3"), true));
     System.out.println(test(z.isNumber(".e1"), false));
+    System.out.println(test(z.isNumber("46.e3"), true));
+    System.out.println(test(z.isNumber(".-4"), false));
+    System.out.println(test(z.isNumber("6e6.5"), false));
+    System.out.println(test(z.isNumber(" 005047e+6"), true));
+    System.out.println(test(z.isNumber("32.e-80123"), true));
+    System.out.println(test(z.isNumber("  -32.e-80123"), true));
+    System.out.println(test(z.isNumber("-+4"), false));
+    System.out.println(test(z.isNumber("32.e+-80"), false));
+    System.out.println(test(z.isNumber("32.-e+80"), false));
+
 
     if (testStat == 0)
       System.out.println("\n\nALL TESTS PASS");
@@ -64,11 +73,11 @@ public class isNumeric {
       return false;
     if (s.charAt(s.length() - 1) == '-')
       return false;
-    if (occuranceOf('+', s) > 0 && occuranceOf('-', s) > 0)
+    if (occuranceOf('+', s) + occuranceOf('-', s) > 2)
       return false;
-    if (occuranceOf('+', s) > 1)
+    if (occuranceOf('+', s) > 2)
       return false;
-    if (occuranceOf('-', s) > 1)
+    if (occuranceOf('-', s) > 2)
       return false;
     if (occuranceOf('e', s) > 1)
       return false;
@@ -80,47 +89,61 @@ public class isNumeric {
         return false;
 
     char prev = '0';
+    boolean befDec = false;
+    boolean aftDec = false;
+    boolean befE = false;
+    boolean aftE = false;
+    boolean decOccured = false;
+    boolean eOccured = false;
 
     for (int i = 0; i < s.length(); i++) {
       char c = s.charAt(i);
 
-      if ((c < '0' || c > '9') && c != '+' && c != '-' && c != 'e' && c != '.')
+
+      if (!isDigit(c) && c != '+' && c != '-' && c != 'e' && c != '.')
         return false;
 
-      if (c == '+')
-        if (prev >= '0' && prev <= '9')
+      if (c == '+' || c == '-') {
+        if (isDigit(prev))
           if (i > 0)
             return false;
+        if (decOccured && !eOccured)
+          return false;
+      }
 
-      if (prev == '+')
-        if ((!(c >= '0' && c <= '9') && c != '.') || (c == '.' && i == s.length() - 1))
+      if (prev == '+' || prev == '-')
+        if ((!isDigit(c) && c != '.') || (c == '.' && i == s.length() - 1))
           return false;
 
-      if (c == '-')
-        if (prev >= '0' && prev <= '9')
-          if (i > 0)
+      if (c == 'e') {
+        eOccured = true;
+        if (prev == '.') {
+          if (!befDec)
             return false;
-
-      if (prev == '-')
-        if ((!(c >= '0' && c <= '9') && c != '.') || (c == '.' && i == s.length() - 1))
+        } else if (!isDigit(prev))
           return false;
-
-      if (c == 'e')
-        if (!(prev >= '0' && prev <= '9') && prev != '.')
-          return false;
+      }
 
       if (prev == 'e')
-        if (!(c >= '0' && c <= '9'))
+        if (!isDigit(c) && !(c == '+' || c == '-'))
           return false;
 
-      if (prev == '.')
-        if (!(c >= '0' && c <= '9') && c != 'e')
+      if (c == '.') {
+        decOccured = true;
+        if (isDigit(prev) && i != 0)
+          befDec = true;
+        if (eOccured)
           return false;
+      }
 
       prev = c;
     }
 
     return true;
+  }
+
+  private boolean isDigit(char c) {
+    return c >= '0' && c <= '9';
   }
 
   private int occuranceOf(char c, String s) {
