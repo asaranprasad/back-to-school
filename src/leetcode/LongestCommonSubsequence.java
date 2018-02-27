@@ -11,14 +11,14 @@ public class LongestCommonSubsequence {
     LongestCommonSubsequence obj = new LongestCommonSubsequence();
     String a = "abcdefghijklmnop";
     String b = "asfdalsafdjbasdfcafddsadfmasdfoasdfp";
-    String[][] trace = new String[a.length() + 1][b.length() + 1];
+    char[][] trace = new char[a.length() + 1][b.length() + 1];
     System.out
         .println(
             obj.longestCommonSubsequence(a, b, trace));
     obj.printStack(trace, a, b);
   }
 
-  private int longestCommonSubsequence(String a, String b, String[][] s) {
+  public int longestCommonSubsequence(String a, String b, char[][] s) {
     if (a.length() == 0 || b.length() == 0)
       return 0;
 
@@ -32,18 +32,18 @@ public class LongestCommonSubsequence {
         if (a.charAt(i - 1) == b.charAt(j - 1)) {
           if (C[i][j] < C[i - 1][j - 1] + 1) {
             C[i][j] = C[i - 1][j - 1] + 1;
-            s[i][j] = "BottomLeft";
+            s[i][j] = '/';
           }
         }
         // case 2:
         else {
           if (C[i][j] < C[i][j - 1]) {
             C[i][j] = C[i][j - 1];
-            s[i][j] = "Bottom";
+            s[i][j] = 'v';
           }
           if (C[i][j] < C[i - 1][j]) {
             C[i][j] = C[i - 1][j];
-            s[i][j] = "Left";
+            s[i][j] = '<';
           }
         }
       }
@@ -52,18 +52,18 @@ public class LongestCommonSubsequence {
   }
 
 
-  private void printStack(String[][] s, String a, String b) {
+  private void printStack(char[][] s, String a, String b) {
     System.out.println();
     int i = a.length();
     int j = b.length();
     while (j > 0 && i > 0) {
-      if (s[i][j].equals("BottomLeft")) {
+      if (s[i][j] == '/') {
         System.out.print(a.charAt(i - 1));
         i = i - 1;
         j = j - 1;
-      } else if (s[i][j].equals("Bottom")) {
+      } else if (s[i][j] == 'v') {
         j = j - 1;
-      } else if (s[i][j].equals("Left")) {
+      } else if (s[i][j] == '<') {
         i = i - 1;
       }
     }
