@@ -1,17 +1,13 @@
-// Incomplete
-
-/*
- * https://leetcode.com/problems/longest-palindromic-substring/description/
- */
 
 package leetcode;
 
 public class LongestPalindromicSubsequence {
   public static void main(String[] args) {
     LongestPalindromicSubsequence obj = new LongestPalindromicSubsequence();
-    String a = "afdvasdfisfdksdaddfakaavfdivaadkafdakdivadfddsvadc";
 
-    System.out.println(obj.longestPalindromicSubsequence(a));
+    System.out.println(obj.longestPalindromicSubsequence(
+        "afdvasdfisfdksdaddfakaavfdivaadkafdakdivadfddsvadc"));
+    System.out.println(obj.longestPalindromicSubsequence("character"));
 
   }
 
@@ -28,7 +24,6 @@ public class LongestPalindromicSubsequence {
   }
 
   private String printTrace(char[][] s, String a) {
-    System.out.println();
     int i = a.length();
     int j = i;
     StringBuilder str = new StringBuilder();
