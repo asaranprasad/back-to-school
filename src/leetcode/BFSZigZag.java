@@ -8,9 +8,6 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class BFSZigZag {
-  /**
-   * Definition for a binary tree node.
-   */
   public class TreeNode {
     int val;
     TreeNode left;
