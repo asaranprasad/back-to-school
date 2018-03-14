@@ -1,6 +1,7 @@
 package treesADT;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 class RedBlackNode {
@@ -300,19 +301,109 @@ public class RedBlackTree {
     RedBlackTree T = new RedBlackTree();
     int[] keys = {34, 1, 32, 53, -23, 234, 32, 123, 30, 4};
 
+    //
+
     // Build tree via inserts
     for (int key : keys) {
       T.rbInsert(new RedBlackNode(key));
     }
 
-    printList(T.rbSort(T.TRoot));
+    // print level order
+    printLevelOrder(T.rbLevelOrderTraversal(T.TRoot));
+
+    //    printList(T.rbSort(T.TRoot));
 
   }
 
-  public static void printList(List<RedBlackNode> list) {
-    for (RedBlackNode node : list) {
-      System.out.println(node.key);
+  public static void printLevelOrder(List<List<RedBlackNode>> lol) {
+    for (List<RedBlackNode> level : lol) {
+      printList(level);
+      System.out.println("");
     }
   }
 
+  public static void printList(List<RedBlackNode> list) {
+    for (RedBlackNode node : list)
+      System.out.print(node.key + "\t");
+  }
+
+
+  public List<List<RedBlackNode>> rbLevelOrderTraversal(RedBlackNode root) {
+    LinkedList<RedBlackNode> frontier = new LinkedList<RedBlackNode>();
+    List<List<RedBlackNode>> ret = new LinkedList<List<RedBlackNode>>();
+    if (root == null)
+      return ret;
+    frontier.add(root);
+    frontier.add(null); // marking end of first level
+    return bfs(frontier, ret, new LinkedList<RedBlackNode>());
+  }
+
+  public List<List<RedBlackNode>> bfs(LinkedList<RedBlackNode> frontier,
+      List<List<RedBlackNode>> ret,
+      LinkedList<RedBlackNode> collectedList) {
+    RedBlackNode node = frontier.removeFirst();
+
+    if (node == null) { // if previous level end reached,
+      ret.add(collectedList); // list of elements collected so far in current level
+      collectedList = new LinkedList<RedBlackNode>();
+      frontier.add(null); // marking end for current level in the frontier
+      node = frontier.removeFirst();
+      if (node == null) // if the subsequent node is also null,
+        return ret; // end of tree traversal
+    }
+
+    if (node.left != null)
+      frontier.add(node.left);
+    if (node.right != null)
+      frontier.add(node.right);
+
+    collectedList.add(node);
+
+    return bfs(frontier, ret, collectedList);
+  }
+
+  public int rbHeight(RedBlackNode x) {
+
+  }
+
+
+  private int dfs(String thisURL, int depth, int pageCount) {
+    // load from URL
+    Document page = loadFromURL(thisURL, false);
+    visited.add(thisURL);
+
+    // handling redirects
+    if (page == null)
+      return -1;
+
+    // extract unique crawlable URLs from the page
+    List<String[]> urlTxtPairs = getValidURLsFromPage(page);
+
+    // iterate over all URLs parsed or till expected page count reached
+    for (int i = 0; i < urlTxtPairs.size() && pageCount < config.getPageCount(); i++) {
+      String text = urlTxtPairs.get(i)[1];
+      String url = urlTxtPairs.get(i)[0];
+
+      // check if url has already been registered
+      if (visited.contains(url))
+        continue;
+
+      // write to output
+      println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
+      System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
+
+      // add inLink
+      addInLink(thisURL, url);
+
+      // if depth has not reached maximum allowed depth and target page count not reached,
+      // traverse recursively depth-first
+      if (depth < config.getMaxDepth() && pageCount < config.getPageCount()) {
+        int dfsPageCount = dfs(url, depth + 1, pageCount);
+        if (dfsPageCount == -1)
+          continue;
+        pageCount = dfsPageCount;
+      }
+    }
+    return pageCount;
+  }
 }
