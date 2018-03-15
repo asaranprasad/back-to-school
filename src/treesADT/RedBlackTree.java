@@ -1,8 +1,11 @@
 package treesADT;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Scanner;
+import com.sun.org.apache.xalan.internal.xsltc.compiler.sym;
 
 class RedBlackNode {
   public RedBlackNode p;
@@ -298,10 +301,9 @@ public class RedBlackTree {
   }
 
   public static void main(String[] args) {
+    String fileName = "numbers";
     RedBlackTree T = new RedBlackTree();
-    int[] keys = {34, 1, 32, 53, -23, 234, 32, 123, 30, 4};
-
-    //
+    List<Integer> keys = textFileToIntList("./input/" + fileName + ".txt");
 
     // Build tree via inserts
     for (int key : keys) {
@@ -311,8 +313,72 @@ public class RedBlackTree {
     // print level order
     printLevelOrder(T.rbLevelOrderTraversal(T.TRoot));
 
-    //    printList(T.rbSort(T.TRoot));
+    Scanner scan = new Scanner(System.in);
+    int option = 0;
+    do {
+      System.out.println("Please enter an option number");
+      System.out.println("1. sort");
+      System.out.println("2. search");
+      System.out.println("3. min");
+      System.out.println("4. max");
+      System.out.println("5. successor");
+      System.out.println("6. predecessor");
+      System.out.println("7. insert");
+      System.out.println("8. delete");
+      System.out.println("9. print-tree");
+      System.out.println("10. quit");
+      option = scan.nextInt();
 
+      RedBlackNode root = T.TRoot;
+      switch (option) {
+        case 1:
+          printList(T.rbSort(root));
+          break;
+        case 2:
+          System.out.println("Enter the integer value to search: ");
+          int k = scan.nextInt();
+          if (T.rbSearch(root, k) == T.TNil)
+            System.out.println("Key Found in Tree");
+          else
+            System.out.println("Key Not Found in Tree");
+          break;
+        case 3:
+          System.out.println(T.rbMin(root));
+          break;
+        case 4:
+          System.out.println(T.rbMax(root));
+          break;
+        case 5:
+          System.out.println("Enter the integer value to find successor for: ");
+          int s = scan.nextInt();
+          RedBlackNode node = T.rbSearch(root, s);
+          System.out.println(T.rbSuccessor(node).key);
+          break;
+        case 6:
+          System.out.println("Enter the integer value to find predecessor for: ");
+          s = scan.nextInt();
+          node = T.rbSearch(root, s);
+          System.out.println(T.rbPredecessor(node).key);
+          break;
+        case 7:
+          System.out.println("Enter the integer value to insert: ");
+          s = scan.nextInt();
+          T.rbInsert(new RedBlackNode(s));
+          System.out.println("Done");
+          break;
+        case 8:
+          System.out.println("Enter the key value to delete from the tree: ");
+          s = scan.nextInt();
+          T.rbDelete(new RedBlackNode(s));
+          System.out.println("Done");
+          break;
+        case 9:
+          printLevelOrder(T.rbLevelOrderTraversal(root));
+          break;
+      }
+      System.out.println("tree-height: " + T.rbHeight(T.TRoot));
+    } while (option != 9);
+    scan.close();
   }
 
   public static void printLevelOrder(List<List<RedBlackNode>> lol) {
@@ -363,47 +429,34 @@ public class RedBlackTree {
   }
 
   public int rbHeight(RedBlackNode x) {
-
+    return dfs(x, 0);
   }
 
 
-  private int dfs(String thisURL, int depth, int pageCount) {
-    // load from URL
-    Document page = loadFromURL(thisURL, false);
-    visited.add(thisURL);
+  private int dfs(RedBlackNode x, int depth) {
+    if (x == null)
+      return depth;
 
-    // handling redirects
-    if (page == null)
-      return -1;
+    int depth1 = dfs(x.left, depth + 1);
+    int depth2 = dfs(x.right, depth + 1);
 
-    // extract unique crawlable URLs from the page
-    List<String[]> urlTxtPairs = getValidURLsFromPage(page);
+    return depth1 > depth2 ? depth1 : depth2;
+  }
 
-    // iterate over all URLs parsed or till expected page count reached
-    for (int i = 0; i < urlTxtPairs.size() && pageCount < config.getPageCount(); i++) {
-      String text = urlTxtPairs.get(i)[1];
-      String url = urlTxtPairs.get(i)[0];
-
-      // check if url has already been registered
-      if (visited.contains(url))
-        continue;
-
-      // write to output
-      println(output, (++pageCount) + " | " + text + " | " + depth + " | " + url);
-      System.out.println((pageCount) + " | " + text + " | " + depth + " | " + url);
-
-      // add inLink
-      addInLink(thisURL, url);
-
-      // if depth has not reached maximum allowed depth and target page count not reached,
-      // traverse recursively depth-first
-      if (depth < config.getMaxDepth() && pageCount < config.getPageCount()) {
-        int dfsPageCount = dfs(url, depth + 1, pageCount);
-        if (dfsPageCount == -1)
-          continue;
-        pageCount = dfsPageCount;
+  public static List<Integer> textFileToIntList(String filePath) {
+    List<Integer> numbers = new ArrayList<Integer>();
+    try {
+      Scanner sc = new Scanner(new File(filePath));
+      while (sc.hasNextLine()) {
+        String line = sc.nextLine();
+        String[] numStrings = line.split(" ");
+        for (String numString : numStrings)
+          numbers.add(Integer.parseInt(numString));
       }
+      sc.close();
+    } catch (Exception e) {
+      e.printStackTrace();
     }
-    return pageCount;
+    return numbers;
   }
 }
