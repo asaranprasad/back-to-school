@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
-import com.sun.org.apache.xalan.internal.xsltc.compiler.sym;
 
 class RedBlackNode {
   public RedBlackNode p;
@@ -316,7 +315,7 @@ public class RedBlackTree {
     Scanner scan = new Scanner(System.in);
     int option = 0;
     do {
-      System.out.println("Please enter an option number");
+      System.out.println("\nPlease enter an option number");
       System.out.println("1. sort");
       System.out.println("2. search");
       System.out.println("3. min");
@@ -338,26 +337,34 @@ public class RedBlackTree {
           System.out.println("Enter the integer value to search: ");
           int k = scan.nextInt();
           if (T.rbSearch(root, k) == T.TNil)
-            System.out.println("Key Found in Tree");
-          else
             System.out.println("Key Not Found in Tree");
+          else
+            System.out.println("Key Found in Tree");
           break;
         case 3:
-          System.out.println(T.rbMin(root));
+          System.out.println(T.rbMin(root).key);
           break;
         case 4:
-          System.out.println(T.rbMax(root));
+          System.out.println(T.rbMax(root).key);
           break;
         case 5:
           System.out.println("Enter the integer value to find successor for: ");
           int s = scan.nextInt();
           RedBlackNode node = T.rbSearch(root, s);
+          if (node == T.TNil) {
+            System.out.println("Node with Key " + s + " not found");
+            break;
+          }
           System.out.println(T.rbSuccessor(node).key);
           break;
         case 6:
           System.out.println("Enter the integer value to find predecessor for: ");
           s = scan.nextInt();
           node = T.rbSearch(root, s);
+          if (node == T.TNil) {
+            System.out.println("Node with Key " + s + " not found");
+            break;
+          }
           System.out.println(T.rbPredecessor(node).key);
           break;
         case 7:
@@ -369,7 +376,12 @@ public class RedBlackTree {
         case 8:
           System.out.println("Enter the key value to delete from the tree: ");
           s = scan.nextInt();
-          T.rbDelete(new RedBlackNode(s));
+          node = T.rbSearch(root, s);
+          if (node == T.TNil) {
+            System.out.println("Node with Key " + s + " not found");
+            break;
+          }
+          T.rbDelete(node);
           System.out.println("Done");
           break;
         case 9:
@@ -377,7 +389,7 @@ public class RedBlackTree {
           break;
       }
       System.out.println("tree-height: " + T.rbHeight(T.TRoot));
-    } while (option != 9);
+    } while (option != 10);
     scan.close();
   }
 
