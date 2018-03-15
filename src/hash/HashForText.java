@@ -82,7 +82,6 @@ class LinkedListKeyNodes {
 }
 
 
-
 public class HashForText {
 
   // size of the hash table - a prime
@@ -159,18 +158,21 @@ public class HashForText {
   }
 
   public void parseAndPushStrings(String corpus) {
-    // splits word by any unicode character that is not a letter
-    String[] words = corpus.trim().split("\\P{L}+");
+    // splits on all non-alphanumeric characters except '
+    String[] words = corpus.trim().split("[^\\w']+");
 
     // push each word into the hashTable
     for (String word : words) {
+      if (word.length() < 1)
+        continue;
       increase(word);
     }
   }
 
+
   public static void main(String[] args) {
-    //    String fileName = "alice_in_wonderland";
-    String fileName = "alice_in_wonderland_orig";
+    String fileName = "test";
+    //    String fileName = "alice_in_wonderland_orig";
     String corpus = textFileToString("./input/" + fileName + ".txt");
     HashForText hft = new HashForText();
     hft.parseAndPushStrings(corpus);

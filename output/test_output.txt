@@ -5,10 +5,8 @@ sentence : 5
 narrates : 1
 a : 12
 majority : 1
-s : 1
 previous : 1
 paragraph : 5
-It : 1
 sentences : 1
 be : 1
 an : 1
@@ -31,6 +29,7 @@ the : 2
 few : 1
 not : 1
 situations : 1
+It's : 1
 you : 2
 idea : 1
 able : 1
