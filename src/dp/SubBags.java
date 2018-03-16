@@ -1,25 +1,65 @@
 package dp;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
 
 public class SubBags {
 
-  List<Integer> primeNumbers;
+  HashSet<Integer> primeNumbers;
   int lastPrimeNumber;
 
   public SubBags() {
-    primeNumbers = new ArrayList<Integer>();
+    primeNumbers = new HashSet<Integer>();
+    initPrimeNumbers();
+  }
+
+  private void initPrimeNumbers() {
     primeNumbers.add(2);
     primeNumbers.add(3);
     lastPrimeNumber = 3;
   }
 
   private int subBagsWithPrimeWeight(int[] input) {
+    int n = input.length;
+    int[][] C = new int[n + 1][n + 1];
+
+
+    for (int i = 1; i <= n; i++) {
+      for (int j = 1; j <= n; j++) {
+        C[i][j] = Integer.MIN_VALUE;
+
+        if (i == j) {
+          int w = weight(input, i - 1, j - 1);
+          if (isPrime(w))
+            C[i][j] = 1;
+        }
+
+        for (int k = i + 1; k <= j; k++) {
+          for (int m = k + 1; m <= j; m++) {
+            int wik = weight(input, i - 1, k - 1);
+            int wmj = weight(input, m - 1, j - 1);
+            if (isPrime(wik + wmj)) {
+              if (C[i][j] < C[i][k] + C[m][j] + 1)
+                C[i][j] = C[i][k] + C[m][j] + 1;
+            } else {
+              if (C[i][j] < C[i][k] + C[m][j])
+                C[i][j] = C[i][k] + C[m][j];
+            }
+          }
+        }
+      }
+    }
+    return C[n][n];
+  }
+
+  private boolean isPrime(int i) {
+    populatePrimeNumbers(lastPrimeNumber + 1, i);
+    return primeNumbers.contains(i);
+  }
+
+  private int weight(int[] input, int start, int end) {
     int sum = 0;
-    for (int in : input)
-      sum += in;
-    populatePrimeNumbers(lastPrimeNumber + 1, sum);
+    for (int i = start; i <= end; i++)
+      sum += input[i];
     return sum;
   }
 
