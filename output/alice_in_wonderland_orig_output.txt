@@ -1,2422 +1,2422 @@
 Key : Count
 -----------
-convert : 1
-protect : 2
-serpent : 4
-violent : 1
-present : 1
-running : 4
-through : 10
-ADVENTURES : 2
-mission : 3
-whisper : 1
-somehow : 1
-flowers : 2
-sitting : 6
-current : 1
-answers : 1
-croquet : 8
-upright : 1
-sharply : 1
-letters : 1
-thought : 20
-variety : 1
-prevent : 1
-writing : 4
-minutes : 4
-doorway : 1
-version : 1
-follows : 1
-nursing : 1
-profits : 1
-shorter : 2
-turning : 6
-request : 1
-venture : 1
-swallow : 1
-various : 2
-_that's_ : 1
-network : 1
-destroy : 2
-persons : 1
-jurymen : 2
-curious : 7
-nonproprietary : 1
-custody : 1
-animal's : 1
-written : 4
-witness : 8
-furious : 1
-quietly : 2
-purpose : 1
-puzzled : 1
-corrupt : 1
-reports : 1
-suppose : 2
-crossly : 1
-trumpet : 3
-sternly : 1
-nervous : 1
-history : 2
-returns : 1
-survive : 1
-royalty : 1
-country : 2
-Wouldn't : 1
-without : 15
-furrows : 1
-support : 4
-untwist : 1
-Language : 1
-' : 11
-moment's : 1
-Cheshire : 5
-Atheling : 1
-Creating : 1
-readable : 2
-REPLACEMENT : 1
-0 : 1
-1 : 47
-2 : 3
-CATERPILLAR : 1
-3 : 11
-wouldn't : 1
-4 : 5
-Sentence : 1
-5 : 4
-Produced : 2
-6 : 2
-Consider : 1
-7 : 3
-_please_ : 1
-accepted : 2
-8 : 6
-9 : 4
-draggled : 1
-accessed : 1
-hedgehog : 3
-offended : 5
-Director : 1
-Internal : 1
-official : 3
-attached : 1
-changing : 1
-indicate : 1
-modified : 1
-reaching : 2
-Somebody : 1
-appeared : 1
-A : 9
-B : 2
-evidence : 4
-C : 3
-disagree : 1
-nibbling : 2
-D : 2
-remained : 2
-happened : 2
-disclaim : 1
-E : 22
-specific : 1
-branches : 1
-hatching : 1
-shedding : 1
-licensed : 1
-received : 5
-F : 10
-encoding : 1
-Sections : 1
-mischief : 1
-Suddenly : 3
-included : 3
-graceful : 1
-children : 2
-repeated : 2
-wandered : 1
-finished : 3
-I : 126
-Robinson : 1
-critical : 1
-remarked : 1
-clinging : 1
-distance : 3
-addition : 1
-Literary : 13
-_little_ : 1
-engraved : 1
-creating : 3
-research : 2
-pardoned : 1
-flamingo : 2
-crouched : 1
-feelings : 1
-approach : 1
-clapping : 1
-Dormouse : 6
-flinging : 1
-_myself_ : 1
-remedies : 1
-overhead : 1
-periodic : 1
-diamonds : 1
-trembled : 1
-remember : 3
-fighting : 1
-entrance : 1
-relieved : 1
-bringing : 1
-O : 3
-unfolded : 2
-vanished : 2
-speaking : 1
-feathers : 1
-pleasing : 1
-S : 5
-knocking : 2
-facility : 1
-original : 1
-creation : 1
-watching : 1
-unlocked : 1
-sentence : 6
-produced : 1
-U : 3
-wretched : 1
-cucumber : 1
-includes : 1
-consider : 1
-frighten : 1
-V : 1
-executed : 2
-confused : 1
-standing : 1
-pleasant : 1
-W : 1
-X : 1
-outdated : 1
-emphasis : 1
-painting : 2
-_plenty_ : 1
-POSSIBILITY : 1
-DISTRIBUTOR : 1
-creature : 3
-uncorked : 1
-darkness : 1
-donation : 1
-identify : 1
-shifting : 1
-grinning : 1
-thinking : 4
-followed : 5
-hundreds : 1
-obsolete : 1
-physical : 2
-provided : 3
-dripping : 1
-adoption : 1
-harmless : 1
-discover : 1
-editions : 4
-carrying : 2
-buttered : 1
-actually : 1
-employee : 1
-helpless : 1
-knuckles : 1
-directly : 2
-rumbling : 1
-notifies : 1
-required : 1
-secondly : 1
-possible : 1
-pleasure : 1
-brushing : 1
-somebody : 2
-tumbling : 1
-together : 5
-anything : 7
-a : 327
-b : 1
-20 : 1
-stamping : 2
-startled : 2
-sneezing : 4
-promised : 1
-hopeless : 1
-anywhere : 2
-c : 3
-30 : 1
-whenever : 1
-spirited : 1
-12 : 1
-reported : 1
-representations : 1
-unrolled : 1
-soldiers : 3
-smallest : 1
-rattling : 1
-50 : 1
-e : 1
-shoulder : 1
-thousand : 1
-whatever : 2
-straight : 1
-violates : 1
-60 : 1
-resource : 1
-pointing : 1
-suddenly : 8
-Duchess's : 2
-nonsense : 2
-skurried : 1
-90 : 2
-uneasily : 1
-frowning : 1
-constant : 2
-64 : 1
-ensuring : 1
-expenses : 2
-pressing : 1
-soothing : 1
-swimming : 2
-preserve : 1
-business : 5
-ventured : 2
-computer : 2
-severely : 3
-pictures : 3
-whiskers : 2
-payments : 3
-shouting : 2
-'I : 2
-prisoner : 1
-politely : 1
-throwing : 1
-stirring : 1
-conquest : 1
-currants : 1
-opposite : 1
-solemnly : 1
-s : 1
-serpents : 2
-stopping : 1
-whispers : 1
-possibly : 2
-shutting : 2
-question : 8
-slippery : 1
-hurrying : 1
-yourself : 1
-F3 : 1
-mushroom : 7
-upstairs : 1
-trotting : 2
-previous : 1
-surprise : 3
-numerous : 1
-stupidly : 1
-pretexts : 1
-puzzling : 1
-property : 2
-BE : 1
-AK : 1
-Character : 1
-IF : 1
-000 : 1
-Fairbanks : 1
-II : 1
-ME : 2
-OF : 12
-501 : 2
-beheading : 1
-PG : 1
-shouldn't : 1
-IN : 6
-801 : 1
-NO : 2
-VI : 1
-IV : 1
-available : 2
-809 : 1
-OR : 6
-IX : 1
-Gutenberg : 83
-TO : 2
-'_poison_' : 1
-596 : 1
-financial : 1
-described : 1
-succeeded : 2
-_speaker_ : 1
-UT : 1
-delighted : 2
-Ah : 2
-advisable : 1
-specified : 2
-exclaimed : 1
-accepting : 1
-calculate : 1
-hedgehogs : 2
-He : 4
-Donations : 2
-defective : 3
-addressed : 1
-immediate : 3
-An : 2
-assembled : 2
-If : 19
-concluded : 1
-beginning : 5
-Executive : 1
-unenforceability : 1
-entangled : 2
-miserable : 1
-Do : 6
-As : 10
-paragraph : 10
-Of : 3
-energetic : 1
-At : 9
-confirmed : 1
-Dr : 2
-appearing : 1
-different : 2
-agreement : 17
-In : 7
-Oh : 15
-encourage : 1
-Copyright : 2
-remaining : 1
-obtaining : 2
-trademark : 10
-gardeners : 2
-charities : 1
-'AS : 1
-receiving : 1
-By : 3
-determine : 1
-including : 7
-Is : 1
-We : 4
-addresses : 1
-On : 2
-attending : 1
-Conqueror : 2
-pineapple : 1
-No : 7
-It : 19
-scattered : 1
-additions : 1
-displayed : 1
-housemaid : 1
-alternate : 1
-flamingos : 1
-remarking : 2
-beautiful : 2
-direction : 3
-Curiouser : 1
-subscribe : 1
-principal : 1
-proofread : 1
-parchment : 2
-Professor : 1
-organized : 1
-indemnify : 1
-liability : 2
-saucepans : 1
-mentioned : 1
-generally : 3
-cupboards : 2
-So : 9
-gutenberg : 6
-2001 : 1
-IS' : 1
-performed : 1
-To : 5
-excellent : 1
-trembling : 4
-telescope : 3
-committed : 1
-stretched : 2
-Presently : 1
-1500 : 1
-deletions : 1
-My : 1
-carefully : 1
-squeaking : 1
-existence : 1
-be : 56
-continued : 2
-splashing : 1
-2006 : 1
-permanent : 1
-wriggling : 1
-whispered : 1
-producing : 1
-certainly : 4
-locations : 2
-confusing : 1
-shrinking : 4
-wondering : 1
-permitted : 2
-creatures : 3
-bristling : 1
-something : 10
-he : 21
-pattering : 3
-donations : 12
-fluttered : 1
-patriotic : 1
-ma : 1
-am : 6
-waistcoat : 2
-if : 27
-an : 20
-following : 3
-submitted : 1
-providing : 4
-complying : 3
-swallowed : 1
-advisable' : 1
-1916 : 1
-employees : 2
-MAD : 1
-me : 28
-treatment : 1
-execution : 2
-evidently : 1
-barrowful : 2
-sensation : 2
-confusion : 4
-AND : 4
-do : 40
-I'd : 1
-commotion : 1
-stockings : 1
-as : 91
-4557 : 1
-wonderful : 1
-sometimes : 3
-at : 88
-of : 306
-earnestly : 1
-slightest : 1
-go : 22
-fountains : 2
-loveliest : 1
-equipment : 3
-END : 1
-naturedly : 1
-hurriedly : 2
-oh : 2
-forgotten : 2
-re : 2
-in : 215
-1887 : 1
-possessed : 1
-copyright : 13
-everybody : 1
-shoulders : 1
-exclusion : 1
-prosecute : 1
-yesterday : 1
-paperwork : 1
-CONSEQUENTIAL : 1
-TEA : 1
-EAT : 1
-countries : 1
-royalties : 2
-III : 1
-by : 45
-EIN : 1
-we : 12
-is : 60
-important : 4
-returning : 1
-I'm : 20
-on : 73
-it : 164
-no : 29
-promoting : 2
-'Oh : 1
-ye : 1
-muttering : 2
-8859 : 1
-exporting : 1
-courtiers : 1
-PIG : 1
-curiouser : 1
-surprised : 4
-computers : 2
-tm : 56
-THE : 11
-or : 106
-upsetting : 1
-so : 31
-volunteer : 1
-to : 325
-stupidest : 1
-instantly : 2
-violently : 3
-up : 44
-promotion : 1
-footsteps : 2
-my : 18
-FOR : 3
-provision : 1
-ANY : 3
-VII : 1
-authority : 1
-us : 4
-curiosity : 1
-NEW : 2
-BUT : 1
-anxiously : 5
-ISO : 1
-hypertext : 1
-USE : 1
-IRS : 1
-WHO : 1
-NOT : 2
-sorrowful : 1
-Additional : 1
-Compliance : 1
-YOU : 6
-19033 : 4
-accordance : 2
-84116 : 1
-_I_ : 5
-99712 : 1
-applicable : 3
-accessible : 1
-Wonderland : 3
-charitable : 1
-appearance : 1
-calculated : 1
-Can : 1
-Mad : 1
-And : 15
-deductible : 1
-remarkable : 2
-Foundation : 21
-End : 1
-remembered : 2
-additional : 3
-Cat : 9
-Are : 2
-indicating : 1
-All : 2
-compliance : 4
-Tea : 1
-reasonable : 1
-commercial : 1
-Off : 5
-complained : 1
-RACE : 1
-brightened : 1
-disclaimer : 2
-READ : 1
-See : 2
-Ann : 4
-Web : 3
-inaccurate : 1
-Canterbury : 1
-associated : 8
-Her : 2
-frightened : 3
-Get : 1
-She : 36
-references : 2
-scrambling : 1
-The : 64
-increasing : 1
-One : 3
-archbishop : 2
-Fourteenth : 1
-BILL : 1
-HAVE : 1
-Ugh : 2
-Everything : 1
-concerning : 2
-scratching : 1
-Pat : 3
-Let : 3
-KIND : 1
-TALE : 1
-discovered : 1
-electronic : 27
-accustomed : 1
-For : 7
-Any : 1
-paragraphs : 3
-individual : 4
-Nay : 1
-HOLE : 1
-containing : 1
-accusation : 1
-KING : 1
-recognized : 1
-familiarly : 1
-SEND : 1
-especially : 1
-GIVE : 1
-collection : 4
-dreadfully : 2
-bed : 1
-melancholy : 1
-'it' : 2
-But : 8
-transcribe : 1
-ornamented : 2
-assistance : 1
-registered : 2
-Use : 2
-underneath : 1
-had : 65
-EVEN : 1
-Who : 3
-beg : 2
-altogether : 1
-How : 8
-incomplete : 1
-Nor : 1
-Its : 2
-fee : 8
-Sit : 1
-LONG : 1
-regulating : 1
-THAT : 2
-VIII : 1
-Yes : 2
-Not : 2
-did : 12
-alteration : 1
-derivative : 3
-afterwards : 1
-mad : 3
-difficulty : 2
-can : 16
-SUCH : 1
-displaying : 4
-FULL : 2
-directions : 2
-and : 388
-compressed : 1
-FROM : 1
-Now : 5
-Run : 1
-fan : 9
-led : 4
-Volunteers : 1
-indirectly : 1
-impossible : 1
-particular : 4
-Our : 1
-passionate : 1
-telescopes : 1
-understand : 3
-splendidly : 1
-end : 6
-WILL : 1
-performing : 3
-ear : 3
-forgetting : 1
-sad : 2
-Why : 8
-are : 35
-kid : 5
-cat : 6
-DOWN : 1
-THIS : 5
-limitation : 3
-quarreling : 1
-sea : 2
-far : 4
-all : 77
-Two : 2
-unpleasant : 1
-'And : 1
-dog : 1
-POOL : 1
-ate : 1
-eat : 6
-tea : 6
-red : 1
-off : 26
-invalidity : 1
-WITH : 1
-processing : 1
-man : 2
-has : 5
-air : 5
-originator : 1
-lap : 1
-completely : 1
-jar : 2
-see : 21
-You : 23
-gratefully : 1
-web : 3
-distribute : 5
-him : 6
-day : 9
-warranties : 1
-themselves : 3
-old : 3
-bit : 9
-her : 107
-adventures : 1
-croqueting : 1
-pig : 2
-arm : 10
-she : 202
-get : 19
-_THE : 1
-ran : 10
-the : 741
-few : 4
-one : 34
-WORK : 1
-eye : 2
-SONS : 2
-procession : 2
-invitation : 2
-his : 17
-law : 3
-everything : 3
-hit : 2
-let : 1
-YORK : 2
-production : 1
-swallowing : 1
-lay : 2
-met : 3
-statements : 1
-fix : 1
-wig : 1
-ten : 5
-rat : 1
-net : 2
-may : 18
-whatsoever : 2
-for : 64
-permission : 7
-paw : 2
-sat : 5
-I'll : 10
-any : 47
-org : 13
-doubtfully : 1
-box : 6
-key : 9
-lit : 1
-new : 3
-pay : 1
-raw : 1
-cur : 1
-got : 16
-non : 1
-fly : 1
-I've : 10
-hot : 2
-saw : 5
-but : 43
-was : 164
-newsletter : 1
-cut : 1
-'Let : 1
-est : 1
-set : 17
-tax : 6
-fur : 2
-say : 13
-use : 14
-sir : 6
-cry : 3
-who : 19
-how : 13
-lot : 1
-dry : 6
-pop : 1
-nor : 2
-yer : 2
-wet : 2
-its : 25
-not : 54
-way : 23
-yet : 6
-low : 12
-too : 9
-zip : 1
-pot : 1
-top : 4
-won : 2
-now : 21
-own : 2
-SAM'L : 2
-possession : 1
-'Who : 1
-volunteers : 5
-our : 10
-'Tis : 1
-sky : 3
-It's : 5
-throughout : 1
-why : 7
-row : 1
-out : 55
-usurpation : 1
-put : 9
-two : 13
-provisions : 1
-you : 138
-ALICE : 2
-try : 3
-txt : 1
-AGREE : 2
-6221541 : 1
-www : 8
-MERCHANTIBILITY : 1
-ASCII : 2
-PGLAF : 1
-Replacement : 1
-'I'll : 2
-EBOOK : 2
-Caterpillar : 12
-synonymous : 1
-_Everybody_ : 1
-'tis : 2
-it's : 11
-_All : 1
-DRINK : 1
-Jack : 1
-tm's : 1
-Ahem : 1
-Read : 1
-Call : 2
-Dear : 1
-Lake : 1
-SENDS : 1
-RIGHT : 1
-UNDER : 1
-QUEEN : 1
-Date : 1
-TEARS : 1
-Hare : 8
-disappeared : 1
-Alas : 1
-Said : 1
-OTHER : 1
-Distributed : 2
-THOSE : 1
-Bill : 4
-Have : 1
-Here : 5
-Come : 7
-Information : 5
-Take : 2
-Keep : 1
-Once : 2
-Dodo : 7
-STOLE : 1
-Hold : 2
-Duck : 3
-Team : 2
-educational : 1
-Wake : 1
-Mind : 1
-King : 23
-Mine : 1
-Good : 1
-Irma : 2
-Five : 2
-Fish : 2
-OWNER : 1
-Give : 2
-Cats : 1
-maintaining : 1
-dead : 2
-TARTS : 1
-Even : 1
-Frog : 1
-START : 2
-disclaimers : 1
-Hart : 2
-replacement : 3
-Then : 8
-face : 9
-complaining : 1
-PARTY : 1
-_me_ : 1
-aged : 1
-each : 4
-That : 2
-back : 15
-caterpillar : 1
-When : 6
-head : 15
-Away : 1
-Full : 1
-immediately : 1
-idea : 7
-Salt : 1
-From : 1
-Last : 1
-Some : 2
-Well : 7
-cake : 2
-What : 11
-considering : 1
-Many : 1
-downloading : 1
-edge : 2
-deal : 5
-came : 25
-practically : 1
-made : 11
-Rule : 1
-Hush : 2
-Will : 1
-glad : 3
-Down : 1
-This : 13
-City : 1
-fundraising : 1
-Mary : 4
-bend : 2
-card : 1
-data : 1
-game : 3
-bear : 1
-_is_ : 4
-They : 5
-been : 11
-_I'm_ : 1
-_no_ : 1
-race : 5
-_it_ : 1
-hand : 13
-care : 3
-half : 10
-Mississippi : 1
-need : 1
-beat : 1
-read : 7
-Miss : 2
-With : 1
-call : 2
-case : 1
-dare : 1
-dear : 13
-feel : 2
-bank : 3
-page : 2
-held : 2
-Room : 1
-generations : 2
-date : 2
-compilation : 1
-paid : 6
-baby : 6
-fear : 1
-fact : 4
-beds : 2
-heap : 1
-make : 11
-deep : 2
-DAMAGE : 1
-pack : 4
-safe : 1
-Sure : 2
-Next : 2
-hard : 5
-Soon : 1
-nice : 2
-fall : 4
-file : 2
-indignantly : 2
-life : 4
-Poor : 2
-high : 14
-hear : 7
-necessarily : 1
-mean : 5
-name : 7
-neck : 5
-find : 13
-said : 143
-alas : 3
-hall : 8
-unsolicited : 1
-explanation : 2
-distributed : 4
-fair : 1
-fine : 1
-free : 7
-kick : 1
-hate : 2
-pale : 2
-leap : 1
-chin : 4
-dark : 3
-Most : 1
-West : 1
-mail : 1
-fees : 4
-knee : 1
-gave : 5
-fell : 5
-Thus : 1
-discontinue : 1
-alternately : 1
-real : 1
-have : 22
-come : 8
-here : 14
-feet : 12
-Illustrator : 1
-main : 1
-information : 3
-interpreted : 1
-BREACH : 2
-quarrelling : 1
-keep : 3
-once : 12
-beautifully : 2
-side : 9
-like : 34
-take : 9
-prohibition : 1
-fire : 3
-eggs : 3
-Very : 2
-Fury : 2
-tale : 2
-Lory : 2
-done : 4
-near : 11
-Just : 7
-same : 12
-tied : 1
-late : 4
-mile : 2
-flat : 1
-desk : 1
-hold : 2
-fond : 2
-dish : 2
-dive : 1
-blue : 1
-neat : 1
-harm : 1
-hole : 3
-mind : 6
-LIABLE : 1
-wide : 2
-gone : 5
-help : 5
-home : 2
-good : 9
-lock : 1
-else : 3
-blew : 2
-fish : 1
-cart : 1
-seem : 3
-tail : 3
-nine : 3
-disk : 1
-sigh : 1
-Puss : 1
-does : 3
-left : 8
-meet : 3
-cats : 8
-legs : 2
-than : 10
-ears : 2
-felt : 7
-seen : 4
-book : 7
-pgdp : 2
-give : 6
-'Take : 1
-kill : 1
-cook : 7
-ADVICE : 1
-talk : 6
-pair : 4
-rate : 6
-hope : 4
-both : 5
-dogs : 3
-cool : 2
-milk : 1
-much : 14
-fast : 1
-girl : 2
-draw : 1
-goes : 2
-frog : 2
-best : 5
-even : 4
-them : 31
-corporation : 1
-lieu : 2
-owed : 1
-also : 2
-Your : 5
-impatiently : 2
-save : 2
-pegs : 1
-time : 22
-then : 25
-Foundation's : 3
-live : 2
-grin : 1
-tree : 6
-ring : 2
-long : 12
-days : 4
-atom : 1
-used : 4
-Northumbria' : 1
-tell : 9
-maps : 1
-that : 102
-void : 1
-hers : 2
-drew : 2
-easy : 3
-open : 4
-ever : 7
-wind : 1
-hung : 1
-pink : 1
-when : 32
-away : 18
-BEFORE : 1
-told : 1
-rise : 1
-arms : 5
-full : 14
-such : 16
-more : 23
-were : 30
-form : 4
-loud : 1
-blow : 1
-pope : 1
-last : 15
-salt : 2
-kept : 6
-door : 23
-from : 31
-some : 18
-well : 16
-what : 21
-RABBIT : 3
-site : 4
-nose : 1
-many : 4
-till : 6
-grew : 1
-ones : 1
-knew : 2
-drop : 1
-look : 5
-note : 1
-love : 2
-play : 6
-tone : 11
-roof : 3
-eyes : 10
-laws : 8
-part : 4
-less : 1
-hiss : 1
-move : 1
-lips : 1
-lest : 1
-swam : 3
-foot : 7
-will : 12
-past : 1
-down : 50
-this : 78
-rose : 3
-wood : 6
-wink : 1
-cost : 3
-ACTUAL : 1
-sent : 1
-PLEASE : 1
-She's : 1
-nest : 1
-want : 3
-tidy : 1
-'Such : 1
-rats : 1
-pool : 7
-they : 34
-into : 39
-DIRECT : 1
-whom : 1
-'What : 1
-paws : 1
-size : 10
-tart : 1
-wish : 9
-copy : 12
-list : 1
-word : 2
-four : 1
-Don't : 2
-over : 14
-miss : 1
-ORANGE : 1
-with : 112
-wore : 1
-room : 7
-took : 13
-hour : 2
-went : 25
-user : 3
-Let's : 1
-sure : 4
-know : 22
-next : 12
-grow : 8
-soon : 13
-proprietary : 1
-prominently : 2
-says : 1
-swim : 1
-wept : 1
-poor : 8
-http : 10
-show : 2
-NOTICE : 1
-rush : 1
-only : 16
-lost : 2
-upon : 17
-most : 4
-work : 49
-hurt : 3
-ways : 1
-REFUND : 1
-CAUCUS : 1
-shut : 3
-tiny : 3
-worm : 1
-spot : 1
-stop : 1
-just : 17
-very : 38
-owns : 2
-HEARTS : 1
-soup : 3
-wits : 1
-Who's : 1
-sort : 5
-EXCEPT : 1
-trot : 1
-turn : 1
-must : 23
-jury : 6
-PEPPER : 1
-he'll : 1
-can't : 8
-LITTLE : 1
-GROUND : 1
-your : 25
-EBook : 3
-_Are_ : 1
-ALICE'S : 3
-STRICT : 1
-we're : 2
-she's : 1
-opportunity : 2
-it'll : 2
-don't : 14
-we've : 1
-Alice : 166
-Chief : 1
-Proofreading : 2
-Catch : 1
-Edgar : 1
-Dinah : 5
-isn't : 1
-Email : 1
-you'd : 3
-_Was_ : 1
-considerable : 2
-Fetch : 1
-March : 9
-_beg_ : 1
-Melan : 1
-won't : 5
-_can_ : 2
-eBook : 6
-DAMAGES : 2
-added : 8
-After : 6
-Which : 2
-Plain : 2
-Speak : 1
-modification : 1
-abide : 1
-Knave : 6
-_are_ : 1
-GABRIEL : 2
-_all_ : 2
-Earls : 1
-Edwin : 1
-QUEEN'S : 1
-Three : 1
-There : 17
-While : 1
-_red_ : 1
-About : 1
-_You_ : 1
-Where : 3
-Jason : 2
-Kings : 1
-Trial : 1
-Found : 2
-Quick : 1
-began : 19
-hedge : 2
-Right : 1
-check : 2
-bread : 3
-Queen : 27
-_she_ : 1
-based : 2
-Never : 1
-occasionally : 1
-label : 1
-again : 28
-cease : 1
-Seven : 1
-magic : 1
-White : 15
-faces : 1
-Title : 1
-LICENSE : 2
-reach : 3
-chain : 1
-IMPLIED : 1
-agree : 7
-performances : 1
-eager : 1
-child : 2
-heard : 17
-field : 1
-Lewis : 3
-Newby : 1
-legal : 2
-infringement : 1
-intellectual : 2
-named : 1
-heads : 2
-place : 2
-being : 3
-begin : 3
-claim : 1
-death : 1
-piece : 5
-_I'll_ : 1
-chair : 1
-cakes : 3
-cried : 11
-climb : 1
-confirmation : 1
-email : 2
-LIMITED : 3
-Stuff : 1
-Still : 1
-asked : 4
-dried : 1
-table : 14
-First : 5
-dream : 2
-liked : 2
-Mouse : 21
-_was_ : 3
-Illustration : 26
-pglaf : 7
-choke : 1
-fetch : 1
-North : 1
-Terms : 2
-frame : 1
-Would : 4
-large : 22
-grand : 1
-elect : 1
-cards : 3
-afore : 1
-alarm : 1
-anger : 2
-above : 1
-leave : 4
-codes : 1
-cares : 1
-balls : 1
-hands : 6
-agent : 1
-Visit : 1
-needs : 1
-banks : 1
-kneel : 1
-alone : 4
-judge : 3
-dears : 2
-creep : 1
-_not_ : 4
-pages : 1
-Party : 1
-solicitation : 1
-alive : 1
-begun : 1
-bowed : 2
-green : 1
-crash : 2
-doing : 3
-fifth : 1
-fancy : 1
-speed : 1
-cause : 5
-makes : 5
-along : 4
-learn : 1
-fight : 1
-boxed : 1
-since : 3
-offer : 1
-bring : 1
-among : 9
-after : 10
-share : 1
-files : 2
-guard : 1
-taken : 1
-broke : 1
-thick : 1
-which : 26
-great : 19
-staff : 1
-arise : 1
-finds : 1
-means : 6
-birds : 7
-speak : 3
-going : 12
-shall : 5
-redistribute : 1
-refreshments : 1
-meant : 2
-bough : 1
-aloud : 2
-ready : 2
-goals : 1
-thank : 1
-plate : 1
-voice : 22
-close : 6
-distributing : 7
-comes : 2
-timid : 2
-mixed : 1
-watch : 2
-could : 27
-COMPANY : 2
-PROJECT : 4
-takes : 1
-bound : 2
-_two_ : 1
-three : 9
-later : 1
-drink : 3
-paper : 4
-there : 14
-sides : 2
-tried : 8
-tired : 4
-given : 1
-clubs : 1
-sleep : 3
-below : 5
-least : 4
-elbow : 1
-these : 8
-while : 5
-small : 9
-might : 7
-miles : 1
-stand : 1
-conversation : 2
-thing : 17
-glass : 9
-night : 2
-daisy : 1
-particularly : 1
-moral : 2
-where : 4
-brass : 1
-moved : 2
-_you_ : 5
-solid : 1
-about : 40
-occur : 1
-FITNESS : 1
-raven : 1
-often : 2
-trial : 4
-their : 10
-locks : 1
-found : 22
-twice : 2
-Bill's : 1
-seems : 2
-sadly : 1
-lamps : 1
-sense : 1
-agony : 1
-pause : 1
-doubt : 1
-sharp : 3
-noise : 3
-right : 10
-knelt : 1
-think : 16
-under : 15
-array : 1
-allow : 1
-distribution : 6
-smoke : 1
-stalk : 1
-crowd : 3
-pairs : 1
-She'll : 1
-whole : 6
-kills : 1
-tears : 3
-sight : 3
-grass : 2
-never : 10
-carry : 1
-links : 3
-state : 6
-shore : 2
-angry : 3
-white : 7
-taste : 2
-loose : 1
-walks : 1
-saves : 1
-times : 2
-floor : 2
-spoke : 5
-consultation : 1
-queer : 3
-shoes : 1
-other : 34
-requirements : 4
-forth : 8
-King's : 1
-CROQUET : 1
-yards : 1
-grins : 1
-lives : 3
-trees : 4
-water : 3
-lying : 4
-those : 8
-years : 1
-drunk : 1
-shook : 3
-house : 12
-taxes : 1
-using : 4
-apply : 1
-flown : 1
-honor : 2
-whose : 1
-stole : 1
-royal : 1
-guess : 1
-blows : 1
-ought : 5
-doors : 2
-swamp : 1
-money : 3
-weary : 1
-round : 1
-wings : 1
-quiet : 1
-world : 4
-quite : 19
-toffy : 1
-first : 16
-still : 3
-restrictions : 2
-front : 2
-curls : 1
-sound : 2
-stood : 5
-crown : 3
-mouse : 5
-roast : 1
-EXPRESS : 1
-threw : 1
-cross : 2
-usual : 2
-SERIES_ : 1
-owner : 4
-write : 1
-irons : 1
-That's : 5
-toast : 1
-rules : 4
-every : 3
-would : 12
-terms : 19
-costs : 2
-prove : 1
-roses : 2
-reply : 2
-head's : 1
-until : 3
-group : 1
-print : 1
-grown : 1
-court : 6
-nurse : 1
-mouth : 3
-known : 1
-start : 1
-PURPOSE : 1
-gross : 1
-tarts : 4
-thunderstorm : 1
-What's : 1
-thoughtfully : 1
-sizes : 1
-thump : 2
-visit : 2
-nasty : 1
-words : 6
-empty : 1
-short : 1
-party : 7
-worse : 1
-stool : 1
-forty : 1
-game's : 1
-worth : 1
-types : 1
-stoop : 1
-works : 32
-hadn't : 1
-roots : 1
-sulky : 1
-virus : 1
-shyly : 1
-didn't : 4
-hurry : 5
-sorts : 1
-You're : 4
-turns : 1
-You'll : 1
-sleep' : 1
-story : 1
-EVIDENCE : 1
-they'd : 1
-Defect : 1
-that's : 3
-Sha'n't : 1
-REMEDIES : 1
-what's : 2
-_That_ : 1
-'round : 16
-Herald : 1
-Mercia : 1
-INDIRECT : 1
-Eaglet : 2
-Before : 1
-wasn't : 1
-Rabbit : 28
-French : 2
-International : 1
-Domain : 1
-Please : 4
-you're : 4
-Isbell : 2
-you'll : 1
-PROVIDED : 1
-CONTRACT : 1
-Taking : 1
-Canary : 1
-begged : 1
-Public : 1
-damage : 1
-you've : 2
-Brandy : 1
-Either : 1
-ANYTHING : 1
-Pigeon : 6
-_have_ : 1
-eBooks : 7
-feeble : 1
-Spehar : 2
-Refund : 1
-handed : 2
-Caucus : 2
-Morcar : 1
-called : 10
-Online : 2
-change : 5
-Hearts : 6
-afraid : 6
-agreed : 1
-Hatter : 11
-legged : 1
-demand : 1
-Except : 2
-detach : 1
-United : 10
-placed : 1
-indeed : 5
-Gordon : 1
-charge : 6
-behind : 3
-defect : 2
-Nearly : 2
-choice : 2
-blades : 1
-become : 1
-Nobody : 2
-office : 2
-Pepper : 1
-ladder : 1
-sha'n't : 3
-advice : 1
-_then_ : 1
-effect : 2
-denial : 1
-Things : 1
-folded : 2
-choked : 1
-_that_ : 4
-middle : 5
-accept : 1
-picked : 2
-hedges : 1
-uncomfortable : 1
-filled : 1
-checks : 1
-Queens : 1
-_more_ : 1
-escape : 3
-garden : 14
-Contributions : 1
-access : 10
-_some_ : 1
-animal : 1
-circle : 1
-_what_ : 4
-fallen : 3
-locked : 1
-circumstances : 1
-seemed : 11
-before : 12
-peeped : 3
-Author : 1
-PUNITIVE : 1
-copied : 2
-States : 10
-riddle : 1
-marked : 7
-rabbit : 3
-_less_ : 1
-shaped : 1
-caused : 2
-chains : 1
-seated : 1
-search : 2
-arches : 1
-_this_ : 2
-_will_ : 1
-breath : 2
-dipped : 1
-shared : 1
-linked : 2
-savage : 1
-belong : 1
-making : 3
-WARRANTY : 2
-domain : 7
-places : 2
-Alice's : 6
-walked : 6
-appear : 1
-pieces : 2
-height : 4
-joined : 1
-chatte : 1
-longed : 1
-golden : 6
-August : 1
-Unless : 1
-signed : 2
-asleep : 2
-hookah : 3
-please : 8
-awhile : 2
-inches : 5
-credit : 1
-donate : 4
-scream : 1
-double : 1
-seeing : 1
-finger : 1
-opened : 6
-remain : 1
-active : 2
-caught : 2
-inside : 1
-rapped : 1
-happen : 1
-advise : 1
-second : 4
-obtain : 3
-roared : 1
-Prizes : 2
-asking : 3
-nearer : 1
-larger : 5
-coming : 4
-having : 3
-holder : 4
-ridges : 1
-smiled : 1
-taking : 1
-waited : 3
-looked : 18
-derive : 1
-public : 8
-played : 1
-spread : 3
-dishes : 1
-tucked : 3
-bright : 4
-fitted : 1
-leaves : 4
-passed : 1
-choose : 1
-medium : 5
-method : 1
-snatch : 2
-broken : 4
-finish : 1
-wander : 1
-either : 8
-teacup : 3
-beasts : 1
-remark : 1
-pigeon : 1
-length : 1
-patted : 1
-notice : 6
-family : 1
-phrase : 4
-copies : 7
-cannot : 5
-wanted : 1
-sudden : 3
-saucer : 1
-expend : 1
-viewed : 1
-refund : 8
-taller : 2
-_very_ : 2
-hardly : 3
-pardon : 3
-fright : 2
-seldom : 1
-MARMALADE : 1
-offers : 1
-binary : 1
-apples : 1
-people : 8
-hoping : 1
-jumped : 2
-online : 4
-effort : 2
-tipped : 1
-better : 3
-shriek : 2
-pulled : 1
-enough : 6
-rather : 10
-pocket : 4
-secure : 1
-freely : 4
-_must_ : 1
-dismay : 1
-forget : 1
-fairly : 1
-hearts : 1
-easily : 2
-longer : 1
-itself : 4
-paying : 2
-rocket : 1
-wheels : 1
-reason : 2
-format : 4
-flying : 1
-blasts : 2
-except : 1
-plates : 1
-kettle : 1
-number : 4
-around : 1
-voices : 3
-really : 3
-corner : 3
-sneeze : 1
-likely : 1
-flavor : 1
-bottle : 8
-anyone : 6
-nearly : 1
-extraordinary : 1
-saying : 2
-driest : 1
-splash : 1
-dozing : 1
-across : 5
-court_ : 1
-waving : 2
-pepper : 2
-zigzag : 1
-master : 1
-rising : 1
-crying : 1
-matter : 1
-temper : 2
-things : 5
-cherry : 1
-conversations : 2
-remove : 1
-solemn : 2
-merely : 1
-shrill : 2
-little : 57
-transcription : 1
-posted : 5
-scroll : 2
-flower : 1
-poured : 1
-murder : 1
-ground : 4
-theirs : 1
-listen : 2
-wonder : 6
-though : 2
-should : 12
-widest : 2
-throne : 1
-letter : 4
-moving : 1
-proved : 1
-answer : 3
-gloves : 10
-myself : 3
-moment : 17
-almost : 3
-stored : 1
-unlink : 1
-govern : 1
-honest : 1
-humbly : 1
-shiver : 1
-course : 8
-vulgar : 1
-always : 2
-forgot : 2
-sticks : 1
-contributions : 1
-tongue : 1
-There's : 5
-morsel : 1
-minute : 7
-turned : 7
-sleepy : 2
-exempt : 2
-follow : 1
-gently : 1
-within : 6
-lonely : 1
-profit : 1
-states : 4
-comply : 6
-chorus : 3
-lesson : 1
-donors : 1
-tiptoe : 1
-Where's : 2
-others : 4
-PARAGRAPH : 1
-butter : 3
-Trial's : 1
-velvet : 1
-stairs : 1
-sooner : 1
-tunnel : 1
-twelve : 1
-person : 5
-extent : 1
-AGREEMENT : 1
-purple : 1
-verses : 2
-proper : 1
-They're : 1
-Queen's : 1
-busily : 1
-shower : 2
-window : 7
-poison : 2
-summer : 1
-loudly : 3
-narrow : 1
-stupid : 1
-unless : 3
-sister : 5
-TRADEMARK : 1
-future : 3
-whilst : 1
-prison : 1
-guests : 1
-livery : 2
-lovely : 2
-sounds : 2
-quiver : 1
-struck : 2
-plenty : 1
-INCLUDING : 1
-errors : 1
-entity : 3
-prizes : 3
-trying : 6
-terror : 1
-inquisitively : 1
-insult : 1
-exists : 1
-return : 3
-softly : 1
-LIABILITY : 1
-Mouse's : 1
-GUTENBERG : 4
-thirty : 1
-opportunities : 1
-status : 4
-turkey : 1
-needn't : 1
-jurors : 1
-mostly : 2
-puzzle : 1
-slowly : 4
-haven't : 2
-_won't_ : 1
-DONATIONS : 1
-INDEMNITY : 1
-there's : 6
-Michael : 2
-doesn't : 3
-they're : 4
-Digging : 1
-they'll : 2
-Imagine : 1
-state's : 1
-they've : 1
-Defects : 1
-General : 3
-STORYLAND : 1
-Special : 1
-Release : 1
-Archive : 13
-decided : 1
-damaged : 1
-Silence : 2
-License : 10
-_hated_ : 1
-chanced : 1
-Vanilla : 2
-Updated : 1
-identification : 1
-labeled : 1
-fancied : 1
-changed : 3
-Stigand : 1
-English : 5
-engaged : 1
-Contact : 1
-affectionately : 2
-managed : 2
-Despite : 1
-Redistributing : 1
-William : 2
-Duchess : 21
-Carroll : 3
-nibbled : 2
-Service : 1
-NEGLIGENCE : 1
-Explain : 1
-damages : 2
-federal : 2
-Perhaps : 1
-leading : 1
-Footman : 5
-machine : 1
-Section : 7
-_could_ : 2
-Redistribution : 1
-_there_ : 1
-Nothing : 1
-flashed : 1
-Project : 83
-created : 2
-because : 4
-electronically : 2
-digging : 1
-changes : 1
-Revenue : 1
-carried : 1
-Exactly : 1
-beating : 1
-calling : 1
-feeling : 1
-reading : 3
-INCIDENTAL : 1
-breathe : 2
-ceiling : 1
-located : 4
-renamed : 1
-replace : 1
-_think_ : 1
-believe : 3
-hanging : 1
-DISCLAIMER : 1
-charges : 1
-Majesty : 5
-pebbles : 2
-Luckily : 1
-falling : 1
-leaning : 1
-general : 2
-hearing : 2
-scolded : 1
-Gregory : 1
-fumbled : 1
-knocked : 1
-meaning : 3
-finding : 2
-watched : 1
-Whoever : 1
-leaders : 1
-However : 7
-Serpent : 2
-fanning : 1
-delight : 1
-fifteen : 1
-Mission : 1
-proceed : 1
-already : 2
-crawled : 1
-daisies : 1
-depends : 1
-derived : 1
-receive : 3
-license : 4
-keeping : 3
-caldron : 2
-silence : 4
-Dinah'll : 1
-implied : 1
-include : 1
-languid : 1
-condemn : 1
-passage : 4
-granted : 1
-replied : 6
-animals : 4
-holding : 2
-picking : 1
-address : 1
-minding : 1
-kitchen : 2
-certain : 4
-noticed : 6
-examine : 1
-riddles : 2
-grinned : 2
-favored : 1
-against : 6
-sending : 1
-limited : 2
-instead : 1
-peeping : 1
-judging : 1
-rearing : 1
-failure : 1
-despair : 1
-crowded : 4
-himself : 1
-eagerly : 1
-sighing : 1
-meeting : 1
-herself : 33
-legally : 1
-between : 1
-dressed : 1
-talking : 7
-tremble : 1
-edition : 1
-contact : 3
-receipt : 2
-clearly : 1
-contain : 2
-appears : 1
-sharing : 1
-concept : 2
-oneself : 1
-farther : 1
-highest : 1
-arrived : 1
-raising : 1
-chimney : 5
-walking : 2
-gbnewby : 1
-redistributing : 1
-mistake : 2
-sneezed : 1
-immense : 1
-Rabbit's : 3
-dropped : 4
-disappointment : 1
-WONDERLAND : 4
-prepare : 2
-neither : 2
-happens : 3
-guessed : 2
-subject : 3
-gallons : 1
-opening : 2
-smaller : 1
-problem : 1
-imposed : 1
-verdict : 3
-panting : 1
-explain : 2
-slipped : 2
-another : 9
-produce : 1
-removed : 2
-soldier : 1
-mallets : 1
-cunning : 1
-several : 3
-measure : 1
-largest : 1
-getting : 7
-invited : 1
-adjourn : 1
-looking : 13
-perhaps : 1
-waiting : 4
-hurried : 5
-methods : 1
-Royalty : 2
-playing : 1
-footman : 2
-strange : 2
-quicker : 1
-library : 1
-settled : 3
-comfits : 2
-rapidly : 2
-burning : 1
-display : 1
-redistribution : 1
-warning : 1
-angrily : 1
-pressed : 2
-'William : 1
-custard : 1
-printed : 3
-curtain : 1
-solicit : 2
-FOUNDATION : 1
-company : 1
-natural : 1
-started : 2
-whether : 4
-nothing : 12
-expense : 1
-howling : 3
-staring : 1
-smoking : 1
-inwards : 1
-nowhere : 1
-efforts : 3
-viewing : 1
-provide : 7
-copying : 4
-cushion : 1
-grunted : 2
-shrieks : 1
-plainly : 1
-thunder : 1
-jumping : 2
-gravely : 1
-exactly : 2
-morning : 3
-shelves : 2
-perform : 1
-crimson : 1
-reasons : 1
-brought : 1
-closely : 1
-pulling : 1
-ferrets : 2
-formats : 2
-quarrel : 1
-shouted : 4
-corners : 1
-timidly : 4
-require : 1
-passion : 1
-outside : 5
-hunting : 1
-wasting : 2
-luckily : 1
-growing : 8
-trouble : 4
-maximum : 1
-curving : 1
-hastily : 8
-DISTRIBUTE : 1
-attempt : 1
-stopped : 2
-uniform : 1
-WARRANTIES : 2
-further : 1
-players : 3
-_yours_ : 1
-matters : 1
-however : 2
+convert : 1 -- 11214 
+protect : 2 -- 10238 10124 
+serpent : 4 -- 5951 5894 5782 5725 
+violent : 1 -- 5573 
+present : 1 -- 5149 
+running : 4 -- 8121 6208 3150 3122 
+through : 10 -- 11080 11017 7562 5922 4895 1638 1628 1269 1201 979 
+ADVENTURES : 2 -- 141 122 
+mission : 3 -- 12688 10652 10243 
+whisper : 1 -- 3383 
+somehow : 1 -- 2072 
+flowers : 2 -- 5018 966 
+sitting : 6 -- 7154 6949 6487 6335 5081 158 
+current : 1 -- 12892 
+answers : 1 -- 7445 
+croquet : 8 -- 8736 8166 8154 8031 7046 6762 6309 6289 
+upright : 1 -- 5414 
+sharply : 1 -- 1322 
+letters : 1 -- 1075 
+thought : 20 -- 8977 8950 8363 8254 8146 7601 6807 6147 5472 4859 4790 4544 4354 3195 2232 2147 2029 1897 1191 201 
+variety : 1 -- 12357 
+prevent : 1 -- 10615 
+writing : 4 -- 12086 11697 11537 7232 
+minutes : 4 -- 9357 5346 4227 2722 
+doorway : 1 -- 981 
+version : 1 -- 11267 
+follows : 1 -- 9034 
+nursing : 1 -- 6496 
+profits : 1 -- 11409 
+shorter : 2 -- 6072 5462 
+turning : 6 -- 9790 9687 7391 4833 3403 2964 
+request : 1 -- 11309 
+venture : 1 -- 6170 
+swallow : 1 -- 5640 
+various : 2 -- 10013 3670 
+_that's_ : 1 -- 1854 
+network : 1 -- 12973 
+destroy : 2 -- 11572 10369 
+persons : 1 -- 9514 
+jurymen : 2 -- 9470 9438 
+curious : 7 -- 9922 9218 8278 8153 7599 2644 1160 
+nonproprietary : 1 -- 11226 
+custody : 1 -- 8786 
+animal's : 1 -- 2298 
+written : 4 -- 12794 12016 11990 9603 
+witness : 8 -- 9385 9335 9281 9275 9174 9085 9082 9064 
+furious : 1 -- 8225 
+quietly : 2 -- 6935 5089 
+purpose : 1 -- 10180 
+puzzled : 1 -- 5819 
+corrupt : 1 -- 11788 
+reports : 1 -- 10187 
+suppose : 2 -- 8991 4994 
+crossly : 1 -- 2887 
+trumpet : 3 -- 9077 9025 8912 
+sternly : 1 -- 5183 
+nervous : 1 -- 9158 
+history : 2 -- 3365 2594 
+returns : 1 -- 11486 
+survive : 1 -- 12676 
+royalty : 1 -- 11402 
+country : 2 -- 10809 10765 
+Wouldn't : 1 -- 6819 
+without : 15 -- 12677 12087 11181 10977 10716 10491 10095 10092 8201 7365 6552 4564 3965 3190 203 
+furrows : 1 -- 8164 
+support : 4 -- 12976 12681 12390 10647 
+untwist : 1 -- 6033 
+Language : 1 -- 76 
+' : 11 -- 8627 8572 7336 5010 3537 3522 3515 3493 2953 2936 1852 
+moment's : 1 -- 6554 
+Cheshire : 5 -- 8285 6968 6947 6611 6599 
+Atheling : 1 -- 2944 
+Creating : 1 -- 10058 
+readable : 2 -- 12706 12353 
+REPLACEMENT : 1 -- 11955 
+0 : 1 -- 10025 
+1 : 47 -- 12721 12221 12144 12110 12094 11949 11841 11822 11731 11729 11727 11660 11605 11374 11371 11367 11340 11339 11337 11209 11192 11190 11160 11122 11081 11079 11077 11048 11045 11041 11018 11016 11014 10931 10827 10825 10814 10720 10545 10542 10502 10438 10435 10310 10298 10023 83 
+2 : 3 -- 12330 11824 10933 
+CATERPILLAR : 1 -- 5111 
+3 : 11 -- 12538 12502 12481 12467 12112 11951 11843 11725 11607 11050 10026 
+wouldn't : 1 -- 5388 
+4 : 5 -- 12658 12469 12096 11510 11124 
+Sentence : 1 -- 9767 
+5 : 4 -- 12923 12723 12146 11162 
+Produced : 2 -- 10028 93 
+6 : 2 -- 12223 11211 
+Consider : 1 -- 9558 
+7 : 3 -- 11342 11083 11020 
+_please_ : 1 -- 6715 
+accepted : 2 -- 12899 12858 
+8 : 6 -- 11376 11369 11043 10437 10005 10001 
+9 : 4 -- 11662 11373 11047 10024 
+draggled : 1 -- 2682 
+accessed : 1 -- 10877 
+hedgehog : 3 -- 8396 8388 8386 
+offended : 5 -- 7466 3390 3048 2501 2386 
+Director : 1 -- 12653 
+Internal : 1 -- 12521 
+official : 3 -- 12636 11271 11266 
+attached : 1 -- 10706 
+changing : 1 -- 5372 
+indicate : 1 -- 10326 
+modified : 1 -- 10194 
+reaching : 2 -- 12402 1669 
+Somebody : 1 -- 8573 
+appeared : 1 -- 4926 
+A : 9 -- 10311 7704 7121 5110 4786 4779 3747 2664 2660 
+B : 2 -- 12648 10439 
+evidence : 4 -- 9713 9573 9307 9151 
+C : 3 -- 10546 10503 3376 
+disagree : 1 -- 1109 
+nibbling : 2 -- 7651 6057 
+D : 2 -- 10721 3378 
+remained : 2 -- 5500 1479 
+happened : 2 -- 4718 1215 
+disclaim : 1 -- 11872 
+E : 22 -- 11661 11375 11372 11368 11341 11338 11210 11191 11161 11123 11082 11078 11049 11046 11042 11019 11015 10932 10826 10815 10543 10436 
+specific : 1 -- 10152 
+branches : 1 -- 6022 
+hatching : 1 -- 5826 
+shedding : 1 -- 1655 
+licensed : 1 -- 12697 
+received : 5 -- 12870 12793 12043 12002 11996 
+F : 10 -- 12222 12145 12111 12095 11950 11842 11823 11730 11728 11606 
+encoding : 1 -- 80 
+Sections : 1 -- 12466 
+mischief : 1 -- 9659 
+Suddenly : 3 -- 8826 7733 804 
+included : 3 -- 13005 10921 49 
+graceful : 1 -- 5736 
+children : 2 -- 7909 3656 
+repeated : 2 -- 9479 6293 
+wandered : 1 -- 4967 
+finished : 3 -- 9112 1491 1155 
+I : 126 -- 9792 9645 9636 9540 9448 9340 9338 9143 8990 8942 8664 8307 8292 7604 7602 7570 7469 7424 7414 7405 7396 7375 7334 7324 7295 7292 7283 7242 7240 7061 7052 7021 6981 6881 6874 6799 6754 6617 6607 6436 6159 6121 5979 5975 5973 5929 5895 5871 5868 5833 5704 5377 5338 5335 5330 5325 5220 5186 5166 5164 5158 5155 5152 5143 5142 4995 4993 4852 4755 4740 4729 4554 4538 4193 4134 4132 4075 3931 3807 3803 3684 3682 3621 3619 3568 3553 3038 3031 3018 2999 2895 2810 2601 2478 2445 2351 2344 2342 2300 2284 2234 2194 2164 2034 1898 1892 1851 1831 1827 1556 1542 1435 1420 1408 1323 1164 1000 997 995 988 986 608 594 587 293 145 
+Robinson : 1 -- 68 
+critical : 1 -- 12400 
+remarked : 1 -- 7030 
+clinging : 1 -- 2689 
+distance : 3 -- 8836 3734 1686 
+addition : 1 -- 10767 
+Literary : 13 -- 13056 12666 12552 12493 12487 12454 12428 11847 11703 11518 11501 11459 10550 
+_little_ : 1 -- 5383 
+engraved : 1 -- 3959 
+creating : 3 -- 11753 10781 10623 
+research : 2 -- 11744 10190 
+pardoned : 1 -- 8825 
+flamingo : 2 -- 8450 8418 
+crouched : 1 -- 6004 
+feelings : 1 -- 2299 
+approach : 1 -- 12848 
+clapping : 1 -- 9678 
+Dormouse : 6 -- 9139 7534 7499 7358 7311 7152 
+flinging : 1 -- 6746 
+_myself_ : 1 -- 5189 
+remedies : 1 -- 3012 
+overhead : 1 -- 664 
+periodic : 1 -- 11484 
+diamonds : 1 -- 7903 
+trembled : 1 -- 4273 
+remember : 3 -- 9936 5332 597 
+fighting : 1 -- 8210 
+entrance : 1 -- 7711 
+relieved : 1 -- 6929 
+bringing : 1 -- 6078 
+O : 3 -- 2251 2202 2183 
+unfolded : 2 -- 9611 5303 
+vanished : 2 -- 7074 3869 
+speaking : 1 -- 3442 
+feathers : 1 -- 2683 
+pleasing : 1 -- 5812 
+S : 5 -- 12999 12934 12877 12582 12565 
+knocking : 2 -- 6363 3966 
+facility : 1 -- 13033 
+original : 1 -- 11315 
+creation : 1 -- 10183 
+watching : 1 -- 7744 
+unlocked : 1 -- 7638 
+sentence : 6 -- 11185 10830 9782 8792 8091 2259 
+produced : 1 -- 12962 
+U : 3 -- 12998 12876 12564 
+wretched : 1 -- 5397 
+cucumber : 1 -- 4419 
+includes : 1 -- 13041 
+consider : 1 -- 9759 
+frighten : 1 -- 6161 
+V : 1 -- 5107 
+executed : 2 -- 9163 3794 
+confused : 1 -- 3247 
+standing : 1 -- 8888 
+pleasant : 1 -- 8499 
+W : 1 -- 3957 
+X : 1 -- 9415 
+outdated : 1 -- 12716 
+emphasis : 1 -- 9482 
+painting : 2 -- 7759 7730 
+_plenty_ : 1 -- 7190 
+POSSIBILITY : 1 -- 11945 
+DISTRIBUTOR : 1 -- 11919 
+creature : 3 -- 6924 6879 6787 
+uncorked : 1 -- 4064 
+darkness : 1 -- 1783 
+donation : 1 -- 12893 
+identify : 1 -- 11741 
+shifting : 1 -- 9179 
+grinning : 1 -- 6576 
+thinking : 4 -- 9957 8520 5870 3551 
+followed : 5 -- 9129 8731 7936 6672 1342 
+hundreds : 1 -- 12375 
+obsolete : 1 -- 12361 
+physical : 2 -- 12007 11581 
+provided : 3 -- 12116 12023 11397 
+dripping : 1 -- 2695 
+adoption : 1 -- 3008 
+harmless : 1 -- 12273 
+discover : 1 -- 11960 
+editions : 4 -- 12987 10065 10054 10046 
+carrying : 2 -- 7941 7883 
+buttered : 1 -- 1150 
+actually : 1 -- 302 
+employee : 1 -- 12239 
+helpless : 1 -- 8437 
+knuckles : 1 -- 6233 
+directly : 2 -- 12285 4885 
+rumbling : 1 -- 4572 
+notifies : 1 -- 11534 
+required : 1 -- 11480 
+secondly : 1 -- 6385 
+possible : 1 -- 4413 
+pleasure : 1 -- 232 
+brushing : 1 -- 9888 
+somebody : 2 -- 9609 8295 
+tumbling : 1 -- 8126 
+together : 5 -- 8488 7171 6320 5347 4587 
+anything : 7 -- 10159 6093 5104 5029 4566 4389 475 
+a : 327 -- 13001 12971 12946 12901 12766 12497 12435 12300 12083 12071 12060 12039 12033 12006 11989 11976 11961 11863 11807 11799 11792 11672 11668 11623 11619 11616 11608 11580 11567 11531 11523 11401 11380 11346 11306 11302 11299 11295 11293 11253 11247 11146 10991 10951 10853 10748 10612 10558 10507 10476 10443 10417 10394 10388 10384 10135 10071 9966 9921 9912 9853 9830 9743 9676 9626 9621 9601 9587 9567 9526 9517 9455 9426 9326 9252 9244 9216 9197 9099 9093 9045 8935 8932 8917 8911 8894 8864 8815 8727 8706 8661 8548 8503 8498 8445 8436 8392 8353 8318 8277 8245 8224 8216 8152 8137 8114 8059 8054 8022 7946 7865 7797 7790 7774 7753 7669 7658 7591 7421 7350 7231 7228 7201 7162 7151 7132 7127 7097 7010 6999 6956 6954 6951 6941 6917 6847 6815 6783 6736 6673 6635 6598 6588 6571 6553 6507 6497 6489 6470 6425 6420 6410 6403 6390 6276 6263 6250 6243 6223 6203 6191 6135 5992 5954 5950 5946 5905 5903 5901 5893 5863 5781 5758 5756 5748 5735 5724 5680 5676 5641 5585 5572 5556 5537 5507 5425 5403 5396 5382 5251 5207 5127 5091 5075 5045 4942 4919 4907 4844 4803 4762 4758 4748 4723 4682 4649 4581 4571 4495 4440 4418 4400 4397 4393 4378 4333 4286 4252 4230 4225 4171 4092 4054 4036 4018 4010 4005 3950 3940 3906 3901 3812 3727 3720 3651 3646 3631 3616 3501 3457 3410 3397 3394 3382 3348 3294 3271 3246 3216 3191 3094 3090 3066 3061 2977 2915 2912 2905 2863 2784 2753 2720 2714 2670 2636 2634 2631 2578 2521 2495 2471 2451 2420 2368 2355 2332 2314 2268 2238 2132 2111 1970 1965 1758 1728 1717 1707 1679 1675 1662 1559 1442 1380 1363 1170 1159 1135 1100 1061 1039 1025 993 930 923 889 877 822 808 751 742 708 685 654 646 631 510 428 411 395 372 344 340 336 304 252 235 199 
+b : 1 -- 12310 
+20 : 1 -- 11405 
+stamping : 2 -- 8672 8229 
+startled : 2 -- 8505 6943 
+sneezing : 4 -- 9301 6548 6535 6414 
+promised : 1 -- 3360 
+hopeless : 1 -- 1641 
+anywhere : 2 -- 10892 20 
+c : 3 -- 12537 12501 12324 
+30 : 1 -- 11543 
+whenever : 1 -- 10849 
+spirited : 1 -- 3718 
+12 : 1 -- 72 
+reported : 1 -- 11632 
+representations : 1 -- 10799 
+unrolled : 1 -- 9027 
+soldiers : 3 -- 8789 8178 7882 
+smallest : 1 -- 5098 
+rattling : 1 -- 4809 
+50 : 1 -- 12752 
+e : 1 -- 11540 
+shoulder : 1 -- 8604 
+thousand : 1 -- 4287 
+whatever : 2 -- 9500 4198 
+straight : 1 -- 392 
+violates : 1 -- 12177 
+60 : 1 -- 11468 
+resource : 1 -- 4173 
+pointing : 1 -- 3228 
+suddenly : 8 -- 6202 6129 4371 3163 624 406 403 251 
+Duchess's : 2 -- 9284 8633 
+nonsense : 2 -- 9773 3576 
+skurried : 1 -- 1779 
+90 : 2 -- 11968 11636 
+uneasily : 1 -- 9187 
+frowning : 1 -- 8659 
+constant : 2 -- 10749 6411 
+64 : 1 -- 12533 
+ensuring : 1 -- 12408 
+expenses : 2 -- 12279 11881 
+pressing : 1 -- 4107 
+soothing : 1 -- 2333 
+swimming : 2 -- 2508 2199 
+preserve : 1 -- 10530 
+business : 5 -- 12615 12597 9493 8585 4483 
+ventured : 2 -- 9730 1124 
+computer : 2 -- 11811 11808 
+severely : 3 -- 7983 3547 1350 
+pictures : 3 -- 503 204 188 
+whiskers : 2 -- 3790 714 
+payments : 3 -- 12909 11488 11463 
+shouting : 2 -- 8755 8232 
+'I : 2 -- 7331 7321 
+prisoner : 1 -- 9606 
+politely : 1 -- 8013 
+throwing : 1 -- 6655 
+stirring : 1 -- 6506 
+conquest : 1 -- 2848 
+currants : 1 -- 1394 
+opposite : 1 -- 7969 
+solemnly : 1 -- 2994 
+s : 1 -- 11548 
+serpents : 2 -- 5841 5809 
+stopping : 1 -- 416 
+whispers : 1 -- 4505 
+possibly : 2 -- 6396 1260 
+shutting : 2 -- 1167 1030 
+question : 8 -- 8036 6455 5007 3184 2931 2918 2703 1844 
+slippery : 1 -- 1291 
+hurrying : 1 -- 679 
+yourself : 1 -- 5185 
+F3 : 1 -- 11908 
+mushroom : 7 -- 7654 7119 6046 5505 5478 5435 5047 
+upstairs : 1 -- 3969 
+trotting : 2 -- 3755 1725 
+previous : 1 -- 10050 
+surprise : 3 -- 9399 8631 4827 
+numerous : 1 -- 12594 
+stupidly : 1 -- 6343 
+pretexts : 1 -- 3671 
+puzzling : 1 -- 3435 
+property : 2 -- 11797 10344 
+BE : 1 -- 11925 
+AK : 1 -- 12584 
+Character : 1 -- 78 
+IF : 1 -- 11939 
+000 : 1 -- 12724 
+Fairbanks : 1 -- 12583 
+II : 1 -- 1496 
+ME : 2 -- 1389 1068 
+OF : 12 -- 12137 12125 11954 11946 11943 11901 11897 11828 9987 7963 1499 85 
+501 : 2 -- 12536 12500 
+beheading : 1 -- 8251 
+PG : 1 -- 13031 
+shouldn't : 1 -- 5976 
+IN : 6 -- 11906 9993 3746 142 123 91 
+801 : 1 -- 12611 
+NO : 2 -- 12122 11890 
+VI : 1 -- 6186 
+IV : 1 -- 3742 
+available : 2 -- 12418 10286 
+809 : 1 -- 12602 
+OR : 6 -- 12139 12129 11956 11935 11899 10233 
+IX : 1 -- 8844 
+Gutenberg : 83 -- 13055 13045 12978 12966 12942 12928 12888 12670 12665 12551 12492 12486 12453 12442 12427 12412 12404 12340 12337 12320 12307 12269 12248 11865 11855 11846 11763 11756 11733 11714 11702 11674 11657 11596 11560 11517 11500 11458 11442 11417 11393 11359 11330 11273 11249 11206 11158 11135 11101 11055 11033 10997 10938 10919 10873 10865 10855 10843 10824 10792 10709 10679 10664 10650 10637 10566 10549 10536 10516 10486 10441 10396 10374 10321 10306 10283 10270 10241 10133 10119 9977 47 3 
+TO : 2 -- 12135 11927 
+'_poison_' : 1 -- 1087 
+596 : 1 -- 12612 
+financial : 1 -- 12389 
+described : 1 -- 11838 
+succeeded : 2 -- 6076 5729 
+_speaker_ : 1 -- 9255 
+UT : 1 -- 12609 
+delighted : 2 -- 5710 4878 
+Ah : 2 -- 8586 1853 
+advisable : 1 -- 2939 
+specified : 2 -- 11507 11334 
+exclaimed : 1 -- 9453 
+accepting : 1 -- 12839 
+calculate : 1 -- 11428 
+hedgehogs : 2 -- 8213 8170 
+He : 4 -- 9610 9089 3910 1723 
+Donations : 2 -- 12897 12661 
+defective : 3 -- 12079 12027 11800 
+addressed : 1 -- 5124 
+immediate : 3 -- 11197 10837 3007 
+An : 2 -- 6302 6282 
+assembled : 2 -- 8867 2675 
+If : 19 -- 12167 12073 12041 12000 11958 11663 11051 10983 10934 10753 10587 10381 10348 10154 9732 6841 6798 4851 1762 
+concluded : 1 -- 4408 
+beginning : 5 -- 11118 9222 8831 6866 152 
+Executive : 1 -- 12651 
+unenforceability : 1 -- 12208 
+entangled : 2 -- 6319 6019 
+miserable : 1 -- 9228 
+Do : 6 -- 11343 11163 11125 7249 7043 2537 
+As : 10 -- 6123 5820 5235 4886 4546 3933 2970 2413 2043 1858 
+paragraph : 10 -- 12109 11840 11604 11454 11366 11336 11189 10541 10501 10434 
+Of : 3 -- 10640 7369 5476 
+energetic : 1 -- 3011 
+At : 9 -- 9835 7834 7547 7490 5520 5112 4568 3196 2745 
+confirmed : 1 -- 12992 
+Dr : 2 -- 12646 12581 
+appearing : 1 -- 11001 
+different : 2 -- 11683 5204 
+agreement : 17 -- 12256 12214 12188 12186 12176 11871 11691 11651 10773 10695 10674 10527 10499 10473 10413 10361 10347 
+In : 7 -- 12423 8924 6987 5424 3719 2988 379 
+Oh : 15 -- 9917 9447 7031 6714 5358 3786 3782 2283 1739 1734 1537 982 710 291 289 
+encourage : 1 -- 9172 
+Copyright : 2 -- 10741 131 
+remaining : 1 -- 12219 
+obtaining : 2 -- 11305 10387 
+trademark : 10 -- 12234 11857 11716 11444 11035 10445 10345 10214 10137 10131 
+gardeners : 2 -- 7855 7726 
+charities : 1 -- 12746 
+'AS : 1 -- 12119 
+receiving : 1 -- 11971 
+By : 3 -- 10312 8765 3996 
+determine : 1 -- 12802 
+including : 7 -- 13047 12906 12715 12360 12280 11882 11230 
+Is : 1 -- 5284 
+We : 4 -- 12782 3480 2398 2387 
+addresses : 1 -- 12896 
+On : 2 -- 9015 3669 
+attending : 1 -- 3541 
+Conqueror : 2 -- 2820 2246 
+pineapple : 1 -- 1144 
+No : 7 -- 9762 7395 7179 7177 5298 4732 1076 
+It : 19 -- 12368 10446 9619 9597 8588 7337 6234 6085 5952 5401 5302 4140 3750 3408 2606 2484 1698 1613 520 
+scattered : 1 -- 12592 
+additions : 1 -- 12314 
+displayed : 1 -- 10878 
+housemaid : 1 -- 3915 
+alternate : 1 -- 11323 
+flamingos : 1 -- 8175 
+remarking : 2 -- 5443 4128 
+beautiful : 2 -- 7688 6113 
+direction : 3 -- 7004 6989 5722 
+Curiouser : 1 -- 1501 
+subscribe : 1 -- 13069 
+principal : 1 -- 12574 
+proofread : 1 -- 11748 
+parchment : 2 -- 9029 8920 
+Professor : 1 -- 12932 
+organized : 1 -- 12505 
+indemnify : 1 -- 12228 
+liability : 2 -- 12276 11874 
+saucepans : 1 -- 6676 
+mentioned : 1 -- 3686 
+generally : 3 -- 8821 2911 1332 
+cupboards : 2 -- 550 492 
+So : 9 -- 8378 7822 5316 4869 2529 2247 2180 1483 207 
+gutenberg : 6 -- 13036 11278 10929 10294 10021 57 
+2001 : 1 -- 12424 
+IS' : 1 -- 12120 
+performed : 1 -- 10879 
+To : 5 -- 12914 12798 12447 10237 8628 
+excellent : 1 -- 8402 
+trembling : 4 -- 9569 3652 2580 2405 
+telescope : 3 -- 1530 1171 994 
+committed : 1 -- 12739 
+stretched : 2 -- 5523 5058 
+Presently : 1 -- 4303 
+1500 : 1 -- 12604 
+deletions : 1 -- 12316 
+My : 1 -- 8002 
+carefully : 1 -- 6056 
+squeaking : 1 -- 4726 
+existence : 1 -- 1986 
+be : 56 -- 12953 12701 12628 12190 11817 11774 11490 11465 11096 10967 10466 10449 10406 10193 10141 10056 10016 9998 9600 9157 8685 7315 6905 6821 6513 6119 5985 5873 5835 5400 5381 5354 5249 4299 3982 3925 3843 3520 3517 3511 3389 3331 3060 2752 2384 2336 2142 1900 1742 1558 1166 736 688 427 295 239 
+continued : 2 -- 5856 2963 
+splashing : 1 -- 2106 
+2006 : 1 -- 73 
+permanent : 1 -- 12438 
+wriggling : 1 -- 5883 
+whispered : 1 -- 8576 
+producing : 1 -- 6258 
+certainly : 4 -- 6518 6400 3413 1045 
+locations : 2 -- 12788 12595 
+confusing : 1 -- 5211 
+shrinking : 4 -- 5597 4884 1960 1931 
+wondering : 1 -- 795 
+permitted : 2 -- 12562 12199 
+creatures : 3 -- 8982 6559 2645 
+bristling : 1 -- 2375 
+something : 10 -- 8522 7429 5268 5001 4743 4422 3771 3451 3357 2105 
+he : 21 -- 12961 11549 11446 9685 9615 9561 9478 9401 9392 9249 9195 9177 9147 9052 8965 7348 7223 6268 3927 3460 1787 
+pattering : 3 -- 4254 3729 1681 
+donations : 12 -- 13051 12913 12869 12855 12841 12786 12749 12720 12683 12462 12379 11513 
+fluttered : 1 -- 9895 
+patriotic : 1 -- 2869 
+ma : 1 -- 2253 
+am : 6 -- 6873 6435 5326 3932 2195 1850 
+waistcoat : 2 -- 341 309 
+if : 27 -- 11981 11622 11238 10520 10143 9337 7804 6738 6424 5972 5821 5484 5386 3767 2815 2737 2550 2414 2394 2359 2322 1837 1744 1414 1402 1096 999 
+an : 20 -- 11052 10935 10588 10458 9724 9668 8770 8401 7465 6727 6131 5666 4475 4428 3882 3152 3047 2798 2639 565 
+following : 3 -- 12292 11470 10829 
+submitted : 1 -- 2830 
+providing : 4 -- 12244 12051 11387 10988 
+complying : 3 -- 12741 10492 10165 
+swallowed : 1 -- 4871 
+advisable' : 1 -- 2875 
+1916 : 1 -- 132 
+employees : 2 -- 12590 11736 
+MAD : 1 -- 7122 
+me : 28 -- 7749 7068 6978 6806 6585 5943 5787 5226 4746 4549 4466 4460 4245 4204 4080 3912 3900 3793 3572 3363 2985 2770 2433 2325 1417 1405 615 582 
+treatment : 1 -- 12867 
+execution : 2 -- 8794 8093 
+evidently : 1 -- 8038 
+barrowful : 2 -- 4787 4780 
+sensation : 2 -- 9219 3633 
+confusion : 4 -- 9363 9194 4705 3311 
+AND : 4 -- 11917 7960 6188 2663 
+do : 40 -- 13008 12819 12783 12295 12149 11742 10737 10609 10513 10482 10402 10350 10202 10156 9488 8344 7428 7284 6876 6858 6151 5350 5321 5175 4960 4782 4618 4542 4195 4076 3605 3492 3426 3257 3084 3035 2185 1620 572 170 
+I'd : 1 -- 5848 
+commotion : 1 -- 2522 
+stockings : 1 -- 1551 
+as : 91 -- 12993 11780 11720 11493 11333 11036 10632 10630 10430 10182 9961 9933 9931 9749 9614 9391 9033 8879 8877 8676 8605 8366 7741 7606 7579 7557 7330 7306 6780 6751 6542 6531 6529 6423 6382 6011 6009 5995 5968 5912 5867 5847 5594 5530 5528 5483 5444 5415 5362 5334 5295 5293 5055 4965 4933 4931 4888 4837 4641 4636 4317 4291 4289 4170 3918 3797 3795 3766 3763 3312 3288 2972 2967 2736 2526 2514 2512 2039 2022 1824 1786 1784 1617 1615 1351 705 551 517 449 217 215 
+4557 : 1 -- 12579 
+wonderful : 1 -- 9967 
+sometimes : 3 -- 6071 6068 1345 
+at : 88 -- 13023 12638 12630 12601 12578 12542 12475 11504 11282 11116 10927 10893 10292 10040 9803 9681 9651 9543 9485 9404 9319 9303 9211 9188 9175 9123 8357 8312 8199 7977 7890 7769 7727 7684 7652 7610 7573 7290 7288 7205 7172 7149 6749 6660 6650 6447 6228 6198 6103 6063 6059 5877 5652 5635 5604 5503 5150 5148 5016 4921 4811 4745 4510 4485 4348 3643 3420 3340 3238 2986 2781 2440 2207 2172 1974 1865 1596 1571 1223 1189 1022 858 602 479 313 105 55 21 
+of : 306 -- 12989 12974 12948 12945 12939 12903 12868 12835 12805 12796 12754 12713 12693 12689 12512 12509 12385 12376 12374 12371 12358 12348 12335 12302 12290 12267 12246 12240 12212 12209 12180 12165 12162 12153 12102 12070 12038 11978 11970 11852 11834 11711 11680 11655 11649 11640 11638 11611 11594 11587 11575 11556 11545 11526 11439 11415 11406 11404 11385 11310 11304 11297 11246 11203 11177 11148 11119 11111 11064 11027 11012 10960 10916 10890 10852 10804 10771 10763 10751 10725 10693 10672 10653 10564 10525 10509 10497 10471 10411 10390 10372 10359 10339 10318 10301 10279 10249 10244 10184 10162 10110 10107 10012 9979 9974 9942 9882 9861 9857 9832 9806 9779 9745 9726 9712 9679 9628 9457 9443 9407 9349 9205 9201 9141 9101 9050 9037 8938 8928 8919 8883 8872 8853 8802 8793 8787 8768 8653 8625 8616 8611 8558 8543 8512 8475 8439 8426 8407 8384 8272 8250 8116 8092 8024 7993 7952 7939 7913 7867 7712 7660 7587 7545 7542 7512 7505 7371 7208 7191 7175 7136 7118 7113 7089 7086 6953 6770 6729 6685 6675 6644 6515 6476 6379 6360 6210 6164 6045 5917 5875 5793 5682 5679 5669 5643 5609 5558 5539 5518 5497 5470 5465 5310 5255 5240 5120 5103 5100 5074 5022 4909 4901 4873 4855 4816 4805 4788 4766 4706 4685 4580 4573 4551 4535 4462 4423 4402 4388 4301 4255 4203 4179 4089 4038 4025 3985 3947 3903 3824 3730 3638 3552 3447 3273 3223 3218 3194 3096 3023 3009 2888 2871 2854 2841 2765 2755 2704 2466 2465 2458 2410 2272 2219 2198 2191 2158 2143 2088 1940 1879 1709 1682 1657 1580 1460 1284 1281 1140 1137 1057 1027 964 954 866 840 837 813 753 633 600 548 514 482 447 349 307 279 243 233 198 166 157 115 44 18 5 
+earnestly : 1 -- 7457 
+slightest : 1 -- 7408 
+go : 22 -- 9542 9261 8709 8570 8368 7608 7552 7105 7025 6984 6756 6172 5533 4628 4610 4488 4343 3468 2941 2611 2517 1789 
+fountains : 2 -- 7698 970 
+loveliest : 1 -- 943 
+equipment : 3 -- 12717 12714 11821 
+END : 1 -- 9986 
+naturedly : 1 -- 3832 
+hurriedly : 2 -- 9268 2933 
+oh : 2 -- 5697 2490 
+forgotten : 2 -- 1240 1094 
+re : 2 -- 10910 38 
+in : 215 -- 13013 12996 12900 12844 12787 12750 12704 12382 12351 12252 12174 12108 12085 12068 12036 11963 11839 11752 11723 11696 11689 11625 11601 11579 11536 11508 11335 11313 11264 11252 11220 11188 11039 10973 10807 10766 10747 10743 10700 10667 10604 10596 10592 10583 10579 10575 10561 10454 10433 10378 10263 10103 10088 10075 10018 9981 9879 9842 9736 9728 9696 9586 9566 9473 9454 9424 9362 9325 9291 9192 9135 9105 9095 9091 9004 8921 8913 8891 8834 8814 8785 8705 8689 8651 8496 8435 8391 8382 8352 8341 8317 8280 8244 8223 8215 8156 8136 8123 8113 8000 7800 7773 7686 7662 7621 7613 7609 7574 7464 7439 7317 7200 7134 7084 7002 6898 6839 6814 6795 6726 6615 6560 6522 6493 6464 6446 6439 6362 6294 6275 6240 6205 6138 6077 6047 5991 5853 5755 5743 5730 5720 5491 5250 5206 5126 4969 4941 4866 4820 4810 4750 4656 4522 4470 4380 4347 4012 3970 3964 3881 3853 3811 3732 3702 3667 3650 3601 3462 3381 3347 3259 3245 3093 3046 2976 2790 2783 2577 2523 2494 2450 2331 2313 2260 2178 2137 2108 2085 2062 2052 1985 1954 1847 1757 1727 1720 1713 1684 1583 1393 1378 1313 1073 902 741 699 677 653 365 268 211 191 112 61 7 
+1887 : 1 -- 12613 
+possessed : 1 -- 11578 
+copyright : 13 -- 13002 11793 11743 11113 11091 11066 10962 10802 10723 10560 10346 10097 10074 
+everybody : 1 -- 8581 
+shoulders : 1 -- 5693 
+exclusion : 1 -- 12159 
+prosecute : 1 -- 3473 
+yesterday : 1 -- 1819 
+paperwork : 1 -- 12770 
+CONSEQUENTIAL : 1 -- 11933 
+TEA : 1 -- 7123 
+EAT : 1 -- 1388 
+countries : 1 -- 10745 
+royalties : 2 -- 11451 10098 
+III : 1 -- 2659 
+by : 45 -- 12709 12563 12519 12354 12200 11987 11819 11539 11530 11089 10696 10660 10468 10461 10408 10355 10252 10029 9983 9824 9604 9365 8958 8580 8541 8067 7801 6944 6257 6237 6214 5589 5178 4697 3573 2832 2825 1915 1535 750 260 159 133 94 9 
+EIN : 1 -- 12526 
+we : 12 -- 13007 12860 12833 12826 12816 12790 10642 10608 9750 7812 7795 2542 
+is : 60 -- 13004 12936 12738 12599 12576 12540 12532 12496 12399 12342 12115 12077 11629 11434 11059 10956 10942 10886 10876 10874 10591 10442 10210 10169 10134 8613 8560 8259 8004 7985 7780 7326 7227 6108 5702 5548 5402 5394 5209 5008 4984 4972 4742 3393 3373 3210 3168 3082 3050 2919 2806 2600 2469 2366 2155 1845 1815 1105 195 14 
+important : 4 -- 12727 9710 5269 2799 
+returning : 1 -- 1703 
+I'm : 20 -- 9243 7234 6374 5963 5904 5902 5900 5891 5779 5359 5323 5196 5190 4736 4449 4086 3696 2498 1838 1524 
+on : 73 -- 12005 11770 11745 11682 11473 11269 11002 10860 10785 10627 10451 9873 9439 9240 9164 9075 9044 9023 8896 8857 8710 8673 8535 8377 8303 8186 8047 7945 7718 7282 7218 6950 6488 6408 6375 6336 5836 5806 5082 5061 4840 4257 4167 4161 4149 4016 3944 3434 3333 2958 2935 2676 2418 2018 1930 1877 1822 1808 1654 1623 1547 1457 1384 1362 1218 1071 1042 1019 869 819 393 318 162 
+it : 164 -- 12764 12052 11986 11972 10955 10912 10907 10905 10715 10087 9969 9737 9729 9639 9145 8941 8459 8453 8433 8159 7989 7810 7728 7719 7661 7596 7438 7398 7262 7176 7150 7093 7055 6965 6932 6910 6909 6886 6883 6825 6820 6813 6781 6735 6711 6701 6546 6139 6099 6034 5996 5969 5940 5822 5732 5703 5634 5578 5527 5519 5494 5488 5445 5418 5416 4619 4491 4414 4410 4337 4329 4315 4302 4262 4068 4065 4017 3961 3815 3774 3768 3764 3595 3437 3429 3387 3372 3337 3283 3198 3175 3134 3087 3085 3081 2980 2968 2962 2938 2874 2723 2628 2599 2575 2560 2534 2527 2515 2502 2382 2339 2228 2224 2169 2141 2129 2122 1951 1916 1415 1403 1398 1379 1375 1343 1288 1266 1262 1254 1174 1156 1133 1130 1127 1104 1072 1043 1020 920 910 887 861 820 723 706 703 681 660 555 545 530 469 386 369 361 350 325 314 274 192 185 40 35 33 
+no : 29 -- 12836 11283 10899 10894 10798 10068 9763 9734 9648 8692 7444 6683 6393 6358 5811 4482 4296 4222 4196 3506 3478 3253 3113 2176 1311 733 187 27 22 
+promoting : 2 -- 10654 10245 
+'Oh : 1 -- 8561 
+ye : 1 -- 4735 
+muttering : 2 -- 3775 1731 
+8859 : 1 -- 82 
+exporting : 1 -- 11298 
+courtiers : 1 -- 7896 
+PIG : 1 -- 6187 
+curiouser : 1 -- 1503 
+surprised : 4 -- 3923 1870 1510 1474 
+computers : 2 -- 12367 12359 
+tm : 56 -- 13046 12979 12967 12943 12929 12671 12443 12413 12341 12338 12321 12308 12270 12249 11866 11856 11764 11757 11715 11675 11658 11597 11561 11443 11418 11394 11360 11331 11274 11250 11207 11159 11136 11102 11056 11034 10939 10856 10844 10793 10710 10680 10665 10651 10567 10537 10517 10487 10397 10375 10322 10307 10284 10242 10128 10120 
+THE : 11 -- 11944 11914 11912 10222 8847 7961 7958 7700 3743 1497 147 
+or : 106 -- 12801 12527 12315 12313 12304 12296 12286 12238 12207 12197 12170 12160 12157 12104 12049 12020 11836 11815 11810 11804 11801 11794 11787 11678 11670 11618 11571 11538 11477 11390 11386 11370 11355 11319 11301 11287 11260 11243 11234 11227 11196 11174 11169 11151 11142 11130 11128 11044 11021 11000 10987 10981 10925 10909 10882 10867 10835 10788 10780 10622 10555 10452 10422 10391 10368 10314 10290 10258 10254 10003 9660 9159 8772 8760 8681 8237 8139 7520 6817 6712 6427 6193 5949 5427 5102 5038 5002 4999 4764 4421 4022 3508 3154 2914 2547 1113 1088 1021 851 438 343 205 189 172 53 37 
+upsetting : 1 -- 9435 
+so : 31 -- 10078 8773 8551 8326 8006 7468 7268 7095 6919 6889 6697 6087 5617 5599 5373 5202 3443 3155 3132 2156 2037 1508 1426 1349 1173 1122 573 541 405 275 265 
+volunteer : 1 -- 12975 
+to : 325 -- 13074 13070 13068 13060 13052 13049 12852 12774 12740 12728 12722 12684 12662 12623 12558 12548 12433 12421 12401 12391 12317 12298 12227 12192 12184 12117 12090 12063 12057 12053 12031 11992 11875 11784 11740 11666 11633 11591 11569 11553 11514 11497 11481 11455 11449 11436 11427 11389 11350 11289 11242 11215 11199 11098 10990 10971 10839 10834 10822 10768 10657 10635 10614 10534 10465 10424 10405 10393 10353 10333 10273 10212 10123 10114 9865 9820 9753 9688 9608 9607 9599 9574 9563 9520 9497 9440 9223 9183 9171 9110 8899 8818 8734 8725 8717 8641 8530 8516 8493 8441 8422 8399 8337 8298 8296 8289 8191 8180 8107 8062 8017 7990 7970 7875 7833 7808 7787 7737 7649 7627 7531 7485 7454 7392 7378 7314 7261 7104 7050 7024 6983 6930 6875 6869 6867 6857 6844 6823 6811 6760 6744 6705 6653 6579 6527 6512 6481 6444 6437 6432 6352 6307 6287 6271 6182 6171 6152 6118 6109 6081 6053 6030 5957 5942 5862 5741 5711 5695 5673 5639 5627 5606 5602 5563 5552 5510 5474 5399 5380 5363 5353 5270 5248 5224 5036 4997 4985 4975 4973 4963 4959 4893 4879 4862 4797 4783 4719 4670 4627 4609 4339 4313 4308 4298 4267 4235 4190 4158 4144 4115 4113 4073 4069 4045 3879 3847 3842 3776 3708 3690 3654 3564 3545 3535 3497 3491 3469 3456 3404 3361 3354 3330 3302 3256 3229 3211 3138 3083 3079 3055 3041 2996 2983 2965 2945 2940 2845 2831 2769 2751 2729 2727 2708 2691 2655 2610 2585 2567 2481 2454 2407 2357 2277 2215 2213 2151 2149 2119 2059 1999 1981 1956 1912 1909 1871 1816 1732 1693 1649 1636 1626 1607 1565 1519 1486 1475 1463 1448 1352 1326 1319 1277 1250 1233 1125 1108 1009 1004 951 906 835 800 735 701 687 585 578 571 564 543 537 526 473 467 460 453 426 413 367 346 321 287 282 169 153 
+stupidest : 1 -- 7567 
+instantly : 2 -- 7856 7502 
+violently : 3 -- 6890 5770 1769 
+up : 44 -- 12778 12622 11225 9953 9904 9841 9596 9585 9423 8645 8545 8443 8183 8127 7494 7399 6723 6351 6344 5215 5160 5060 4754 4709 4307 4185 4032 3738 3581 2058 1906 1833 1793 1599 1279 1188 1168 1032 991 783 749 658 652 245 
+promotion : 1 -- 12264 
+footsteps : 2 -- 7869 3731 
+my : 18 -- 8523 7576 6849 5698 5692 5649 4987 4976 4867 4246 3787 3783 3659 2960 2593 1538 711 606 
+FOR : 3 -- 12141 11929 11892 
+provision : 1 -- 12211 
+ANY : 3 -- 12142 12126 11918 
+VII : 1 -- 7120 
+authority : 1 -- 2757 
+us : 4 -- 12849 3466 3057 2583 
+curiosity : 1 -- 354 
+NEW : 2 -- 138 129 
+BUT : 1 -- 12132 
+anxiously : 5 -- 9318 8074 7841 3761 1447 
+ISO : 1 -- 81 
+hypertext : 1 -- 11235 
+USE : 1 -- 10234 
+IRS : 1 -- 12735 
+WHO : 1 -- 8845 
+NOT : 2 -- 12133 11924 
+sorrowful : 1 -- 2496 
+Additional : 1 -- 11093 
+Compliance : 1 -- 12758 
+YOU : 6 -- 11940 11928 11909 11888 11885 10231 
+19033 : 4 -- 10027 10004 10000 75 
+accordance : 2 -- 12253 11602 
+84116 : 1 -- 12610 
+_I_ : 5 -- 9720 4615 3471 2903 2415 
+99712 : 1 -- 12585 
+applicable : 3 -- 12202 12183 11430 
+accessible : 1 -- 12708 
+Wonderland : 3 -- 9982 62 8 
+charitable : 1 -- 12748 
+appearance : 1 -- 8279 
+calculated : 1 -- 11420 
+Can : 1 -- 8028 
+Mad : 1 -- 2442 
+And : 15 -- 9926 9056 7612 6399 5845 5696 5545 4438 3596 3431 2340 1992 1987 1818 1172 
+deductible : 1 -- 12557 
+remarkable : 2 -- 3632 267 
+Foundation : 21 -- 13058 12737 12668 12554 12495 12489 12472 12456 12430 12242 12232 11849 11719 11705 11520 11503 11461 10796 10554 10552 10080 
+End : 1 -- 9973 
+remembered : 2 -- 6038 5914 
+additional : 3 -- 12643 11284 11086 
+Cat : 9 -- 8351 8306 8286 7072 7038 6991 6961 6948 6600 
+Are : 2 -- 2801 2460 
+indicating : 1 -- 10953 
+All : 2 -- 9043 8738 
+compliance : 4 -- 13014 12806 12797 10668 
+Tea : 1 -- 2443 
+reasonable : 1 -- 11381 
+commercial : 1 -- 10217 
+Off : 5 -- 9796 8761 8756 8238 8233 
+complained : 1 -- 3316 
+RACE : 1 -- 2662 
+brightened : 1 -- 1187 
+disclaimer : 2 -- 12196 12169 
+READ : 1 -- 10228 
+See : 2 -- 10540 10500 
+Ann : 4 -- 4240 4238 3980 3887 
+Web : 3 -- 13039 13025 12889 
+inaccurate : 1 -- 11786 
+Canterbury : 1 -- 2872 
+associated : 8 -- 12260 11155 10998 10875 10682 10453 10262 10010 
+Her : 2 -- 5613 2065 
+frightened : 3 -- 8724 5588 1973 
+Get : 1 -- 8106 
+She : 36 -- 9421 9286 8501 8477 8447 8265 8098 8064 7987 6827 6167 5726 5708 5583 5212 5057 4588 4559 4383 4147 4122 4063 3962 2365 1933 1904 1652 1644 1440 1331 1177 896 738 719 656 507 
+references : 2 -- 10821 10634 
+scrambling : 1 -- 4654 
+The : 64 -- 12736 12572 12524 12490 12205 12018 11432 10828 10795 10722 10547 9777 9548 9503 9460 9315 9279 9227 9120 9083 9048 9035 8956 8849 8829 8697 8532 8387 8195 8165 8035 7850 7848 7540 7498 7357 7211 7159 6960 6680 6556 6465 6290 6253 6105 5567 5467 4954 4946 4676 4622 3780 3778 3298 3166 2925 2917 2701 2372 2265 2204 1766 388 1 
+increasing : 1 -- 12690 
+One : 3 -- 5463 5447 3114 
+archbishop : 2 -- 2923 2870 
+Fourteenth : 1 -- 9140 
+BILL : 1 -- 3749 
+HAVE : 1 -- 11889 
+Ugh : 2 -- 5888 2858 
+Everything : 1 -- 2154 
+concerning : 2 -- 12865 10800 
+scratching : 1 -- 4652 
+Pat : 3 -- 4467 4434 4433 
+Let : 3 -- 9756 5786 2582 
+KIND : 1 -- 12127 
+TALE : 1 -- 2666 
+discovered : 1 -- 11630 
+electronic : 27 -- 12949 12930 12349 12271 12250 11965 11867 11765 11676 11627 11395 11179 11172 11057 10940 10658 10568 10538 10518 10488 10459 10398 10376 10323 10308 10250 10121 
+accustomed : 1 -- 2844 
+For : 7 -- 12958 12642 9355 6279 6190 3485 2504 
+Any : 1 -- 11322 
+paragraphs : 3 -- 11076 11040 11013 
+individual : 4 -- 11053 10936 10589 10573 
+Nay : 1 -- 4614 
+HOLE : 1 -- 149 
+containing : 1 -- 11145 
+accusation : 1 -- 9010 
+KING : 1 -- 7959 
+recognized : 1 -- 7931 
+familiarly : 1 -- 2733 
+SEND : 1 -- 12799 
+especially : 1 -- 10216 
+GIVE : 1 -- 11941 
+collection : 4 -- 12414 11758 10577 10563 
+dreadfully : 2 -- 8327 8248 
+bed : 1 -- 3668 
+melancholy : 1 -- 2978 
+'it' : 2 -- 2898 2893 
+But : 8 -- 7020 5890 4792 3606 3208 3179 1836 298 
+transcribe : 1 -- 11746 
+ornamented : 2 -- 7916 7899 
+assistance : 1 -- 12396 
+registered : 2 -- 10444 10136 
+Use : 2 -- 10302 10108 
+underneath : 1 -- 5575 
+had : 65 -- 9970 9919 9916 9894 9818 9375 9369 9128 8179 8148 7839 7656 7590 7459 7109 7076 6429 6178 6091 6075 6029 5920 5761 5727 5579 5486 4794 4443 4415 4295 4215 4213 4157 4112 4098 4000 3990 3868 3769 3622 3562 3329 3279 3252 3148 2839 2739 2713 2625 2294 2135 2092 2071 1875 1295 1239 1134 1092 881 774 445 409 332 186 175 
+EVEN : 1 -- 11938 
+Who : 3 -- 9811 7984 5131 
+beg : 2 -- 3554 2285 
+altogether : 1 -- 1962 
+How : 8 -- 8343 8299 6434 3922 2954 1890 1812 948 
+incomplete : 1 -- 11785 
+Nor : 1 -- 7413 
+Its : 2 -- 12596 12535 
+fee : 8 -- 11669 11433 11403 11382 11347 11286 10429 10385 
+Sit : 1 -- 2762 
+LONG : 1 -- 2665 
+regulating : 1 -- 12745 
+THAT : 2 -- 11911 11887 
+VIII : 1 -- 7699 
+Yes : 2 -- 8042 3603 
+Not : 2 -- 8356 2307 
+did : 12 -- 9646 9168 9117 7101 6564 6168 5633 4384 2927 2921 534 271 
+alteration : 1 -- 12311 
+derivative : 3 -- 10782 10624 10185 
+afterwards : 1 -- 9770 
+mad : 3 -- 7041 7027 7019 
+difficulty : 2 -- 8414 6779 
+can : 16 -- 12700 12627 12463 11974 10966 10736 10687 10512 10481 10083 7256 7243 4194 2170 1421 1409 
+SUCH : 1 -- 11947 
+displaying : 4 -- 11352 11183 10777 10621 
+FULL : 2 -- 10223 10220 
+directions : 2 -- 8125 6797 
+and : 388 -- 13066 12963 12910 12895 12818 12776 12771 12763 12747 12696 12682 12674 12652 12635 12621 12589 12568 12514 12470 12468 12461 12457 12444 12437 12407 12388 12378 12365 12323 12278 12265 12257 12229 11880 11858 11767 11747 11735 11706 11631 11588 11583 11495 11216 11084 11070 11030 10969 10896 10600 10528 10400 10366 10342 10334 10303 10197 10195 10189 10138 10130 10116 10094 10085 10081 10034 10008 9954 9869 9863 9859 9845 9772 9640 9617 9552 9364 9294 9265 9237 9235 9233 9208 9191 9155 9103 9098 9078 9068 9031 8986 8979 8964 8951 8916 8902 8875 8851 8837 8804 8790 8782 8754 8719 8702 8687 8646 8619 8608 8555 8525 8484 8451 8370 8333 8322 8231 8227 8214 8209 8189 8184 8176 8171 8163 8141 8118 7998 7979 7975 7950 7927 7925 7888 7870 7852 7803 7794 7763 7695 7679 7625 7503 7495 7363 7347 7196 7143 7139 7073 7001 6926 6834 6793 6788 6766 6757 6724 6692 6678 6663 6649 6633 6604 6570 6549 6541 6462 6418 6415 6413 6367 6355 6331 6315 6266 6246 6225 6070 6066 6061 6050 6032 6026 6023 5971 5937 5865 5843 5817 5799 5795 5766 5738 5637 5554 5534 5490 5454 5436 5337 5314 5274 5244 5216 5123 5094 5068 5063 5019 4980 4936 4912 4904 4876 4843 4814 4773 4753 4702 4668 4653 4644 4577 4532 4518 4509 4507 4500 4489 4458 4399 4396 4376 4356 4345 4322 4311 4294 4271 4233 4219 4188 4182 4169 4153 4151 4111 4066 4041 4035 4020 4015 3994 3981 3967 3905 3898 3877 3864 3856 3828 3821 3789 3759 3735 3716 3695 3676 3645 3614 3588 3582 3532 3406 3396 3377 3370 3350 3342 3328 3323 3310 3284 3268 3258 3234 3203 3177 3170 3156 3126 3117 3109 3098 3028 2948 2856 2850 2847 2838 2767 2718 2698 2693 2650 2641 2638 2633 2622 2604 2595 2588 2574 2563 2541 2518 2489 2378 2275 2211 2115 2051 2011 1948 1927 1917 1907 1868 1798 1796 1778 1775 1716 1687 1668 1647 1604 1594 1550 1502 1488 1470 1445 1434 1413 1401 1376 1344 1307 1292 1272 1245 1184 1148 1128 1082 1052 967 958 936 917 905 885 826 782 771 713 696 671 649 638 635 502 497 493 485 400 362 351 315 311 246 228 193 165 99 24 
+compressed : 1 -- 11223 
+FROM : 1 -- 5109 
+Now : 5 -- 8663 6871 4464 4192 1523 
+Run : 1 -- 3894 
+fan : 9 -- 4034 4019 3993 3907 3820 1944 1795 1777 1719 
+led : 4 -- 7642 6467 2647 921 
+Volunteers : 1 -- 12387 
+indirectly : 1 -- 12287 
+impossible : 1 -- 6704 
+particular : 4 -- 13017 12809 8342 5361 
+Our : 1 -- 2422 
+passionate : 1 -- 2316 
+telescopes : 1 -- 1034 
+understand : 3 -- 10331 2597 2230 
+splendidly : 1 -- 1704 
+end : 6 -- 9653 8767 7207 6480 2409 566 
+WILL : 1 -- 11923 
+performing : 3 -- 11353 10778 10620 
+ear : 3 -- 8518 6580 6578 
+forgetting : 1 -- 4280 
+sad : 2 -- 3430 3398 
+Why : 8 -- 9910 8019 7777 7226 5231 3885 3221 3072 
+are : 35 -- 12991 12981 12898 12856 12760 12725 12591 12555 11686 11478 10985 10755 10746 10730 10638 10602 10578 10506 10475 9471 9346 8993 8823 8300 7758 6384 5229 5132 4436 3799 3549 3539 2955 2462 2025 
+kid : 5 -- 4028 3826 1884 1773 1711 
+cat : 6 -- 6593 6573 3701 3625 2349 593 
+DOWN : 1 -- 146 
+THIS : 5 -- 11921 10235 10229 9988 86 
+limitation : 3 -- 12198 12171 12161 
+quarreling : 1 -- 8749 
+sea : 2 -- 5681 2076 
+far : 4 -- 5687 5529 4637 1563 
+all : 77 -- 12988 12751 12383 12275 11873 11646 11589 11585 11573 11105 10820 10633 10571 10370 10356 10336 10276 10009 9938 9624 9468 9436 9302 9176 8870 8824 8774 8358 8324 8313 8206 8197 8161 8124 8027 7973 7953 7915 7900 7814 7575 7222 7169 7040 6796 6448 5657 5286 5013 4917 4832 4739 4585 3673 3666 3599 3296 3172 3100 2987 2813 2803 2778 2764 2742 2694 2486 2376 2279 1996 1803 1665 811 776 769 762 662 
+Two : 2 -- 7771 7770 
+unpleasant : 1 -- 5253 
+'And : 1 -- 2865 
+dog : 1 -- 2474 
+POOL : 1 -- 1498 
+ate : 1 -- 1441 
+eat : 6 -- 5607 5037 4998 4853 3303 1397 
+tea : 6 -- 7568 7537 7449 7353 7148 603 
+red : 1 -- 7732 
+off : 26 -- 9956 9868 8799 8748 8686 8487 8381 7819 7497 6959 6646 5986 5536 5433 4930 3921 3675 3642 3128 2114 1606 1564 1492 1328 1157 622 
+invalidity : 1 -- 12206 
+WITH : 1 -- 12121 
+processing : 1 -- 11233 
+man : 2 -- 9670 9246 
+has : 5 -- 13028 11447 9592 3201 3181 
+air : 5 -- 9844 8282 4524 4382 2800 
+originator : 1 -- 12938 
+lap : 1 -- 9881 
+completely : 1 -- 3870 
+jar : 2 -- 540 511 
+see : 21 -- 12465 8432 8371 7876 7824 7782 7067 6931 5706 5660 5200 5028 4671 2363 2120 1872 1694 1265 1083 474 368 
+You : 23 -- 12225 11643 11599 11563 11521 11399 11377 11212 10902 10686 10172 9654 9259 9108 8822 7473 7303 6732 6626 3570 3538 3359 30 
+gratefully : 1 -- 12857 
+web : 3 -- 12633 12473 11275 
+distribute : 5 -- 11671 11244 11217 11168 10086 
+him : 6 -- 9130 8901 6222 4716 4695 2950 
+day : 9 -- 9047 8057 7051 6816 5924 5844 5208 1817 222 
+warranties : 1 -- 12156 
+themselves : 3 -- 8626 8182 7858 
+old : 3 -- 12362 10053 3525 
+bit : 9 -- 9196 7117 6737 5647 5612 5562 5538 1444 647 
+her : 107 -- 9929 9908 9901 9883 9877 9850 9821 9807 9798 9398 9292 8763 8732 8700 8656 8598 8517 8495 8479 8456 8417 8385 8240 8157 8076 7978 7663 7560 7513 6967 6750 6691 6658 6082 6048 6015 5769 5764 5752 5714 5689 5629 5620 5581 5576 5524 5291 5266 5101 5069 5050 5015 4949 4849 4819 4661 4634 4515 4374 4270 4117 4105 4070 4050 4002 3880 3851 3692 3445 3266 3263 3242 2743 2568 2511 2391 2364 2261 2214 2208 2060 2048 1866 1754 1747 1691 1667 1574 1461 1455 1359 1356 1275 1185 977 907 666 598 527 456 328 322 261 224 212 180 160 
+adventures : 1 -- 9941 
+croqueting : 1 -- 8405 
+pig : 2 -- 6918 6848 
+arm : 10 -- 9136 9134 8634 8480 8457 7203 6262 4950 4476 4177 
+she : 202 -- 9963 9959 9934 9927 9851 9817 9452 9429 9220 9039 8677 8606 8508 8379 8364 8287 8275 8147 8015 7831 7742 7681 7673 7666 7655 7647 7637 7618 7614 7600 7583 7580 7558 7525 7516 7434 7246 7197 7108 7100 7082 6920 6767 6752 6532 6218 6195 6177 6127 6124 6090 6074 6051 6040 6037 6028 6012 5919 5913 5908 5662 5658 5632 5600 5595 5570 5550 5522 5485 5296 5257 5025 4966 4934 4928 4925 4898 4889 4882 4870 4858 4793 4679 4663 4647 4642 4512 4442 4407 4391 4370 4362 4360 4282 4275 4272 4228 4220 4174 4165 4156 4103 4097 4030 3989 3974 3937 3934 3919 3829 3736 3724 3712 3432 3379 3261 2738 2530 2379 2293 2248 2181 2124 2116 2103 2095 2091 2083 2078 2070 2056 2044 1993 1949 1945 1920 1896 1887 1874 1862 1859 1806 1799 1741 1688 1677 1618 1595 1585 1515 1506 1484 1478 1471 1467 1373 1346 1339 1294 1273 1263 1257 1255 1247 1238 1236 1231 1216 1193 1152 1091 1080 1037 1014 972 949 933 880 874 805 797 789 725 650 628 619 552 533 518 499 477 464 458 450 444 439 419 355 331 218 208 174 
+get : 19 -- 8945 6882 6758 6445 6438 6110 4894 4386 4346 3792 3056 2709 2584 1637 1430 976 952 801 154 
+_THE : 1 -- 118 
+ran : 10 -- 9960 9955 8839 8467 4929 4899 3920 1994 356 258 
+the : 741 -- 13053 13029 12997 12940 12937 12886 12873 12830 12803 12755 12743 12734 12710 12691 12663 12631 12559 12549 12520 12510 12507 12484 12471 12451 12425 12410 12395 12372 12355 12345 12333 12291 12262 12241 12233 12231 12218 12201 12194 12187 12181 12178 12158 12099 12092 12074 12065 12047 12044 12026 12012 12003 11997 11993 11979 11853 11850 11844 11832 11768 11754 11718 11712 11709 11700 11641 11626 11576 11557 11554 11515 11505 11498 11456 11440 11437 11422 11413 11407 11327 11311 11290 11270 11265 11204 11200 11184 11132 11117 11112 11109 11099 11090 11065 11062 11031 11028 11025 11010 11003 10994 10974 10964 10961 10945 10917 10914 10888 10870 10862 10840 10811 10801 10769 10761 10757 10726 10701 10691 10684 10677 10670 10648 10628 10605 10597 10593 10584 10580 10576 10572 10562 10553 10523 10494 10469 10428 10420 10409 10357 10337 10280 10277 10267 10246 10239 10213 10167 10147 10125 10104 10089 10079 10059 10052 10049 10035 9975 9898 9880 9874 9843 9837 9804 9800 9788 9781 9765 9757 9739 9718 9708 9705 9700 9697 9689 9672 9652 9634 9612 9605 9581 9564 9536 9522 9494 9469 9465 9444 9441 9437 9432 9412 9405 9395 9388 9383 9380 9373 9366 9358 9353 9342 9320 9313 9309 9298 9295 9288 9283 9277 9273 9270 9266 9263 9257 9206 9189 9184 9173 9165 9153 9138 9132 9124 9114 9106 9087 9076 9069 9066 9062 9028 9024 9017 9012 9009 9005 8998 8994 8974 8962 8959 8954 8946 8929 8925 8922 8907 8904 8885 8880 8842 8835 8827 8819 8811 8796 8788 8780 8778 8775 8766 8751 8744 8739 8735 8714 8712 8674 8670 8649 8632 8620 8617 8609 8595 8591 8568 8556 8553 8546 8513 8510 8469 8449 8427 8423 8412 8410 8373 8350 8347 8305 8284 8281 8256 8220 8212 8207 8193 8177 8172 8142 8111 8103 8100 8087 8082 8068 8050 8033 7991 7980 7966 7942 7937 7932 7921 7907 7894 7891 7877 7853 7844 7805 7778 7715 7713 7710 7696 7691 7687 7676 7653 7644 7639 7633 7628 7622 7588 7566 7563 7543 7536 7533 7522 7509 7506 7480 7450 7432 7416 7411 7407 7403 7388 7385 7345 7339 7327 7310 7298 7278 7264 7259 7209 7166 7144 7140 7137 7114 7090 7087 7071 7048 7037 7006 6994 6990 6946 6937 6922 6835 6829 6775 6771 6764 6747 6741 6708 6693 6666 6664 6661 6647 6642 6639 6631 6602 6568 6561 6544 6537 6504 6499 6494 6484 6482 6460 6453 6450 6380 6376 6365 6353 6346 6340 6337 6332 6326 6305 6300 6295 6285 6280 6272 6229 6211 6199 6174 6095 6064 6043 6021 6007 5989 5935 5915 5886 5857 5854 5850 5837 5830 5827 5803 5791 5777 5745 5644 5610 5565 5559 5540 5515 5504 5480 5477 5455 5440 5434 5429 5409 5356 5341 5307 5300 5282 5262 5245 5233 5181 5135 5117 5114 5097 5083 5066 5052 5041 5033 5020 5017 5005 4981 4970 4923 4902 4896 4874 4841 4829 4821 4812 4800 4776 4751 4698 4690 4657 4639 4630 4612 4605 4599 4594 4591 4578 4552 4523 4471 4431 4381 4368 4364 4349 4318 4309 4304 4292 4277 4264 4258 4242 4209 4186 4180 4162 4126 4109 4101 4060 4047 4039 4033 4013 3992 3986 3977 3955 3945 3873 3865 3861 3857 3854 3822 3819 3752 3733 3703 3699 3639 3635 3607 3597 3578 3565 3543 3529 3498 3495 3483 3463 3448 3439 3421 3401 3352 3334 3324 3313 3304 3276 3235 3226 3213 3185 3161 3141 3106 3101 3076 3074 3052 3044 3021 3016 3006 3002 2992 2951 2922 2908 2883 2879 2868 2860 2852 2833 2826 2819 2807 2795 2791 2788 2747 2684 2679 2677 2656 2651 2648 2620 2613 2586 2556 2524 2505 2487 2456 2441 2435 2408 2401 2311 2296 2273 2257 2245 2188 2159 2109 2086 2075 2030 2019 2012 2005 2000 1990 1975 1943 1938 1910 1880 1855 1848 1842 1840 1828 1804 1794 1782 1776 1771 1750 1737 1735 1721 1700 1685 1672 1630 1608 1600 1581 1578 1528 1513 1493 1480 1458 1432 1424 1411 1386 1371 1301 1285 1282 1270 1251 1241 1234 1221 1202 1196 1190 1065 1058 1055 1010 980 942 939 915 903 898 870 852 846 841 838 793 784 777 764 757 730 727 694 672 639 592 560 549 539 515 483 480 433 377 358 300 284 280 248 241 231 221 196 178 163 116 113 100 45 42 16 
+few : 4 -- 10477 6957 4226 2721 
+one : 34 -- 10069 10051 9241 9181 9096 8914 8406 8328 7799 7586 7206 7173 7164 6479 6394 6060 5369 4872 4854 4665 4183 4176 3293 3232 2218 1878 1714 1633 1624 1280 836 780 547 513 
+WORK : 1 -- 10236 
+eye : 2 -- 1634 1360 
+SONS : 2 -- 136 127 
+procession : 2 -- 7967 7956 
+invitation : 2 -- 6303 6283 
+his : 17 -- 9554 9508 9408 9231 9202 9193 8970 8967 8758 8583 8235 7214 6261 6232 6215 4710 3914 
+law : 3 -- 12204 12179 3470 
+everything : 3 -- 6656 3845 1814 
+hit : 2 -- 6690 4818 
+let : 1 -- 2432 
+YORK : 2 -- 139 130 
+production : 1 -- 12263 
+swallowing : 1 -- 5289 
+lay : 2 -- 5686 4839 
+met : 3 -- 12829 5072 3461 
+statements : 1 -- 12864 
+fix : 1 -- 12091 
+wig : 1 -- 8972 
+ten : 5 -- 7912 7895 7881 5345 1181 
+rat : 1 -- 931 
+net : 2 -- 10044 109 
+may : 18 -- 12081 12055 12029 11776 11773 11378 11213 10903 10447 10415 10201 10192 10173 10139 9260 7605 6733 31 
+whatsoever : 2 -- 10901 29 
+for : 64 -- 12891 12807 12440 12419 12098 11985 11877 11831 11652 11615 11383 11348 11104 11024 10887 10675 10386 10177 10160 10146 9813 8404 8269 8211 8203 8095 8040 6543 6534 6369 6304 6014 5966 5927 5840 5506 5344 4799 4561 4547 4452 4269 4207 4084 3913 3836 3818 3711 3005 2612 2033 1989 1552 1512 1253 1227 1199 1090 1029 443 397 324 220 15 
+permission : 7 -- 11695 11110 11063 11023 10959 10153 10093 
+paw : 2 -- 7008 6996 
+sat : 5 -- 7198 3344 2779 1645 1305 
+I'll : 10 -- 9160 7550 6853 4342 3519 3476 2590 1429 1396 1077 
+any : 47 -- 13016 12863 12808 12325 12318 12305 12289 12258 12236 12210 12168 11982 11859 11612 11527 11357 11231 11221 11175 11152 11143 11085 10979 10858 10850 10808 10805 10789 10455 10316 10264 10259 10179 9755 9544 8339 7548 5721 5241 4486 4137 2392 2173 2144 1023 865 859 
+org : 13 -- 13037 12920 12814 12656 12641 12617 12545 12479 11279 10930 10295 10022 58 
+doubtfully : 1 -- 5911 
+box : 6 -- 9434 9290 8976 4752 3272 1366 
+key : 9 -- 7636 2015 1603 1412 1244 1018 901 853 825 
+lit : 1 -- 748 
+new : 3 -- 13077 13064 12366 
+pay : 1 -- 11400 
+raw : 1 -- 5983 
+cur : 1 -- 3499 
+got : 16 -- 9952 8133 7493 6318 5694 5431 5159 4958 4626 4598 4481 3563 3281 1905 1832 1232 
+non : 1 -- 12498 
+fly : 1 -- 8442 
+I've : 10 -- 9918 7458 5800 5796 5789 5267 4957 3489 2500 1745 
+hot : 2 -- 7352 1149 
+saw : 5 -- 7526 7186 6966 947 500 
+but : 43 -- 12859 12586 11781 11445 9829 8729 8014 7767 7722 7221 7165 7060 5962 5832 5807 5656 5631 5163 5024 5004 4927 4390 4316 3838 3424 3119 2932 2223 2003 1978 1635 1287 1225 971 857 843 821 766 729 659 525 468 184 
+was : 164 -- 12431 9886 9693 9675 9361 9282 9221 9146 9086 8961 8931 8906 8887 8832 8721 8703 8636 8502 8490 8472 8419 8415 8389 8375 8266 8222 8160 8072 8065 8037 7864 7807 7667 7572 7376 7225 7161 7153 7126 7094 6940 6911 6864 6782 6702 6695 6575 6547 6501 6486 6474 6334 6329 6235 6086 5974 5869 5815 5767 5739 5709 5665 5624 5615 5596 5584 5495 5419 5080 5044 4890 4877 4681 4494 4411 4325 4283 4263 4141 4042 3949 3816 3751 3678 3450 3441 3338 3301 3291 3143 3135 3112 3039 2828 2823 2706 2615 2607 2571 2507 2404 2374 2256 2130 2123 2096 2084 2068 2057 2036 2016 2008 1946 1942 1928 1921 1888 1869 1699 1696 1661 1639 1614 1586 1533 1507 1472 1468 1368 1289 1194 1178 1175 1118 1060 1046 888 854 830 817 798 747 732 720 697 683 675 667 661 644 641 620 591 568 531 521 470 465 435 363 263 209 182 151 
+newsletter : 1 -- 13073 
+cut : 1 -- 7818 
+'Let : 1 -- 3465 
+est : 1 -- 2252 
+set : 17 -- 12172 12106 11721 11687 11186 11037 10431 10101 9627 7648 7129 6921 6652 6052 5601 1485 79 
+tax : 6 -- 12866 12730 12556 12529 12516 11485 
+fur : 2 -- 3788 2688 
+say : 13 -- 8813 8726 7308 7296 7274 6706 5271 4778 4338 3042 2236 704 286 
+use : 14 -- 11586 11426 11414 11069 11026 10911 10889 10174 6361 2145 1312 197 39 17 
+sir : 6 -- 5385 5327 5192 5146 3504 1765 
+cry : 3 -- 8828 3709 1650 
+who : 19 -- 12847 11533 10463 9885 9323 9127 8471 8071 7995 7838 5227 5154 3930 3209 3180 2835 2749 2403 1544 
+how : 13 -- 13067 13059 13048 12458 8372 6115 5701 2707 1518 1003 985 796 715 
+lot : 1 -- 10508 
+dry : 6 -- 3159 3058 2984 2775 2710 636 
+pop : 1 -- 370 
+nor : 2 -- 6914 270 
+yer : 2 -- 4477 4454 
+wet : 2 -- 2971 2696 
+its : 25 -- 12687 12587 11314 10705 7367 7360 7355 7318 6896 6791 6001 5860 5772 5311 5304 5121 5086 4216 3655 3611 2997 2569 2411 2220 308 
+not : 54 -- 13009 12828 12820 12792 12784 12761 12216 12150 11782 11551 11344 11164 11126 10949 10610 10403 10351 10157 10140 9525 9169 8461 7102 7077 6713 6169 5964 5360 5238 5197 5096 5027 4795 4385 3540 3320 3280 3188 3136 2928 2397 2328 1839 1259 1089 1047 974 926 882 863 684 645 535 410 
+way : 23 -- 10456 10265 8960 8542 8440 8271 7561 6980 4988 4003 3248 3078 2649 2189 2160 2113 1466 1453 1451 1428 778 399 281 
+yet : 6 -- 9716 9576 7461 7387 7065 2341 
+low : 12 -- 9568 9327 8816 8354 7775 6314 3717 2579 2428 1759 878 744 
+too : 9 -- 8722 6519 4142 1562 1290 855 849 471 296 
+zip : 1 -- 10006 
+pot : 1 -- 7538 
+top : 4 -- 9805 9406 5084 1459 
+won : 2 -- 3202 3182 
+now : 21 -- 8538 8473 8291 6862 6417 6025 5546 4738 4713 4506 4284 4214 3909 2959 2146 1988 1922 1587 1554 1195 1179 
+own : 2 -- 8584 213 
+SAM'L : 2 -- 134 125 
+possession : 1 -- 10380 
+'Who : 1 -- 1846 
+volunteers : 5 -- 12588 12393 12377 12259 11734 
+our : 10 -- 13071 13063 13024 12881 7828 7816 3624 3513 2476 2348 
+'Tis : 1 -- 8550 
+sky : 3 -- 6347 5887 4759 
+It's : 5 -- 8283 8052 7565 6597 3661 
+throughout : 1 -- 12593 
+why : 7 -- 7756 6606 6591 6158 3425 3371 2598 
+row : 1 -- 752 
+out : 55 -- 12686 9704 9403 9200 9080 9002 8801 8474 7847 7811 7258 7183 7130 6832 6790 6769 6325 6209 6163 5839 5678 5512 5496 5309 5119 4900 4590 4550 4514 4461 4373 4178 3984 3929 3892 3649 3270 3244 3165 3089 2761 2271 2190 2157 2127 2081 1936 1526 1298 953 802 462 348 306 278 
+usurpation : 1 -- 2846 
+put : 9 -- 7796 7532 4175 4124 4067 3262 1876 1546 544 
+two : 13 -- 9532 9512 8140 6818 6558 6370 6194 5516 5428 4765 4021 3115 1924 
+provisions : 1 -- 12220 
+you : 138 -- 12327 12294 12118 12080 12059 12054 12042 12024 12009 12001 11995 11983 11973 11959 11876 11692 11664 11634 11535 11475 11424 11410 11363 11280 11239 11005 10984 10817 10754 10735 10729 10713 10645 10616 10601 10521 10511 10480 10426 10414 10401 10382 10362 10349 10328 10325 10271 10200 10155 10150 10144 10082 9945 9747 9489 9162 9118 8680 8666 8528 8345 8301 8029 7823 7820 7781 7757 7747 7475 7426 7383 7343 7301 7276 7272 7255 7253 7250 7044 7032 7015 6975 6860 6739 6583 6456 6443 6398 6383 5897 5707 5460 5451 5387 5375 5351 5322 5317 5222 5199 5176 4720 4696 4437 4352 3890 3664 3561 3550 3534 3427 3374 3366 3034 2956 2890 2816 2802 2774 2766 2592 2551 2483 2463 2461 2360 2347 2323 2303 2186 1763 1569 1553 1325 1111 1097 945 610 
+ALICE : 2 -- 9992 90 
+try : 3 -- 9752 5564 3528 
+txt : 1 -- 10002 
+AGREE : 2 -- 11910 11886 
+6221541 : 1 -- 12534 
+www : 8 -- 13035 12477 11277 10928 10042 10020 107 56 
+MERCHANTIBILITY : 1 -- 12138 
+ASCII : 2 -- 11318 11259 
+PGLAF : 1 -- 10556 
+Replacement : 1 -- 11835 
+'I'll : 2 -- 3527 3516 
+EBOOK : 2 -- 9991 89 
+Caterpillar : 12 -- 5481 5430 5410 5357 5301 5283 5263 5246 5234 5182 5136 5115 
+synonymous : 1 -- 12343 
+_Everybody_ : 1 -- 3200 
+'tis : 2 -- 8564 8562 
+it's : 11 -- 9625 8578 8053 7482 4860 4480 4474 2910 2237 1085 717 
+_All : 1 -- 9513 
+DRINK : 1 -- 1067 
+Jack : 1 -- 4749 
+tm's : 1 -- 12405 
+Ahem : 1 -- 2793 
+Read : 1 -- 9683 
+Call : 2 -- 9272 9061 
+Dear : 1 -- 1810 
+Lake : 1 -- 12607 
+SENDS : 1 -- 3745 
+RIGHT : 1 -- 11953 
+UNDER : 1 -- 11920 
+QUEEN : 1 -- 7962 
+Date : 1 -- 70 
+TEARS : 1 -- 1500 
+Hare : 8 -- 9126 7452 7418 7280 7266 7142 7092 7012 
+disappeared : 1 -- 9376 
+Alas : 1 -- 4139 
+Said : 1 -- 3494 
+OTHER : 1 -- 12123 
+Distributed : 2 -- 10037 102 
+THOSE : 1 -- 11904 
+Bill : 4 -- 4688 4621 4603 4601 
+Have : 1 -- 7382 
+Here : 5 -- 9418 6731 4620 4602 4456 
+Come : 7 -- 8046 5648 5260 4457 3657 3475 1309 
+Information : 5 -- 12925 12659 12482 12331 11511 
+Take : 2 -- 8694 7446 
+Keep : 1 -- 5278 
+Once : 2 -- 7616 171 
+Dodo : 7 -- 3227 3186 3162 3075 3045 2993 2635 
+STOLE : 1 -- 8846 
+Hold : 2 -- 9784 4708 
+Duck : 3 -- 2909 2880 2632 
+Team : 2 -- 10039 104 
+educational : 1 -- 12503 
+Wake : 1 -- 9903 
+Mind : 1 -- 6861 
+King : 23 -- 9740 9719 9673 9549 9504 9495 9466 9381 9343 9316 9310 9278 9264 9258 9154 9115 9067 9013 8963 8905 8850 8812 8779 
+Mine : 1 -- 3392 
+Good : 1 -- 1534 
+Irma : 2 -- 10032 97 
+Five : 2 -- 7837 7762 
+Fish : 2 -- 6327 6254 
+OWNER : 1 -- 11916 
+Give : 2 -- 9305 9149 
+Cats : 1 -- 6612 
+maintaining : 1 -- 12729 
+dead : 2 -- 9891 9694 
+TARTS : 1 -- 8848 
+Even : 1 -- 6536 
+Frog : 1 -- 6291 
+START : 2 -- 10219 84 
+disclaimers : 1 -- 12152 
+Hart : 2 -- 12935 11708 
+replacement : 3 -- 12103 12034 11620 
+Then : 8 -- 8795 7935 7646 7271 6310 4700 4341 4250 
+face : 9 -- 9902 8077 6897 6245 6216 5765 4822 2570 1186 
+complaining : 1 -- 8320 
+PARTY : 1 -- 7124 
+_me_ : 1 -- 5958 
+aged : 1 -- 12364 
+each : 4 -- 11471 8897 8129 5543 
+That : 2 -- 3459 1963 
+back : 15 -- 9472 8733 8369 7518 5754 5276 5261 3757 3587 3335 2566 2539 1998 1249 1008 
+caterpillar : 1 -- 5078 
+When : 6 -- 9116 7965 6321 2555 1749 1230 
+head : 15 -- 9878 9799 8764 8759 8683 8241 8236 7361 4850 4711 4106 3612 1575 1462 978 
+Away : 1 -- 690 
+Full : 1 -- 10281 
+immediately : 1 -- 5071 
+idea : 7 -- 9778 7409 4846 3446 3254 2067 829 
+Salt : 1 -- 12606 
+From : 1 -- 6299 
+Last : 1 -- 4721 
+Some : 2 -- 12147 3637 
+Well : 7 -- 9539 9336 5984 4728 4479 2326 1395 
+cake : 2 -- 1494 1383 
+What : 11 -- 9487 9345 8094 5348 5174 4717 4200 3548 3064 3037 1158 
+considering : 1 -- 210 
+Many : 1 -- 12718 
+downloading : 1 -- 10775 
+edge : 2 -- 5541 5067 
+deal : 5 -- 5956 5587 3193 1972 1561 
+came : 25 -- 9846 9090 7968 7957 7920 7906 7880 7083 6669 6207 6128 5275 4847 4808 4722 4570 4427 4306 4251 3938 1752 1724 875 806 629 
+practically : 1 -- 10203 
+made : 11 -- 9348 9040 5751 4918 4589 4519 4377 2126 2080 812 223 
+Rule : 1 -- 9510 
+Hush : 2 -- 8085 8084 
+Will : 1 -- 4604 
+glad : 3 -- 8492 7235 1980 
+Down : 1 -- 556 
+This : 13 -- 13038 10884 10007 9995 9590 9167 6901 4525 3629 3183 2805 1035 12 
+City : 1 -- 12608 
+fundraising : 1 -- 12546 
+Mary : 4 -- 4239 4237 3979 3886 
+bend : 2 -- 5717 3567 
+card : 1 -- 12912 
+data : 1 -- 11789 
+game : 3 -- 8713 8374 8143 
+bear : 1 -- 4607 
+_is_ : 4 -- 7338 6116 3409 3065 
+They : 5 -- 10191 4916 2777 2712 2667 
+been : 11 -- 9971 9948 9594 7840 7789 7063 6430 6092 3149 2840 775 
+_I'm_ : 1 -- 9524 
+_no_ : 1 -- 6906 
+race : 5 -- 3167 3142 3091 3068 3063 
+_it_ : 1 -- 2882 
+hand : 13 -- 9293 9097 8952 8915 7116 5646 5561 5544 4516 4375 3264 1715 1456 
+care : 3 -- 8624 8615 1437 
+half : 10 -- 9860 9856 8769 8691 4100 3384 3151 3024 1670 1012 
+Mississippi : 1 -- 12513 
+need : 1 -- 12398 
+beat : 1 -- 9866 
+read : 7 -- 11818 10330 9703 9506 9402 9032 9008 
+Miss : 2 -- 7825 7783 
+With : 1 -- 3505 
+call : 2 -- 9382 3428 
+case : 1 -- 2990 
+dare : 1 -- 2235 
+dear : 13 -- 9906 8524 6850 3784 3503 2961 2536 2491 2369 1811 607 292 290 
+feel : 2 -- 1464 225 
+bank : 3 -- 9875 2678 164 
+page : 2 -- 12637 12474 
+held : 2 -- 6789 6042 
+Room : 1 -- 114 
+generations : 2 -- 12446 12420 
+date : 2 -- 12624 11472 
+compilation : 1 -- 10559 
+paid : 6 -- 11984 11614 11529 11466 10427 10383 
+baby : 6 -- 6776 6748 6694 6665 6545 6498 
+fear : 1 -- 3972 
+fact : 4 -- 7779 6636 6616 1584 
+beds : 2 -- 7694 963 
+heap : 1 -- 632 
+make : 11 -- 13050 12862 12193 8192 5511 5459 5450 4863 4079 2773 461 
+deep : 2 -- 437 430 
+DAMAGE : 1 -- 11948 
+pack : 4 -- 9839 9831 8882 8023 
+safe : 1 -- 4940 
+Sure : 2 -- 4473 4447 
+Next : 2 -- 7919 4426 
+hard : 5 -- 9484 4932 4327 2513 1785 
+Soon : 1 -- 1358 
+nice : 2 -- 2472 1132 
+fall : 4 -- 7738 4398 640 561 
+file : 2 -- 10289 9996 
+indignantly : 2 -- 7195 5785 
+life : 4 -- 12386 8158 7577 2744 
+Poor : 2 -- 3705 1611 
+high : 14 -- 9534 9528 9519 7671 6185 6143 5423 3662 2608 2099 1926 1593 1183 895 
+hear : 7 -- 13075 8330 6397 4504 2434 702 283 
+necessarily : 1 -- 13010 
+mean : 5 -- 7474 7293 7277 7251 5177 
+name : 7 -- 10681 9666 9649 9413 8003 3956 2436 
+neck : 5 -- 6016 5715 5670 4118 1056 
+find : 13 -- 9754 8494 7809 7257 5712 4986 4880 2924 2904 2730 1982 1476 1016 
+said : 143 -- 9924 9907 9815 9794 9787 9774 9764 9738 9717 9671 9633 9580 9562 9546 9535 9529 9501 9496 9464 9379 9352 9344 9324 9312 9308 9276 9262 9256 9152 9148 9113 9065 9011 8716 8594 8574 8552 8540 8359 8349 8316 8304 8288 8096 8086 8079 8058 8043 8010 7988 7982 7765 7751 7581 7555 7479 7453 7435 7415 7410 7390 7364 7344 7269 7263 7224 7193 7070 7058 7036 6992 6851 6828 6743 6630 6624 6601 6586 6526 6449 6364 6125 5988 5959 5934 5898 5829 5783 5654 5551 5479 5408 5390 5328 5315 5299 5287 5281 5232 5217 5193 5180 5134 4961 4241 4189 3935 3916 3627 3577 3557 3542 3523 3455 3414 3400 3368 3225 3199 3073 3069 3043 3015 2991 2974 2907 2878 2859 2794 2576 2448 2329 2225 2045 1968 1860 1446 1399 1317 1162 1081 1050 983 
+alas : 3 -- 2004 1226 844 
+hall : 8 -- 7624 3859 1673 1582 957 842 765 745 
+unsolicited : 1 -- 12840 
+explanation : 2 -- 12017 11991 
+distributed : 4 -- 12964 12703 10970 10883 
+fair : 1 -- 8667 
+fine : 1 -- 8056 
+free : 7 -- 12346 11653 10655 10531 10247 5874 5651 
+kick : 1 -- 4667 
+hate : 2 -- 3375 2602 
+pale : 2 -- 9551 2573 
+leap : 1 -- 2270 
+chin : 4 -- 8601 5614 5577 2061 
+dark : 3 -- 956 663 472 
+Most : 1 -- 13020 
+West : 1 -- 12605 
+mail : 1 -- 11541 
+fees : 4 -- 12773 12282 11884 10980 
+knee : 1 -- 9242 
+gave : 5 -- 9852 7420 4664 2267 1333 
+fell : 5 -- 7500 4052 1361 553 440 
+Thus : 1 -- 13006 
+discontinue : 1 -- 11584 
+alternately : 1 -- 6551 
+real : 1 -- 3978 
+have : 22 -- 12827 12791 10818 10329 9946 9663 9656 9161 9111 8338 8294 7815 7788 7443 6854 6220 5168 3848 3804 3482 3206 1893 
+come : 8 -- 12422 9575 6153 5882 3586 2538 2241 563 
+here : 14 -- 8253 7785 7042 6986 4450 3893 3694 3626 3108 2201 2162 1048 613 496 
+feet : 12 -- 8190 7889 6142 4256 2998 2098 1925 1683 1592 1541 1536 323 
+Illustrator : 1 -- 66 
+main : 1 -- 13030 
+information : 3 -- 13042 12645 12626 
+interpreted : 1 -- 12191 
+BREACH : 2 -- 11900 11896 
+quarrelling : 1 -- 8205 
+keep : 3 -- 13011 12777 5340 
+once : 12 -- 9304 8243 8200 7611 7519 6651 5605 3644 3239 2782 1597 1224 
+beautifully : 2 -- 1391 1069 
+side : 9 -- 8898 8425 6378 5469 5464 5457 5448 1625 781 
+like : 34 -- 9667 8660 8346 7230 7103 7054 7016 6740 6595 6249 5981 5723 5675 5379 5371 5032 4757 4747 3691 3452 2553 2480 2320 2308 2305 2138 1527 1315 1169 1033 992 693 536 394 
+take : 9 -- 8623 7486 7477 7471 6801 4490 3477 2354 347 
+prohibition : 1 -- 12837 
+fire : 3 -- 6667 6648 6505 
+eggs : 3 -- 5967 5928 5828 
+Very : 2 -- 8078 3871 
+Fury : 2 -- 3526 3454 
+tale : 2 -- 3449 3399 
+Lory : 2 -- 2861 2637 
+done : 4 -- 8948 8579 6120 1894 
+near : 11 -- 9297 8903 7709 7106 6339 6173 6094 5049 4059 2475 1753 
+Just : 7 -- 9210 8996 8464 7578 6637 2101 1570 
+same : 12 -- 10702 8592 7340 7328 7299 6377 6296 5342 5053 1841 1829 1481 
+tied : 1 -- 1053 
+late : 4 -- 4143 2842 716 297 
+mile : 2 -- 9527 9518 
+flat : 1 -- 7859 
+desk : 1 -- 7233 
+hold : 2 -- 12230 4387 
+fond : 2 -- 8249 2464 
+dish : 2 -- 8937 6426 
+dive : 1 -- 5742 
+blue : 1 -- 5077 
+neat : 1 -- 3941 
+harm : 1 -- 2177 
+hole : 3 -- 932 390 375 
+mind : 6 -- 9378 6716 5389 5256 329 214 
+LIABLE : 1 -- 11926 
+wide : 2 -- 12678 7217 
+gone : 5 -- 8704 8420 7078 6330 5921 
+help : 5 -- 13061 12464 10529 7034 4459 
+home : 2 -- 6884 3895 
+good : 9 -- 5955 5586 5405 5242 4582 3831 1971 1521 1336 
+lock : 1 -- 904 
+else : 3 -- 9661 5105 570 
+blew : 2 -- 9072 9020 
+fish : 1 -- 6224 
+cart : 1 -- 4575 
+seem : 3 -- 9170 8336 2982 
+tail : 3 -- 3423 3412 2412 
+nine : 3 -- 6183 2097 1591 
+disk : 1 -- 11803 
+sigh : 1 -- 7423 
+Puss : 1 -- 6969 
+does : 3 -- 11550 10948 5939 
+left : 8 -- 9269 8798 8747 8263 7115 5645 3680 3127 
+meet : 3 -- 12775 3976 2946 
+cats : 8 -- 6621 2603 2546 2426 2358 2321 2309 2306 
+legs : 2 -- 6794 1283 
+than : 10 -- 11685 11256 9516 7488 7436 6916 2027 1642 1590 929 
+ears : 2 -- 8102 712 
+felt : 7 -- 9215 6927 6100 5571 3713 2380 617 
+seen : 4 -- 8150 3844 737 335 
+book : 7 -- 9556 9509 2264 1026 494 200 179 
+pgdp : 2 -- 10043 108 
+give : 6 -- 12058 10906 8665 7397 3212 34 
+'Take : 1 -- 8614 
+kill : 1 -- 6812 
+cook : 7 -- 9374 9354 9314 9285 6640 6569 6500 
+ADVICE : 1 -- 5108 
+talk : 6 -- 8531 8297 2544 2417 2389 2171 
+pair : 4 -- 4037 3902 3823 1708 
+rate : 6 -- 9545 7549 4487 2174 1024 860 
+hope : 4 -- 10643 4133 4077 595 
+both : 5 -- 11699 11075 7018 6312 3467 
+dogs : 3 -- 2605 2548 2467 
+cool : 2 -- 7697 969 
+milk : 1 -- 601 
+much : 14 -- 12769 8723 8590 7079 7057 6698 6629 6520 2843 1616 1509 927 584 277 
+fast : 1 -- 7157 
+girl : 2 -- 5948 5907 
+draw : 1 -- 5753 
+goes : 2 -- 4756 4687 
+frog : 2 -- 6251 2913 
+best : 5 -- 7829 3700 3077 3053 1276 
+even : 4 -- 10490 6687 2866 975 
+them : 31 -- 9937 9867 9684 9058 8890 8869 8654 8408 7929 7914 7745 7731 7527 7156 6686 6162 6155 5982 5876 5813 4817 3837 3806 3356 3286 2759 2741 2735 2692 2554 867 
+corporation : 1 -- 12504 
+lieu : 2 -- 12069 12037 
+owed : 1 -- 11435 
+also : 2 -- 12078 10732 
+Your : 5 -- 9631 9578 9329 9247 8008 
+impatiently : 2 -- 7362 3613 
+save : 2 -- 4116 1957 
+pegs : 1 -- 506 
+time : 22 -- 9826 9367 8740 8693 8219 7524 7433 6902 4563 4526 3998 3663 2609 1955 1805 1676 1036 872 700 604 448 366 
+then : 25 -- 9505 9026 8997 8465 8048 7672 6671 6638 6419 6062 6027 5987 5173 4703 4689 4662 4508 4448 4439 3099 2589 2102 476 401 316 
+Foundation's : 3 -- 12632 12573 12525 
+live : 2 -- 8174 8169 
+grin : 1 -- 6623 
+tree : 6 -- 8446 7793 7707 7133 6955 5852 
+ring : 2 -- 3349 2786 
+long : 12 -- 10631 9913 7623 6088 5092 4796 4496 3411 3395 3026 743 669 
+days : 4 -- 11969 11637 11544 11469 
+atom : 1 -- 9725 
+used : 4 -- 11263 10450 10142 5336 
+Northumbria' : 1 -- 2857 
+tell : 9 -- 7748 6977 6584 5896 5225 4465 3362 3355 2591 
+maps : 1 -- 501 
+that : 102 -- 12951 12699 12409 12283 12022 11813 11547 11398 10954 10644 10479 10327 10067 9944 9893 9741 9644 9428 8688 8635 8577 8566 8559 8526 8458 8416 8260 7641 7585 7442 7320 7252 7245 7099 7035 6891 6700 6620 6610 6596 6563 6523 6368 6117 6112 6098 6039 5923 5713 5685 5622 5285 5179 5079 5030 4990 4881 4828 4469 4424 4409 4330 4281 4146 4057 3814 3444 3386 3317 3133 3051 3001 2989 2674 2624 2292 2163 2134 2128 2082 2069 1937 1919 1895 1873 1531 1511 1477 1367 1316 1212 1206 1192 1095 955 919 831 618 487 407 330 269 
+void : 1 -- 12217 
+hers : 2 -- 9943 8639 
+drew : 2 -- 5213 4633 
+easy : 3 -- 10171 7484 3137 
+open : 4 -- 6132 5628 4314 864 
+ever : 7 -- 7571 2973 2028 1643 1532 946 799 
+wind : 1 -- 695 
+hung : 1 -- 504 
+pink : 1 -- 256 
+when : 32 -- 10712 9400 8860 8507 8274 7333 7323 7184 6964 6885 6880 6688 6201 5747 5661 5157 4049 3926 3146 3140 3129 3123 2902 2094 1830 1293 1246 772 724 623 299 250 
+away : 18 -- 10908 10199 9889 9060 8806 8454 6934 6804 5438 5259 4492 3658 3584 3118 2509 1961 1780 36 
+BEFORE : 1 -- 10230 
+told : 1 -- 9928 
+rise : 1 -- 5674 
+arms : 5 -- 8657 6792 5525 5305 5087 
+full : 14 -- 12560 11609 11558 11524 11328 11201 11133 10841 10707 10495 9822 6514 6475 4217 
+such : 16 -- 12845 11779 11566 11494 10181 9920 9425 8497 8151 6389 5395 4091 3575 2470 2419 2367 
+more : 23 -- 12449 9572 9515 7617 7472 7448 7112 6913 6856 5818 5816 4733 4567 4533 4197 4138 3358 3030 3010 2393 1640 1589 1214 
+were : 30 -- 8988 8984 8855 8784 8742 8168 7911 7898 7724 7720 7529 7168 7146 6567 5514 4831 4528 3840 3665 3157 3103 2668 2630 2324 1390 848 768 760 611 489 
+form : 4 -- 12707 11321 11236 11229 
+loud : 1 -- 6833 
+blow : 1 -- 5574 
+pope : 1 -- 2827 
+last : 15 -- 7951 7685 7523 6830 5878 5653 5636 5521 5113 4569 4511 4172 3341 3197 2746 
+salt : 2 -- 3277 2063 
+kept : 6 -- 9178 7657 6017 3433 1800 1746 
+door : 23 -- 9299 7640 7592 6466 6461 6381 6354 6341 6230 4897 4319 4310 3946 3867 2007 2002 1610 1425 1235 1204 916 891 788 
+from : 31 -- 12984 12871 12842 12823 12380 12288 12274 11999 11698 11412 11139 10944 10617 10419 10061 9897 9507 9180 6985 6577 6478 6284 6259 5885 4405 4119 2510 1959 1099 756 512 
+some : 18 -- 9890 9658 9356 9041 8987 8983 8270 7447 7111 6899 6778 5608 4826 4815 4562 3308 2756 398 
+well : 16 -- 9962 9932 8878 8587 8367 7607 7307 6530 6010 5932 5294 2900 484 434 431 216 
+what : 21 -- 10734 9965 9911 7374 7294 7275 6872 6717 5938 4672 4540 3888 3255 2920 2897 2892 2121 1695 463 424 194 
+RABBIT : 3 -- 3958 3744 148 
+site : 4 -- 13040 13026 12634 11276 
+nose : 1 -- 7356 
+many : 4 -- 12772 7868 5203 4583 
+till : 6 -- 7665 7107 6176 4646 4359 4274 
+grew : 1 -- 4221 
+ones : 1 -- 3326 
+knew : 2 -- 4261 1002 
+drop : 1 -- 538 
+look : 5 -- 5838 4268 1627 1078 454 
+note : 1 -- 9555 
+love : 2 -- 8565 8563 
+play : 6 -- 8311 8030 7045 6761 6308 6288 
+tone : 11 -- 9456 8321 7467 6298 6278 5994 3884 3049 2979 2497 2334 
+roof : 3 -- 4606 1579 758 
+eyes : 10 -- 7735 7368 7215 6248 5070 4051 2222 1692 1357 257 
+laws : 8 -- 12878 12744 12571 12567 12508 10762 10742 10724 
+part : 4 -- 11176 11147 10317 10109 
+less : 1 -- 6915 
+hiss : 1 -- 5750 
+move : 1 -- 3000 
+lips : 1 -- 4071 
+lest : 1 -- 3973 
+swam : 3 -- 2654 2564 2117 
+foot : 7 -- 9182 7670 5621 5582 4635 4184 2049 
+will : 12 -- 12415 11095 10646 10055 10047 10015 8622 5458 5449 4781 3472 1545 
+past : 1 -- 554 
+down : 50 -- 9896 9848 9371 9239 8135 7675 7199 6925 6894 6725 6181 6080 6005 5998 5884 5733 5664 5432 5290 4638 4629 4611 4160 4125 3693 3417 3345 2780 2763 2406 2161 1864 1671 1646 1622 1306 935 792 779 680 627 612 558 557 509 452 423 404 382 371 
+this : 78 -- 12303 12255 12213 12185 12175 12113 11964 11870 11690 11650 11453 11218 11178 11171 11149 11140 11120 10923 10786 10772 10739 10698 10694 10673 10526 10498 10472 10412 10360 10340 10319 10288 10256 10175 10163 10111 9836 9825 9682 9492 9212 9016 7986 7954 7835 7784 7582 7491 7220 6878 6802 6267 6126 5590 5161 4499 4463 4248 3997 3936 3896 3487 3453 3306 2930 2717 2559 2192 2152 2040 1941 1861 1834 1572 1329 1116 832 51 
+rose : 3 -- 9840 7792 7706 
+wood : 6 -- 7564 6938 6212 5855 4971 4944 
+wink : 1 -- 2216 
+cost : 3 -- 11285 10895 23 
+ACTUAL : 1 -- 11930 
+sent : 1 -- 11496 
+PLEASE : 1 -- 10227 
+She's : 1 -- 8089 
+nest : 1 -- 6002 
+want : 3 -- 7023 5977 5352 
+tidy : 1 -- 4006 
+'Such : 1 -- 3500 
+rats : 1 -- 2488 
+pool : 7 -- 3855 2614 2525 2193 2110 2087 1664 
+they : 34 -- 12397 11772 9641 9368 8992 8861 8741 8485 8334 8323 8310 8132 7972 7528 7185 7181 6689 6311 5879 5531 4838 4768 4557 3839 3672 3343 3318 3171 3147 3130 3124 3120 767 488 
+into : 39 -- 9131 8638 8602 8482 8444 8075 7643 7595 7535 6936 6895 6846 6469 6345 6111 6000 5763 5734 5439 4989 4952 4848 4834 4417 4004 3282 3265 2627 2074 1781 1629 1431 1355 1220 1205 941 922 546 177 
+DIRECT : 1 -- 11931 
+whom : 1 -- 10425 
+'What : 1 -- 5009 
+paws : 1 -- 3785 
+size : 10 -- 9823 6157 6097 5364 5349 5343 4978 4868 1482 1198 
+tart : 1 -- 1142 
+wish : 9 -- 11665 8943 4556 4145 3683 3620 2343 987 609 
+copy : 12 -- 12076 12035 11621 11307 11300 11294 11165 10904 10851 10389 10084 32 
+list : 1 -- 9396 
+word : 2 -- 11232 8728 
+four : 1 -- 6141 
+Don't : 2 -- 4714 2431 
+over : 14 -- 9431 9394 8969 7901 6503 6270 5065 3339 3169 3144 2377 2280 2242 642 
+miss : 1 -- 581 
+ORANGE : 1 -- 523 
+with : 112 -- 13015 12969 12956 12850 12779 12742 12733 12394 12344 12261 12254 12025 12014 11645 11603 11365 11193 11156 11108 11074 11061 11009 10999 10993 10958 10922 10897 10868 10831 10738 10718 10704 10690 10683 10669 10514 10493 10483 10457 10287 10275 10266 10205 10166 9876 9797 9480 9137 9092 8934 8910 8893 8863 8841 8807 8762 8757 8750 8711 8655 8409 8394 8239 8234 7917 7902 7885 7431 7342 7047 6877 6859 6805 6777 6763 6242 6231 6134 5771 5542 5085 4825 4785 4009 3954 3860 3418 3231 2942 2862 2797 2787 2734 2686 2681 2619 2281 2243 2217 1995 1706 1632 1299 1110 1064 614 491 353 338 255 50 25 
+wore : 1 -- 8966 
+room : 7 -- 7192 7180 7178 6772 5626 4048 4008 
+took : 13 -- 9057 8699 7508 6682 6641 5306 5116 4031 3911 1792 1598 508 303 
+hour : 2 -- 8771 3153 
+went : 25 -- 9238 8380 8228 7615 7281 6463 6349 5805 5446 4166 4148 3963 3765 2934 2528 1908 1821 1807 1653 1248 1007 691 451 391 383 
+user : 3 -- 11568 11532 11291 
+Let's : 1 -- 8708 
+sure : 4 -- 6810 4861 3796 3697 
+know : 22 -- 12834 9748 9490 7821 7302 6628 6619 6609 6457 5930 5376 5153 5145 4741 4731 3367 3139 3020 2896 2891 2811 2187 
+next : 12 -- 9384 9280 9274 7893 6323 6106 5568 4801 4675 4543 3299 1843 
+grow : 8 -- 9224 5461 5452 4974 4136 4081 1418 1406 
+soon : 13 -- 4937 4887 4155 3872 3679 2829 2772 2125 2079 1934 1490 1154 575 
+proprietary : 1 -- 11228 
+prominently : 2 -- 11182 10848 
+says : 1 -- 4624 
+swim : 1 -- 3852 
+wept : 1 -- 2093 
+poor : 8 -- 9254 9245 5699 2297 2031 1539 1302 1228 
+http : 10 -- 13034 12918 12812 12639 12543 12476 10293 10041 10019 106 
+show : 2 -- 2482 2346 
+NOTICE : 1 -- 11942 
+rush : 1 -- 4920 
+only : 16 -- 12970 10448 8413 8021 7996 6962 6557 6217 5368 4555 4503 3609 2362 2131 1180 1001 
+lost : 2 -- 3770 689 
+upon : 17 -- 12673 11308 9900 9849 8940 7860 7739 7354 6154 6130 4053 3960 3939 876 807 630 505 
+most : 4 -- 10744 10484 9709 6404 
+work : 49 -- 12322 12309 12114 12066 12045 12028 12004 11998 11966 11868 11677 11642 11628 11617 11312 11251 11219 11180 11173 11154 11150 11141 11121 11058 11029 11004 10992 10965 10941 10859 10857 10806 10794 10787 10740 10699 10685 10629 10590 10460 10399 10324 10261 10257 7650 6654 6054 5603 1487 
+hurt : 3 -- 6710 2295 648 
+ways : 1 -- 12905 
+REFUND : 1 -- 11957 
+CAUCUS : 1 -- 2661 
+shut : 3 -- 9553 2009 990 
+tiny : 3 -- 4093 4026 823 
+worm : 1 -- 2916 
+spot : 1 -- 9166 
+stop : 1 -- 6031 
+just : 17 -- 9947 9593 7373 7305 6865 5866 5846 5728 5482 5147 4412 4366 4043 1953 1823 698 364 
+very : 38 -- 10170 9217 8926 8491 8217 8055 8012 7598 7483 7456 7216 7056 6055 5591 5404 5218 5210 4154 3830 3714 3559 2196 2167 1979 1489 1381 1340 1335 1153 1131 583 441 436 429 276 266 226 155 
+owns : 2 -- 10557 10070 
+HEARTS : 1 -- 7964 
+soup : 3 -- 6645 6524 6516 
+wits : 1 -- 6166 
+Who's : 1 -- 4608 
+sort : 5 -- 8438 6359 4425 3095 1136 
+EXCEPT : 1 -- 11903 
+trot : 1 -- 6933 
+turn : 1 -- 6845 
+must : 23 -- 12010 11693 11564 11464 11325 11281 11072 11006 10846 10363 9341 9339 9331 8684 6755 5880 5834 5167 3481 3205 2383 1899 1165 
+jury : 6 -- 9758 9565 9433 8975 3521 3507 
+PEPPER : 1 -- 6189 
+he'll : 1 -- 3924 
+can't : 8 -- 9642 8329 7476 7470 7033 5705 5331 5187 
+LITTLE : 1 -- 3748 
+GROUND : 1 -- 7703 
+your : 25 -- 12569 12459 12015 11820 11483 11429 11068 10764 10379 9785 9665 9559 9450 9306 9150 8695 8682 8108 6592 5279 3590 3555 3364 2286 1548 
+EBook : 3 -- 9978 74 4 
+_Are_ : 1 -- 6442 
+ALICE'S : 3 -- 9416 140 121 
+STRICT : 1 -- 11894 
+we're : 2 -- 7826 7039 
+she's : 1 -- 3698 
+opportunity : 2 -- 12062 8403 
+it'll : 2 -- 6149 4078 
+don't : 14 -- 9721 9156 8335 8308 7022 6800 6627 5980 5339 3032 3019 2552 2335 1436 
+we've : 1 -- 9714 
+Alice : 166 -- 9980 9951 9925 9905 9816 9795 9775 9731 9547 9530 9502 9498 9486 9420 9414 9386 9214 8978 8949 8838 8809 8808 8783 8720 8718 8643 8575 8539 8489 8466 8430 8400 8362 8360 8315 8255 8145 8097 8080 8063 8044 8041 8011 8005 7971 7930 7871 7752 7740 7556 7492 7462 7455 7419 7400 7393 7285 7270 7194 7187 7075 7059 7029 6971 6939 6892 6863 6852 6808 6773 6745 6721 6625 6587 6525 6458 6441 6348 6322 6148 6003 5960 5899 5814 5784 5655 5499 5473 5391 5365 5329 5288 5272 5236 5194 5138 5125 5011 4962 4922 4823 4791 4774 4632 4545 4501 4355 4335 4260 4208 3999 3917 3876 3809 3772 3706 3677 3628 3592 3558 3546 3415 3405 3369 3251 3230 3070 2975 2966 2728 2646 2493 2449 2439 2330 2289 2233 2148 1969 1791 1755 1612 1505 1400 1318 1229 1163 1123 1051 1006 984 913 773 692 643 616 574 408 384 319 272 202 150 111 60 6 
+Chief : 1 -- 12650 
+Proofreading : 2 -- 10038 103 
+Catch : 1 -- 4694 
+Edgar : 1 -- 2943 
+Dinah : 5 -- 3687 3623 2350 605 590 
+isn't : 1 -- 9620 
+Email : 1 -- 12618 
+you'd : 3 -- 9662 2395 2353 
+_Was_ : 1 -- 1826 
+considerable : 2 -- 12767 11738 
+Fetch : 1 -- 4244 
+March : 9 -- 9142 9125 7451 7417 7279 7265 7141 7091 7011 
+_beg_ : 1 -- 9449 
+Melan : 1 -- 12580 
+won't : 5 -- 9793 4353 2543 2446 2388 
+_can_ : 2 -- 3802 1891 
+eBook : 6 -- 10924 10885 10176 10164 52 13 
+DAMAGES : 2 -- 11937 11829 
+added : 8 -- 9686 9618 8607 8016 7309 7247 5909 3380 
+After : 6 -- 7904 6035 4761 4224 1674 1209 
+Which : 2 -- 1452 1450 
+Plain : 2 -- 11316 11257 
+Speak : 1 -- 3013 
+modification : 1 -- 12312 
+abide : 1 -- 10354 
+Knave : 6 -- 9635 9049 8886 7992 7938 7544 
+_are_ : 1 -- 3889 
+GABRIEL : 2 -- 135 126 
+_all_ : 2 -- 9477 3204 
+Earls : 1 -- 2853 
+Edwin : 1 -- 2849 
+QUEEN'S : 1 -- 7701 
+Three : 1 -- 5392 
+There : 17 -- 10505 10474 9692 9674 7863 7125 5043 4686 4493 3290 3111 2468 816 759 682 567 262 
+While : 1 -- 12815 
+_red_ : 1 -- 7791 
+About : 1 -- 12926 
+_You_ : 1 -- 4617 
+Where : 3 -- 5690 4435 3801 
+Jason : 2 -- 10030 95 
+Kings : 1 -- 7924 
+Trial : 1 -- 7541 
+Found : 2 -- 2881 2876 
+Quick : 1 -- 3908 
+began : 19 -- 9300 9250 8640 8144 8120 8105 7772 6970 6256 4883 4769 3833 3707 3121 2249 2182 1756 1648 576 
+hedge : 2 -- 4699 378 
+Right : 1 -- 11833 
+check : 2 -- 12885 10760 
+bread : 3 -- 9234 9207 9102 
+Queen : 27 -- 9801 9789 9766 9537 9190 9036 8852 8797 8781 8745 8715 8671 8650 8348 8221 8112 8051 8034 7981 7878 7851 7849 7806 7049 6765 6301 6286 
+_she_ : 1 -- 3222 
+based : 2 -- 10784 10626 
+Never : 1 -- 9377 
+occasionally : 1 -- 6540 
+label : 1 -- 1063 
+again : 28 -- 9372 9226 8463 7554 7394 6888 5999 5313 5277 4979 4772 4517 4083 3758 3725 3710 3391 3346 3160 2711 2540 2503 2437 2250 2010 1903 1651 803 
+cease : 1 -- 10364 
+Seven : 1 -- 7764 
+magic : 1 -- 4211 
+White : 15 -- 9701 9690 9582 9389 9321 9070 9018 8999 8908 8069 7933 3753 1701 673 253 
+faces : 1 -- 7862 
+Title : 1 -- 59 
+LICENSE : 2 -- 10226 10221 
+reach : 3 -- 6659 1410 1261 
+chain : 1 -- 237 
+IMPLIED : 1 -- 12130 
+agree : 7 -- 12226 11552 10464 10404 10352 10332 10272 
+performances : 1 -- 10188 
+eager : 1 -- 7874 
+child : 2 -- 6803 2032 
+heard : 17 -- 9715 8833 8810 8509 4775 4680 4648 4445 4392 4363 4336 4229 3773 3726 2558 2104 1678 
+field : 1 -- 359 
+Lewis : 3 -- 9984 64 10 
+Newby : 1 -- 12649 
+legal : 2 -- 12281 11883 
+infringement : 1 -- 11798 
+intellectual : 2 -- 11796 10343 
+named : 1 -- 9999 
+heads : 2 -- 9442 7817 
+place : 2 -- 10727 6133 
+being : 3 -- 5201 4120 4090 
+begin : 3 -- 9119 4784 1005 
+claim : 1 -- 10611 
+death : 1 -- 3536 
+piece : 5 -- 9711 9199 9100 7659 3295 
+_I'll_ : 1 -- 2771 
+chair : 1 -- 7204 
+cakes : 3 -- 4875 4857 4836 
+cried : 11 -- 9419 9001 7182 6720 5776 2492 2400 2310 2288 1504 1308 
+climb : 1 -- 1278 
+confirmation : 1 -- 12795 
+email : 2 -- 13072 12614 
+LIMITED : 3 -- 12134 11952 11825 
+Stuff : 1 -- 9771 
+Still : 1 -- 4164 
+asked : 4 -- 6440 5487 5355 3220 
+dried : 1 -- 1690 
+table : 14 -- 8933 7631 7210 7160 7128 4011 3863 2021 1911 1372 1286 1252 1011 810 
+First : 5 -- 9081 7879 6372 3086 457 
+dream : 2 -- 9968 9923 
+liked : 2 -- 3131 3125 
+Mouse : 21 -- 3608 3579 3544 3440 3402 3353 2926 2884 2796 2789 2748 2557 2535 2506 2402 2373 2312 2266 2205 2203 2184 
+_was_ : 3 -- 6402 5156 1964 
+Illustration : 26 -- 9972 9834 9538 9014 8361 7539 7381 6252 5774 5137 5106 4945 4205 3741 3740 3071 2700 2658 2438 2100 1790 1495 912 387 144 110 
+pglaf : 7 -- 12919 12813 12655 12640 12616 12544 12478 
+choke : 1 -- 4715 
+fetch : 1 -- 3899 
+North : 1 -- 12603 
+Terms : 2 -- 10300 10106 
+frame : 1 -- 4420 
+Would : 4 -- 7746 2318 2140 559 
+large : 22 -- 9198 8936 7705 7202 7163 7096 6572 6508 6471 6247 5759 5076 5046 4290 4082 3314 2785 1718 1663 1074 850 373 
+grand : 1 -- 7955 
+elect : 1 -- 12030 
+cards : 3 -- 9833 8884 8025 
+afore : 1 -- 7830 
+alarm : 1 -- 6900 
+anger : 2 -- 9862 5292 
+above : 1 -- 4660 
+leave : 4 -- 9521 6824 4046 1327 
+codes : 1 -- 11812 
+cares : 1 -- 9812 
+balls : 1 -- 8167 
+hands : 6 -- 9680 8188 7887 6049 5700 1867 
+agent : 1 -- 12237 
+Visit : 1 -- 7013 
+needs : 1 -- 5881 
+banks : 1 -- 5798 
+kneel : 1 -- 4159 
+alone : 4 -- 12879 5788 4693 3681 
+judge : 3 -- 8957 3518 3509 
+dears : 2 -- 3660 1555 
+creep : 1 -- 1422 
+_not_ : 4 -- 6565 5892 5780 1119 
+pages : 1 -- 12890 
+Party : 1 -- 2444 
+solicitation : 1 -- 12831 
+alive : 1 -- 8264 
+begun : 1 -- 7237 
+bowed : 2 -- 7997 6313 
+green : 1 -- 5683 
+crash : 2 -- 6422 4401 
+doing : 3 -- 7827 6719 3891 
+fifth : 1 -- 3566 
+fancy : 1 -- 2356 
+speed : 1 -- 1997 
+cause : 5 -- 12328 12297 3531 2822 1939 
+makes : 5 -- 10797 8567 8527 1416 1404 
+along : 4 -- 8840 3105 1726 938 
+learn : 1 -- 12448 
+fight : 1 -- 8393 
+boxed : 1 -- 8099 
+since : 3 -- 6089 5172 3850 
+offer : 1 -- 2949 
+bring : 1 -- 1353 
+among : 9 -- 7928 7690 7026 6020 6006 5744 3634 2758 961 
+after : 10 -- 9623 8026 5265 4498 4357 3594 2719 2533 385 360 
+share : 1 -- 10714 
+files : 2 -- 11144 10011 
+guard : 1 -- 8900 
+taken : 1 -- 5849 
+broke : 1 -- 5535 
+thick : 1 -- 4943 
+which : 26 -- 13027 12990 12293 11771 11474 10869 10861 8397 7312 6979 6574 6510 6473 5671 5549 5547 5513 4406 3948 2255 2090 1465 1438 1385 1044 746 
+great : 19 -- 9588 9481 9458 8971 8865 8630 8257 6421 6264 5006 3971 3858 3192 2452 1856 1729 1560 908 528 
+staff : 1 -- 12883 
+arise : 1 -- 12284 
+finds : 1 -- 3928 
+means : 6 -- 11303 11296 10066 8589 2899 2894 
+birds : 7 -- 8989 8874 4913 3640 3315 2680 2621 
+speak : 3 -- 8332 2150 1520 
+going : 12 -- 8534 8376 7514 7377 6843 6407 5740 4044 3040 1929 1219 1200 
+shall : 5 -- 12215 12189 8293 1557 294 
+redistribute : 1 -- 11170 
+refreshments : 1 -- 8955 
+meant : 2 -- 9657 8039 
+bough : 1 -- 6952 
+aloud : 2 -- 7248 5489 
+ready : 2 -- 6759 2804 
+goals : 1 -- 12406 
+thank : 1 -- 4734 
+plate : 1 -- 3953 
+voice : 22 -- 9808 9570 9411 9328 8817 8511 8355 8115 8061 7776 5861 5130 4727 4692 4441 4430 4243 4231 3653 2581 2317 1761 
+close : 6 -- 8515 7626 4659 2690 721 259 
+distributing : 7 -- 11862 11391 11356 10779 10619 10255 10117 
+comes : 2 -- 7832 4744 
+timid : 2 -- 8060 1760 
+mixed : 1 -- 1138 
+watch : 2 -- 345 305 
+could : 27 -- 12952 9935 8431 6904 6533 6395 6013 5659 5297 5237 5026 4935 4643 4502 3319 3187 2516 2361 2345 1788 1619 1264 1258 998 989 973 219 
+COMPANY : 2 -- 137 128 
+PROJECT : 4 -- 10224 10126 9989 87 
+takes : 1 -- 12765 
+bound : 2 -- 10467 10407 
+_two_ : 1 -- 4529 
+three : 9 -- 9073 9021 7854 7725 7167 6490 5421 4023 3116 
+later : 1 -- 1114 
+drink : 3 -- 5039 5000 1098 
+paper : 4 -- 13018 9613 9591 1062 
+there : 14 -- 8647 7910 7723 7069 6903 6401 6146 5623 4527 4484 3110 2629 1660 498 
+sides : 2 -- 5517 481 
+tried : 8 -- 9864 5801 5797 5790 4312 1274 897 459 
+tired : 4 -- 4088 2197 1296 156 
+given : 1 -- 10198 
+clubs : 1 -- 7884 
+sleep : 3 -- 9914 7332 7319 
+below : 5 -- 11726 10544 10504 9446 5688 
+least : 4 -- 7510 7291 7289 5151 
+elbow : 1 -- 4324 
+these : 8 -- 12780 11760 10076 9939 7905 7897 4856 2046 
+while : 5 -- 9958 8208 3722 3438 1886 
+small : 9 -- 12882 12719 4891 3325 2038 1902 1382 924 856 
+might : 7 -- 9964 8460 8365 7427 7304 1015 833 
+miles : 1 -- 9533 
+stand : 1 -- 8185 
+conversation : 2 -- 8547 2459 
+thing : 17 -- 8593 7341 7329 7300 6837 6107 5035 4983 4956 4678 4095 3300 3054 2906 2809 2371 1304 
+glass : 9 -- 7630 4537 4404 4062 3862 2020 1365 1271 815 
+night : 2 -- 5842 586 
+daisy : 1 -- 236 
+particularly : 1 -- 12726 
+moral : 2 -- 8610 8557 
+where : 4 -- 12825 12789 10728 8429 
+brass : 1 -- 3952 
+moved : 2 -- 9810 3674 
+_you_ : 5 -- 9814 5228 5133 3474 2319 
+solid : 1 -- 814 
+about : 40 -- 13076 13043 12660 12483 12450 12332 11512 9950 9491 8868 8690 8521 8268 8242 8230 8122 7668 6908 6140 5718 5051 4968 4771 4655 4285 3835 3762 3436 2716 2545 2390 2338 2200 2107 1923 1568 960 892 455 415 
+occur : 1 -- 12299 
+FITNESS : 1 -- 12140 
+raven : 1 -- 7229 
+often : 2 -- 12982 5374 
+trial : 4 -- 9461 8947 3502 3484 
+their : 10 -- 9760 9474 8858 8187 7886 7861 7734 6316 6165 2687 
+locks : 1 -- 847 
+found : 22 -- 12629 11115 10017 9870 7682 7619 4938 4905 4104 4001 3991 2937 2873 1935 1918 1377 1256 1237 1038 918 739 420 
+twice : 2 -- 7521 173 
+Bill's : 1 -- 4597 
+seems : 2 -- 9598 3689 
+sadly : 1 -- 791 
+lamps : 1 -- 754 
+sense : 1 -- 8618 
+agony : 1 -- 6728 
+pause : 1 -- 6555 
+doubt : 1 -- 4798 
+sharp : 3 -- 8599 5749 4666 
+noise : 3 -- 6406 6391 3309 
+right : 10 -- 12101 10613 7594 6995 6468 6096 5560 5034 4977 1197 
+knelt : 1 -- 934 
+think : 16 -- 8309 7603 7425 7254 6868 5318 5239 5221 5165 3569 2352 2166 996 589 414 273 
+under : 15 -- 12506 11869 11452 10913 8791 8455 8090 7131 6260 5040 4367 1423 1370 376 41 
+array : 1 -- 12712 
+allow : 1 -- 12151 
+distribution : 6 -- 12347 12301 12266 11654 11071 10248 
+smoke : 1 -- 6477 
+stalk : 1 -- 5677 
+crowd : 3 -- 9445 8866 4908 
+pairs : 1 -- 4024 
+She'll : 1 -- 3791 
+whole : 6 -- 9838 9359 8881 3530 3236 2652 
+kills : 1 -- 2485 
+tears : 3 -- 2089 1658 1354 
+sight : 3 -- 7085 5498 678 
+grass : 2 -- 5441 5023 
+never : 10 -- 8746 8149 7551 6150 4444 2042 2035 1093 562 333 
+carry : 1 -- 12685 
+links : 3 -- 12620 11195 10833 
+state : 6 -- 12810 12511 12203 12182 10750 5254 
+shore : 2 -- 2657 2587 
+angry : 3 -- 4429 3883 2337 
+white : 7 -- 7798 7721 4027 3825 1883 1772 1710 
+taste : 2 -- 3321 1126 
+loose : 1 -- 12972 
+walks : 1 -- 12384 
+saves : 1 -- 9742 
+times : 2 -- 5171 4288 
+floor : 2 -- 4842 4163 
+spoke : 5 -- 9616 8678 6753 5417 2969 
+consultation : 1 -- 2715 
+queer : 3 -- 6784 2671 1813 
+shoes : 1 -- 1549 
+other : 34 -- 12904 11860 11805 11795 11647 11592 11320 11261 11255 11153 10836 10790 10260 9185 9107 8923 8752 8424 8411 8130 7007 6483 6333 6273 6065 5611 5468 5456 5003 4600 4595 2643 1722 785 
+requirements : 4 -- 12832 12781 12759 11011 
+forth : 8 -- 12173 12107 11722 11688 11187 11038 10432 10102 
+King's : 1 -- 7943 
+CROQUET : 1 -- 7702 
+yards : 1 -- 6958 
+grins : 1 -- 6594 
+lives : 3 -- 7009 6998 6145 
+trees : 4 -- 9899 7589 6008 5794 
+water : 3 -- 3278 2274 2064 
+lying : 4 -- 9872 2017 1621 1369 
+those : 8 -- 9054 8980 7760 5808 5073 3025 968 962 
+years : 1 -- 12960 
+drunk : 1 -- 4099 
+shook : 3 -- 7359 4276 3610 
+house : 12 -- 7138 7098 7088 6200 6175 6137 4903 4278 3987 3943 3464 2477 
+taxes : 1 -- 11431 
+using : 4 -- 11421 10365 10315 10253 
+apply : 1 -- 10113 
+flown : 1 -- 5762 
+honor : 2 -- 4478 4455 
+whose : 1 -- 2821 
+stole : 1 -- 9053 
+royal : 1 -- 7908 
+guess : 1 -- 7244 
+blows : 1 -- 6709 
+ought : 5 -- 9109 7786 6982 5223 4996 
+doors : 2 -- 839 761 
+swamp : 1 -- 12880 
+money : 3 -- 11980 11613 11528 
+weary : 1 -- 7422 
+round : 1 -- 6244 
+wings : 1 -- 5773 
+quiet : 1 -- 2370 
+world : 4 -- 9744 8569 3704 1849 
+quite : 19 -- 9059 8800 6928 6703 6101 4906 4279 4130 4087 3215 3158 2725 2617 2572 2520 2301 1516 1473 1267 
+toffy : 1 -- 1147 
+first : 16 -- 9783 9768 9084 9063 6670 6454 6104 6058 5230 4955 4677 2702 2258 2066 1079 828 
+still : 3 -- 6041 1984 676 
+restrictions : 2 -- 10900 28 
+front : 2 -- 8652 7135 
+curls : 1 -- 6317 
+sound : 2 -- 7866 4579 
+stood : 5 -- 8648 7743 7708 6196 4058 
+crown : 3 -- 8968 7944 2952 
+mouse : 5 -- 3496 3458 2240 2153 2133 
+roast : 1 -- 1145 
+EXPRESS : 1 -- 12128 
+threw : 1 -- 7857 
+cross : 2 -- 9332 2697 
+usual : 2 -- 6083 1825 
+SERIES_ : 1 -- 120 
+owner : 4 -- 12235 11851 11710 11438 
+write : 1 -- 9638 
+irons : 1 -- 6668 
+That's : 5 -- 9707 8973 7597 6452 4129 
+toast : 1 -- 1151 
+rules : 4 -- 10168 10100 8340 1028 
+every : 3 -- 6416 6024 787 
+would : 12 -- 6974 6582 6219 5716 5532 4673 3510 3388 3059 2416 862 238 
+terms : 19 -- 11684 11648 11555 11202 11138 11094 11087 10915 10770 10692 10671 10524 10496 10470 10410 10358 10338 10278 43 
+costs : 2 -- 12277 11879 
+prove : 1 -- 9643 
+roses : 2 -- 7761 7716 
+reply : 2 -- 8001 6840 
+head's : 1 -- 5650 
+until : 3 -- 9467 6073 1659 
+group : 1 -- 11679 
+print : 1 -- 10064 
+grown : 1 -- 9819 
+court : 6 -- 9698 9360 9271 9133 9006 8930 
+nurse : 1 -- 6734 
+mouth : 3 -- 5630 5312 5122 
+known : 1 -- 2740 
+start : 1 -- 13022 
+PURPOSE : 1 -- 12143 
+gross : 1 -- 11408 
+tarts : 4 -- 9347 9055 9042 8939 
+thunderstorm : 1 -- 8662 
+What's : 1 -- 7402 
+thoughtfully : 1 -- 5502 
+sizes : 1 -- 5205 
+thump : 2 -- 626 625 
+visit : 2 -- 12917 12811 
+nasty : 1 -- 2427 
+words : 6 -- 6831 4592 3027 2047 1387 1066 
+empty : 1 -- 532 
+short : 1 -- 8218 
+party : 7 -- 11861 7569 3636 3237 3102 2673 2653 
+worse : 1 -- 2026 
+stool : 1 -- 6492 
+forty : 1 -- 9511 
+game's : 1 -- 8533 
+worth : 1 -- 240 
+types : 1 -- 12164 
+stoop : 1 -- 4114 
+works : 32 -- 12950 12931 12698 12350 12272 12251 11766 11751 11681 11659 11598 11577 11419 11396 11361 11106 10783 10666 10659 10625 10574 10569 10539 10519 10489 10377 10309 10251 10186 10122 10077 10060 
+hadn't : 1 -- 3685 
+roots : 1 -- 5792 
+sulky : 1 -- 5993 
+virus : 1 -- 11809 
+shyly : 1 -- 5141 
+didn't : 4 -- 9637 6618 6608 2304 
+hurry : 5 -- 9589 9427 5757 2453 1730 
+sorts : 1 -- 8871 
+You're : 4 -- 9827 9251 8519 5925 
+turns : 1 -- 8204 
+You'll : 1 -- 7066 
+sleep' : 1 -- 7325 
+story : 1 -- 3591 
+EVIDENCE : 1 -- 9417 
+they'd : 1 -- 8944 
+Defect : 1 -- 12326 
+that's : 3 -- 7297 6634 6605 
+Sha'n't : 1 -- 9311 
+REMEDIES : 1 -- 11891 
+what's : 2 -- 4468 3029 
+_That_ : 1 -- 4351 
+'round : 16 -- 8953 8571 7873 6997 5526 4344 3297 3287 3241 3174 2814 2562 1666 1054 873 763 
+Herald : 1 -- 9007 
+Mercia : 1 -- 2855 
+INDIRECT : 1 -- 11932 
+Eaglet : 2 -- 3017 2640 
+Before : 1 -- 4096 
+wasn't : 1 -- 5823 
+Rabbit : 28 -- 9702 9691 9583 9390 9322 9071 9019 9000 8909 8104 8088 8070 7934 4777 4365 4305 4293 4265 3874 3754 1767 1751 1702 731 674 301 285 254 
+French : 2 -- 2262 2239 
+International : 1 -- 12854 
+Domain : 1 -- 12995 
+Please : 4 -- 12884 9630 6581 3585 
+you're : 4 -- 6842 6718 5945 5319 
+Isbell : 2 -- 10031 96 
+you'll : 1 -- 2596 
+PROVIDED : 1 -- 11905 
+CONTRACT : 1 -- 11902 
+Taking : 1 -- 7632 
+Canary : 1 -- 3647 
+begged : 1 -- 3351 
+Public : 1 -- 12994 
+damage : 1 -- 11814 
+you've : 2 -- 9915 4625 
+Brandy : 1 -- 4712 
+Either : 1 -- 432 
+ANYTHING : 1 -- 10204 
+Pigeon : 6 -- 5990 5936 5858 5831 5804 5778 
+_have_ : 1 -- 5691 
+eBooks : 7 -- 13078 13065 13012 12980 12968 10208 10148 
+feeble : 1 -- 4725 
+Spehar : 2 -- 10033 98 
+Refund : 1 -- 11837 
+handed : 2 -- 6269 3285 
+Caucus : 2 -- 3067 3062 
+Morcar : 1 -- 2851 
+called : 10 -- 9079 7846 6221 5264 3878 3648 3593 3164 2760 2531 
+Online : 2 -- 10036 101 
+change : 5 -- 10752 5593 4865 2455 1977 
+Hearts : 6 -- 9051 9038 8854 7994 7940 7546 
+afraid : 6 -- 5324 5191 4300 3385 2499 2291 
+agreed : 1 -- 11448 
+Hatter : 11 -- 9267 9229 9121 9088 7481 7412 7389 7346 7212 7145 7000 
+legged : 1 -- 6491 
+demand : 1 -- 12082 
+Except : 2 -- 12097 11830 
+detach : 1 -- 11129 
+United : 10 -- 12874 12756 10975 10812 10758 10606 10598 10585 10090 10072 
+placed : 1 -- 3104 
+indeed : 5 -- 5407 2669 2447 2399 1176 
+Gordon : 1 -- 67 
+charge : 6 -- 11667 11379 11345 10717 10158 10145 
+behind : 3 -- 6826 886 722 
+defect : 2 -- 11962 11624 
+Nearly : 2 -- 10570 9531 
+choice : 2 -- 8701 8696 
+blades : 1 -- 5021 
+become : 1 -- 4202 
+Nobody : 2 -- 9809 3688 
+office : 2 -- 12598 12575 
+Pepper : 1 -- 9350 
+ladder : 1 -- 4596 
+sha'n't : 3 -- 9541 4616 4135 
+advice : 1 -- 1337 
+_then_ : 1 -- 7680 
+effect : 2 -- 5566 4218 
+denial : 1 -- 3479 
+Things : 1 -- 2024 
+folded : 2 -- 8658 5088 
+choked : 1 -- 3327 
+_that_ : 4 -- 8612 7003 6988 5931 
+middle : 5 -- 12363 8927 6495 2792 794 
+accept : 1 -- 10335 
+picked : 2 -- 9595 7559 
+hedges : 1 -- 5802 
+uncomfortable : 1 -- 2699 
+filled : 1 -- 490 
+checks : 1 -- 12907 
+Queens : 1 -- 7926 
+_more_ : 1 -- 7487 
+escape : 3 -- 8462 8273 1967 
+garden : 14 -- 8428 7845 7714 7689 7645 6114 4992 1991 1631 1609 1433 1222 1208 944 
+Contributions : 1 -- 12547 
+access : 10 -- 11590 11388 11349 11241 11198 10989 10838 10656 10533 10392 
+_some_ : 1 -- 4864 
+animal : 1 -- 4651 
+circle : 1 -- 3097 
+_what_ : 4 -- 5471 5466 4789 2877 
+fallen : 3 -- 4416 2626 2073 
+locked : 1 -- 770 
+circumstances : 1 -- 5042 
+seemed : 11 -- 8398 7313 6511 5672 5247 3846 2750 2724 2276 2212 425 
+before : 12 -- 10774 8889 7081 4446 3988 2041 2023 1049 884 665 418 334 
+peeped : 3 -- 6324 5064 176 
+Author : 1 -- 63 
+PUNITIVE : 1 -- 11934 
+copied : 2 -- 10968 10881 
+States : 10 -- 12875 12757 10976 10813 10759 10607 10599 10586 10091 10073 
+riddle : 1 -- 7386 
+marked : 7 -- 11492 11224 3088 1392 1120 1102 1086 
+rabbit : 3 -- 389 374 337 
+_less_ : 1 -- 7478 
+shaped : 1 -- 6785 
+caused : 2 -- 3630 3307 
+chains : 1 -- 8892 
+seated : 1 -- 8856 
+search : 2 -- 13032 8383 
+arches : 1 -- 8194 
+_this_ : 2 -- 9334 6156 
+_will_ : 1 -- 4201 
+breath : 2 -- 8803 3514 
+dipped : 1 -- 402 
+shared : 1 -- 12955 
+linked : 2 -- 11097 8637 
+savage : 1 -- 1743 
+belong : 1 -- 834 
+making : 3 -- 6388 2519 234 
+WARRANTY : 2 -- 11898 11826 
+domain : 7 -- 12695 11750 10947 10595 10582 10207 10063 
+places : 2 -- 9476 8109 
+Alice's : 6 -- 8629 8603 8483 4953 4323 827 
+walked : 6 -- 8805 8486 7674 7496 3615 790 
+appear : 1 -- 10847 
+pieces : 2 -- 6433 6044 
+height : 4 -- 6084 5406 5398 5054 
+joined : 1 -- 3600 
+chatte : 1 -- 2254 
+longed : 1 -- 950 
+golden : 6 -- 7635 2014 1602 1243 900 824 
+August : 1 -- 71 
+Unless : 1 -- 10816 
+signed : 2 -- 9664 9650 
+asleep : 2 -- 7501 7158 
+hookah : 3 -- 5308 5118 5093 
+please : 8 -- 12916 9577 8007 7750 6976 3604 2817 1764 
+awhile : 2 -- 6036 1210 
+inches : 5 -- 6184 5422 5393 1182 894 
+credit : 1 -- 12911 
+donate : 4 -- 12921 12915 12853 11450 
+scream : 1 -- 9855 
+double : 1 -- 8181 
+seeing : 1 -- 6945 
+finger : 1 -- 3233 
+opened : 6 -- 7213 6459 6236 4320 1374 914 
+remain : 1 -- 12416 
+active : 2 -- 11194 10832 
+caught : 2 -- 8448 6774 
+inside : 1 -- 6392 
+rapped : 1 -- 6226 
+happen : 1 -- 4674 
+advise : 1 -- 1324 
+second : 4 -- 12075 12061 4982 871 
+obtain : 3 -- 11694 11022 10416 
+roared : 1 -- 8049 
+Prizes : 2 -- 3250 3249 
+asking : 3 -- 7440 7238 3178 
+nearer : 1 -- 2118 
+larger : 5 -- 9225 5384 4223 1407 928 
+coming : 4 -- 7188 4266 1697 466 
+having : 3 -- 9780 7147 167 
+holder : 4 -- 11114 11092 11067 10963 
+ridges : 1 -- 8162 
+smiled : 1 -- 7999 
+taking : 1 -- 5095 
+waited : 3 -- 4669 4645 4560 
+looked : 18 -- 9317 9122 8644 7976 7872 7768 7517 6893 5663 5031 5012 3737 2206 1863 937 657 478 312 
+derive : 1 -- 11411 
+public : 8 -- 12694 12680 11749 10946 10594 10581 10206 10062 
+played : 1 -- 8198 
+spread : 3 -- 12679 4513 4372 
+dishes : 1 -- 6679 
+tucked : 3 -- 8478 8452 4948 
+bright : 4 -- 7692 4845 3951 965 
+fitted : 1 -- 911 
+leaves : 4 -- 9892 5746 5684 637 
+passed : 1 -- 519 
+choose : 1 -- 12056 
+medium : 5 -- 12013 12008 11806 11769 11582 
+method : 1 -- 11423 
+snatch : 2 -- 4521 4379 
+broken : 4 -- 6431 4536 4403 4121 
+finish : 1 -- 3589 
+wander : 1 -- 959 
+either : 8 -- 11008 8679 7014 3036 2549 1427 845 339 
+teacup : 3 -- 9232 9203 9094 
+beasts : 1 -- 8876 
+remark : 1 -- 7379 
+pigeon : 1 -- 5760 
+length : 1 -- 5668 
+patted : 1 -- 3332 
+notice : 6 -- 13003 10952 7511 6684 5099 2929 
+family : 1 -- 2423 
+phrase : 4 -- 10995 10871 10863 10268 
+copies : 7 -- 12245 11593 11574 11384 11245 10371 10161 
+cannot : 5 -- 12861 12817 12675 11816 9462 
+wanted : 1 -- 2836 
+sudden : 3 -- 5592 2269 1976 
+saucer : 1 -- 599 
+expend : 1 -- 11737 
+viewed : 1 -- 10880 
+refund : 8 -- 12105 12084 12072 12040 11977 11610 11525 10418 
+taller : 2 -- 6069 5453 
+_very_ : 2 -- 9253 5252 
+hardly : 3 -- 5625 5144 4730 
+pardon : 3 -- 9451 3556 2287 
+fright : 2 -- 9858 2282 
+seldom : 1 -- 1341 
+MARMALADE : 1 -- 524 
+offers : 1 -- 12851 
+binary : 1 -- 11222 
+apples : 1 -- 4453 
+people : 8 -- 13021 12381 10462 9296 8252 8119 7028 1031 
+hoping : 1 -- 1013 
+jumped : 2 -- 9422 651 
+online : 4 -- 12908 10926 10291 54 
+effort : 2 -- 12768 11739 
+tipped : 1 -- 9430 
+better : 3 -- 8537 7430 4737 
+shriek : 2 -- 5864 4395 
+pulled : 1 -- 3269 
+enough : 6 -- 5933 5825 4892 4131 2901 2776 
+rather : 10 -- 8536 8319 6972 5910 5140 2886 2396 2209 1588 1321 
+pocket : 4 -- 7664 3267 342 310 
+secure : 1 -- 12436 
+freely : 4 -- 12954 12702 12417 10661 
+_must_ : 1 -- 9655 
+dismay : 1 -- 9459 
+forget : 1 -- 8529 
+fairly : 1 -- 8314 
+hearts : 1 -- 7918 
+easily : 2 -- 10688 5719 
+longer : 1 -- 734 
+itself : 4 -- 5413 4340 3777 288 
+paying : 2 -- 10978 10096 
+rocket : 1 -- 4760 
+wheels : 1 -- 4576 
+reason : 2 -- 5243 4297 
+format : 4 -- 11324 11262 11254 10703 
+flying : 1 -- 9847 
+blasts : 2 -- 9074 9022 
+except : 1 -- 8777 
+plates : 1 -- 6677 
+kettle : 1 -- 6428 
+number : 4 -- 12902 12692 12531 5916 
+around : 1 -- 5014 
+voices : 3 -- 4707 4584 3219 
+really : 3 -- 4085 3486 2385 
+corner : 3 -- 7174 728 709 
+sneeze : 1 -- 6566 
+likely : 1 -- 2168 
+flavor : 1 -- 1139 
+bottle : 8 -- 4212 4127 4102 4056 1117 1101 1059 1041 
+anyone : 6 -- 12957 12243 10972 10891 8262 19 
+nearly : 1 -- 10178 
+extraordinary : 1 -- 6405 
+saying : 2 -- 6274 4072 
+driest : 1 -- 2808 
+splash : 1 -- 2055 
+dozing : 1 -- 621 
+across : 5 -- 8468 8421 7843 357 327 
+court_ : 1 -- 9523 
+waving : 2 -- 7005 6993 
+pepper : 2 -- 9289 6521 
+zigzag : 1 -- 5737 
+master : 1 -- 4623 
+rising : 1 -- 2995 
+crying : 1 -- 1314 
+matter : 1 -- 5941 
+temper : 2 -- 8500 5280 
+things : 5 -- 10510 10478 5333 2430 1820 
+cherry : 1 -- 1141 
+conversations : 2 -- 206 190 
+remove : 1 -- 11131 
+solemn : 2 -- 6297 6277 
+merely : 1 -- 5442 
+shrill : 2 -- 9409 2315 
+little : 57 -- 9854 9410 8873 8600 8549 8504 7754 7677 7634 7629 7351 6942 6923 6836 6786 6589 6136 5947 5906 5557 4910 4835 4806 4724 4650 4574 4530 4394 4253 4210 4094 4055 4007 3942 3866 3728 3721 3617 2473 2221 2112 2013 2006 2001 1882 1680 1601 1540 1443 1364 1303 1242 1203 1040 899 890 809 
+transcription : 1 -- 11790 
+posted : 5 -- 12541 11268 11107 11060 10957 
+scroll : 2 -- 9030 8918 
+flower : 1 -- 7693 
+poured : 1 -- 7349 
+murder : 1 -- 6822 
+ground : 4 -- 8737 8675 8155 6338 
+theirs : 1 -- 3322 
+listen : 2 -- 4236 2768 
+wonder : 6 -- 8258 6122 4539 3808 3419 1543 
+though : 2 -- 7515 1338 
+should : 12 -- 11489 9997 7813 7273 7053 6160 5872 5378 3975 2479 2165 588 
+widest : 2 -- 12711 12356 
+throne : 1 -- 8859 
+letter : 4 -- 12539 9622 9602 6265 
+moving : 1 -- 4770 
+proved : 1 -- 4332 
+answer : 3 -- 7404 7260 3189 
+gloves : 10 -- 4247 4040 4029 3995 3904 3827 1885 1797 1774 1712 
+myself : 3 -- 7380 5198 1567 
+moment : 17 -- 9213 8707 7836 5569 5493 4924 4802 4249 3897 3813 2054 1573 1514 686 655 412 381 
+almost : 3 -- 10898 1106 26 
+stored : 1 -- 11775 
+unlink : 1 -- 11127 
+govern : 1 -- 10733 
+honest : 1 -- 9669 
+humbly : 1 -- 3560 
+shiver : 1 -- 2864 
+course : 8 -- 10641 7372 7370 3224 3107 3092 2889 2705 
+vulgar : 1 -- 2429 
+always : 2 -- 6613 2424 
+forgot : 2 -- 2302 1517 
+sticks : 1 -- 634 
+contributions : 1 -- 12822 
+tongue : 1 -- 9786 
+There's : 5 -- 9571 7189 6517 6357 5810 
+morsel : 1 -- 5642 
+minute : 7 -- 8246 8138 6192 5508 5426 4763 1330 
+turned : 7 -- 9550 5273 5258 3983 2561 726 707 
+sleepy : 2 -- 5129 227 
+exempt : 2 -- 12731 12517 
+follow : 1 -- 10522 
+gently : 1 -- 9887 
+within : 6 -- 11967 11635 11542 11467 6657 6409 
+lonely : 1 -- 3715 
+profit : 1 -- 12499 
+states : 4 -- 12846 12824 12753 12148 
+comply : 6 -- 11644 11364 11073 11007 10689 10274 
+chorus : 3 -- 4684 3602 3217 
+lesson : 1 -- 2263 
+donors : 1 -- 12843 
+tiptoe : 1 -- 5062 
+Where's : 2 -- 8081 4593 
+others : 4 -- 10719 8843 7507 3598 
+PARAGRAPH : 1 -- 11907 
+butter : 3 -- 9236 9209 9104 
+Trial's : 1 -- 8830 
+velvet : 1 -- 7948 
+stairs : 1 -- 4259 
+sooner : 1 -- 1112 
+tunnel : 1 -- 396 
+twelve : 1 -- 8981 
+person : 5 -- 12048 12019 11994 10421 2754 
+extent : 1 -- 12561 
+AGREEMENT : 1 -- 11922 
+purple : 1 -- 9791 
+verses : 2 -- 9706 9629 
+proper : 1 -- 9475 
+They're : 1 -- 8247 
+Queen's : 1 -- 8101 
+busily : 1 -- 7729 
+shower : 2 -- 6674 4804 
+window : 7 -- 4813 4553 4472 4369 4350 4181 4014 
+poison : 2 -- 1121 1103 
+summer : 1 -- 9046 
+loudly : 3 -- 9776 8045 6227 
+narrow : 1 -- 1966 
+stupid : 1 -- 229 
+unless : 3 -- 13000 11362 10149 
+sister : 5 -- 9930 9909 9884 181 161 
+TRADEMARK : 1 -- 11915 
+future : 3 -- 12445 12439 10532 
+whilst : 1 -- 9699 
+prison : 1 -- 8476 
+guests : 1 -- 7922 
+livery : 2 -- 6241 6206 
+lovely : 2 -- 4991 1207 
+sounds : 2 -- 8621 4534 
+quiver : 1 -- 2278 
+struck : 2 -- 5580 1576 
+plenty : 1 -- 446 
+INCLUDING : 1 -- 12131 
+errors : 1 -- 11791 
+entity : 3 -- 12050 12021 10423 
+prizes : 3 -- 3289 3214 3207 
+trying : 6 -- 8434 7530 5509 2179 1300 786 
+terror : 1 -- 6730 
+inquisitively : 1 -- 2210 
+insult : 1 -- 3571 
+exists : 1 -- 12369 
+return : 3 -- 12011 11570 10367 
+softly : 1 -- 2532 
+LIABILITY : 1 -- 11895 
+Mouse's : 1 -- 3422 
+GUTENBERG : 4 -- 10225 10127 9990 88 
+thirty : 1 -- 12959 
+opportunities : 1 -- 12089 
+status : 4 -- 12804 12732 12518 10803 
+turkey : 1 -- 1146 
+needn't : 1 -- 9751 
+jurors : 1 -- 8995 
+mostly : 2 -- 9351 7923 
+puzzle : 1 -- 1857 
+slowly : 4 -- 8730 3756 2565 442 
+haven't : 2 -- 7406 7062 
+_won't_ : 1 -- 1740 
+DONATIONS : 1 -- 12800 
+INDEMNITY : 1 -- 12224 
+there's : 6 -- 9733 9723 9647 8261 2175 1310 
+Michael : 2 -- 12933 11707 
+doesn't : 3 -- 5370 2981 2229 
+they're : 4 -- 8020 7017 6809 6387 
+Digging : 1 -- 4451 
+they'll : 2 -- 4541 596 
+Imagine : 1 -- 9397 
+state's : 1 -- 12570 
+they've : 1 -- 7236 
+Defects : 1 -- 11778 
+General : 3 -- 12924 10299 10105 
+STORYLAND : 1 -- 119 
+Special : 1 -- 10099 
+Release : 1 -- 69 
+Archive : 13 -- 13057 12667 12553 12494 12488 12455 12429 11848 11704 11519 11502 11460 10551 
+decided : 1 -- 1217 
+damaged : 1 -- 11802 
+Silence : 2 -- 9003 2812 
+License : 10 -- 11562 11332 11208 11137 11103 10920 10845 10711 10285 48 
+_hated_ : 1 -- 2425 
+chanced : 1 -- 7736 
+Vanilla : 2 -- 11317 11258 
+Updated : 1 -- 10045 
+identification : 1 -- 12530 
+labeled : 1 -- 522 
+fancied : 1 -- 4361 
+changed : 3 -- 5320 5169 3849 
+Stigand : 1 -- 2867 
+English : 5 -- 3014 2834 2231 1522 77 
+engaged : 1 -- 8390 
+Contact : 1 -- 11717 
+affectionately : 2 -- 8481 4951 
+managed : 2 -- 5638 542 
+Despite : 1 -- 11759 
+Redistributing : 1 -- 10304 
+William : 2 -- 2947 2244 
+Duchess : 21 -- 8698 8596 8554 8514 8470 8083 6742 6681 6662 6632 6603 6538 6485 6306 6281 4947 3781 3779 1738 1736 117 
+Carroll : 3 -- 9985 65 11 
+nibbled : 2 -- 7110 5555 
+Service : 1 -- 12523 
+NEGLIGENCE : 1 -- 11893 
+Explain : 1 -- 5184 
+damages : 2 -- 12166 11878 
+federal : 2 -- 12566 12528 
+Perhaps : 1 -- 2227 
+leading : 1 -- 7593 
+Footman : 5 -- 6451 6366 6328 6292 6255 
+machine : 1 -- 12705 
+Section : 7 -- 12922 12657 12480 12329 11724 11509 10297 
+_could_ : 2 -- 6622 4558 
+Redistribution : 1 -- 10209 
+_there_ : 1 -- 7553 
+Nothing : 1 -- 9499 
+flashed : 1 -- 326 
+Project : 83 -- 13054 13044 12977 12965 12941 12927 12887 12669 12664 12550 12491 12485 12452 12441 12426 12411 12403 12339 12336 12319 12306 12268 12247 11864 11854 11845 11762 11755 11732 11713 11701 11673 11656 11595 11559 11516 11499 11457 11441 11416 11392 11358 11329 11272 11248 11205 11157 11134 11100 11054 11032 10996 10937 10918 10872 10864 10854 10842 10823 10791 10708 10678 10663 10649 10636 10565 10548 10535 10515 10485 10440 10395 10373 10320 10305 10282 10269 10240 10132 10118 9976 46 2 
+created : 2 -- 12983 12432 
+because : 4 -- 12370 6386 6373 5195 
+electronically : 2 -- 12067 12046 
+digging : 1 -- 8597 
+changes : 1 -- 5918 
+Revenue : 1 -- 12522 
+carried : 1 -- 9287 
+Exactly : 1 -- 7267 
+beating : 1 -- 5768 
+calling : 1 -- 3243 
+feeling : 1 -- 1161 
+reading : 3 -- 10313 9949 183 
+INCIDENTAL : 1 -- 11936 
+breathe : 2 -- 7335 7322 
+ceiling : 1 -- 4110 
+located : 4 -- 12600 12577 10731 10603 
+renamed : 1 -- 10057 
+replace : 1 -- 10048 
+_think_ : 1 -- 9144 
+believe : 3 -- 9722 7241 3033 
+hanging : 1 -- 755 
+DISCLAIMER : 1 -- 11827 
+charges : 1 -- 10982 
+Majesty : 5 -- 9632 9579 9330 9248 8009 
+pebbles : 2 -- 4830 4807 
+Luckily : 1 -- 4206 
+falling : 1 -- 422 
+leaning : 1 -- 6502 
+general : 2 -- 9677 4683 
+hearing : 2 -- 7219 4565 
+scolded : 1 -- 1347 
+Gregory : 1 -- 12647 
+fumbled : 1 -- 9393 
+knocked : 1 -- 6356 
+meaning : 3 -- 9735 9727 3022 
+finding : 2 -- 1211 1129 
+watched : 1 -- 9387 
+Whoever : 1 -- 6144 
+leaders : 1 -- 2837 
+However : 7 -- 11237 8131 3336 3145 2077 1115 868 
+Serpent : 2 -- 5889 5775 
+fanning : 1 -- 1801 
+delight : 1 -- 909 
+fifteen : 1 -- 893 
+Mission : 1 -- 12334 
+proceed : 1 -- 9463 
+already : 2 -- 11425 6699 
+crawled : 1 -- 5437 
+daisies : 1 -- 249 
+depends : 1 -- 12672 
+derived : 1 -- 10943 
+receive : 3 -- 12064 11975 10151 
+license : 4 -- 10341 10296 10215 10112 
+keeping : 3 -- 10697 10676 8544 
+caldron : 2 -- 6643 6509 
+silence : 4 -- 9695 4767 4701 4497 
+Dinah'll : 1 -- 580 
+implied : 1 -- 12155 
+include : 1 -- 11326 
+languid : 1 -- 5128 
+condemn : 1 -- 3533 
+passage : 4 -- 7678 940 925 670 
+granted : 1 -- 12515 
+replied : 6 -- 7463 7401 7287 5367 5139 2885 
+animals : 4 -- 8985 4911 2685 2623 
+holding : 2 -- 1947 1454 
+picking : 1 -- 247 
+address : 1 -- 11506 
+minding : 1 -- 8582 
+kitchen : 2 -- 6562 6472 
+certain : 4 -- 12163 12154 2381 1107 
+noticed : 6 -- 8276 7584 4824 3875 883 486 
+examine : 1 -- 9333 
+riddles : 2 -- 7441 7239 
+grinned : 2 -- 6963 6614 
+favored : 1 -- 2824 
+against : 6 -- 12838 8128 5619 4328 4108 1577 
+sending : 1 -- 11988 
+limited : 2 -- 12100 11783 
+instead : 1 -- 9204 
+peeping : 1 -- 8073 
+judging : 1 -- 6213 
+rearing : 1 -- 5412 
+failure : 1 -- 4334 
+despair : 1 -- 3260 
+crowded : 4 -- 7170 3240 3173 2618 
+himself : 1 -- 1733 
+eagerly : 1 -- 3739 
+sighing : 1 -- 3407 
+meeting : 1 -- 3003 
+herself : 33 -- 9871 8290 8018 7683 7620 6870 6528 6180 6079 5553 5475 5214 5059 5056 4964 4939 4191 4074 2731 2139 1983 1958 1914 1802 1449 1348 1334 1320 1297 740 579 421 417 
+legally : 1 -- 11479 
+between : 1 -- 7155 
+dressed : 1 -- 1705 
+talking : 7 -- 7316 4586 3574 2732 1889 1809 577 
+tremble : 1 -- 8642 
+edition : 1 -- 13019 
+contact : 3 -- 12644 12625 12619 
+receipt : 2 -- 11639 11546 
+clearly : 1 -- 11491 
+contain : 2 -- 11777 10950 
+appears : 1 -- 10866 
+sharing : 1 -- 10662 
+concept : 2 -- 12944 10129 
+oneself : 1 -- 8331 
+farther : 1 -- 7080 
+highest : 1 -- 5851 
+arrived : 1 -- 8862 
+raising : 1 -- 5859 
+chimney : 5 -- 4658 4640 4631 4613 4187 
+walking : 2 -- 8066 3583 
+gbnewby : 1 -- 12654 
+redistributing : 1 -- 10986 
+mistake : 2 -- 7802 6907 
+sneezed : 1 -- 6539 
+immense : 1 -- 5667 
+Rabbit's : 3 -- 4691 4432 1881 
+dropped : 4 -- 9230 3805 1950 1770 
+disappointment : 1 -- 529 
+WONDERLAND : 4 -- 9994 143 124 92 
+prepare : 2 -- 11482 11476 
+neither : 2 -- 7504 6912 
+happens : 3 -- 5970 4199 1439 
+guessed : 2 -- 7384 3810 
+subject : 3 -- 10211 2457 2421 
+gallons : 1 -- 1656 
+opening : 2 -- 7366 1525 
+smaller : 1 -- 1419 
+problem : 1 -- 12093 
+imposed : 1 -- 11088 
+verdict : 3 -- 9769 9761 9560 
+panting : 1 -- 3176 
+explain : 2 -- 5188 3080 
+slipped : 2 -- 2136 2050 
+another : 9 -- 8395 6238 5492 4704 4520 2053 1017 668 380 
+produce : 1 -- 13062 
+removed : 2 -- 10819 10639 
+soldier : 1 -- 8895 
+mallets : 1 -- 8173 
+cunning : 1 -- 3524 
+several : 3 -- 12985 5170 2642 
+measure : 1 -- 1913 
+largest : 1 -- 1529 
+getting : 7 -- 8302 6018 3580 2957 2616 718 244 
+invited : 1 -- 7064 
+adjourn : 1 -- 3004 
+looking : 13 -- 9483 9186 8267 7842 6197 5965 5926 5501 4061 3817 3760 3416 2672 
+perhaps : 1 -- 2327 
+waiting : 4 -- 8202 4914 4358 1748 
+hurried : 5 -- 6768 3968 3641 1605 317 
+methods : 1 -- 12894 
+Royalty : 2 -- 11487 11462 
+playing : 1 -- 8743 
+footman : 2 -- 6239 6204 
+strange : 2 -- 9940 6102 
+quicker : 1 -- 3618 
+library : 1 -- 12947 
+settled : 3 -- 9370 8134 5997 
+comfits : 2 -- 3305 3274 
+rapidly : 2 -- 5598 1932 
+burning : 1 -- 352 
+display : 1 -- 11166 
+redistribution : 1 -- 10218 
+warning : 1 -- 8668 
+angrily : 1 -- 5411 
+pressed : 2 -- 5616 4326 
+'William : 1 -- 2818 
+custard : 1 -- 1143 
+printed : 3 -- 12986 10196 1070 
+curtain : 1 -- 879 
+solicit : 2 -- 12821 12785 
+FOUNDATION : 1 -- 11913 
+company : 1 -- 8820 
+natural : 1 -- 2726 
+started : 2 -- 1768 320 
+whether : 4 -- 6707 5944 1084 230 
+nothing : 12 -- 9828 7766 7489 7460 6855 3490 2226 1213 818 569 264 168 
+expense : 1 -- 11288 
+howling : 3 -- 6696 6550 6412 
+staring : 1 -- 6342 
+smoking : 1 -- 5090 
+inwards : 1 -- 4321 
+nowhere : 1 -- 3841 
+efforts : 3 -- 12460 12373 11761 
+viewing : 1 -- 11351 
+provide : 7 -- 12434 12392 12032 11600 11522 11292 11240 
+copying : 4 -- 11354 10776 10618 10115 
+cushion : 1 -- 7949 
+grunted : 2 -- 6887 6838 
+shrieks : 1 -- 4531 
+plainly : 1 -- 1268 
+thunder : 1 -- 8117 
+jumping : 2 -- 9584 6722 
+gravely : 1 -- 5219 
+exactly : 2 -- 5420 3292 
+morning : 3 -- 5162 3488 1835 
+shelves : 2 -- 516 495 
+perform : 1 -- 11167 
+crimson : 1 -- 7947 
+reasons : 1 -- 6371 
+brought : 1 -- 6179 
+closely : 1 -- 5618 
+pulling : 1 -- 4548 
+ferrets : 2 -- 3800 3798 
+formats : 2 -- 12352 10014 
+quarrel : 1 -- 8325 
+shouted : 4 -- 9802 8669 8110 8032 
+corners : 1 -- 7892 
+timidly : 4 -- 7755 6973 6590 6350 
+require : 1 -- 11565 
+passion : 1 -- 8226 
+outside : 5 -- 12872 10810 10756 4915 4232 
+hunting : 1 -- 3834 
+wasting : 2 -- 7437 3512 
+luckily : 1 -- 3275 
+growing : 8 -- 7717 6067 5048 4168 4152 4150 1901 1469 
+trouble : 4 -- 9746 5824 1566 242 
+maximum : 1 -- 12195 
+curving : 1 -- 5731 
+hastily : 8 -- 9557 7286 5961 5366 4123 2290 1952 1689 
+DISTRIBUTE : 1 -- 10232 
+attempt : 1 -- 4331 
+stopped : 2 -- 7974 4234 
+uniform : 1 -- 12762 
+WARRANTIES : 2 -- 12136 12124 
+further : 1 -- 12088 
+players : 3 -- 8776 8753 8196 
+_yours_ : 1 -- 5978 
+matters : 1 -- 5953 
+however : 2 -- 8506 3723 

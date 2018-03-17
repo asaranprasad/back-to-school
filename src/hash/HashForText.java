@@ -9,18 +9,20 @@ import java.util.Scanner;
 class KeyNode {
   public String key;
   public int count;
-  public PositionNode pn;
+  public LinkedListPositionNodes pl;
   public KeyNode next;
 
-  public KeyNode(String key, int count) {
+  public KeyNode(String key, int count, int pos) {
     this.key = key;
     this.count = count;
-    pn = null;
+    pl = new LinkedListPositionNodes();
+    pl.push(pos);
     next = null;
   }
 
-  public void incrementCount() {
+  public void incrementCount(int pos) {
     count++;
+    pl.push(pos);
   }
 }
 
@@ -37,22 +39,27 @@ class PositionNode {
 }
 
 
-class LinkedListKeyNodes {
-  public KeyNode head;
+// LinkedList of position nodes
+class LinkedListPositionNodes {
+  public PositionNode head;
 
-  public void push(String data, int value) {
-    KeyNode node = new KeyNode(data, value);
+  public void push(int value) {
+    PositionNode node = new PositionNode(value);
     node.next = head;
     head = node;
   }
+}
 
-  //  public void print() {
-  //    LinkedListNode<KeyNode> curr = head;
-  //    while (curr != null) {
-  //      System.out.print(curr.n + " ");
-  //      curr = curr.next;
-  //    }
-  //  }
+
+//LinkedList of key nodes
+class LinkedListKeyNodes {
+  public KeyNode head;
+
+  public void push(String data, int value, int pos) {
+    KeyNode node = new KeyNode(data, value, pos);
+    node.next = head;
+    head = node;
+  }
 
   public void deleteFirstOccuranceOfData(String key) {
     KeyNode curr = head;
@@ -82,12 +89,11 @@ class LinkedListKeyNodes {
 }
 
 
+/* Hash Implementation */
 public class HashForText {
-
   // size of the hash table - a prime
   private static int M = 769;
   private LinkedListKeyNodes[] hashTable;
-
 
   public HashForText() {
     hashTable = new LinkedListKeyNodes[M];
@@ -103,14 +109,14 @@ public class HashForText {
     return sum % M;
   }
 
-  public void insert(String key, int value) {
+  public void insert(String key, int value, int pos) {
     int hashKey = hash(key);
     LinkedListKeyNodes list = hashTable[hashKey];
     if (list == null) {
       list = new LinkedListKeyNodes();
       hashTable[hashKey] = list;
     }
-    list.push(key, value);
+    list.push(key, value, pos);
   }
 
   public void delete(String key) {
@@ -119,12 +125,12 @@ public class HashForText {
       list.deleteFirstOccuranceOfData(key);
   }
 
-  public void increase(String key) {
+  public void increase(String key, int pos) {
     KeyNode n = find(key);
     if (n != null) {
-      n.count = n.count + 1;
+      n.incrementCount(pos);
     } else {
-      insert(key, 1);
+      insert(key, 1, pos);
     }
   }
 
@@ -145,9 +151,21 @@ public class HashForText {
           continue;
         KeyNode k = entry.head;
         while (k != null) {
-          System.out.println(k.key + " : " + k.count);
-          outputHandle.println(k.key + " : " + k.count);
+          System.out.print(k.key + " : " + k.count + " -- ");
+          outputHandle.print(k.key + " : " + k.count + " -- ");
           outputHandle.flush();
+          // print positions
+          PositionNode phead = k.pl.head;
+          while (phead != null) {
+            System.out.print(phead.position + " ");
+            outputHandle.print(phead.position + " ");
+            outputHandle.flush();
+            phead = phead.next;
+          }
+          System.out.println();
+          outputHandle.println();
+          outputHandle.flush();
+
           k = k.next;
         }
       }
@@ -162,21 +180,40 @@ public class HashForText {
     String[] words = corpus.trim().split("[^\\w']+");
 
     // push each word into the hashTable
-    for (String word : words) {
+    for (int i = 0; i < words.length; i++) {
+      String word = words[i];
       if (word.length() < 1)
         continue;
-      increase(word);
+      increase(word, i + 1); // i+1 denotes position of the word
     }
+  }
+
+  private void printMapDistributionToConsole() {
+    System.out.println("\n\n Map Distribution:");
+    int countNull = 0;
+    int n = hashTable.length;
+    for (int i = 0; i < n; i++) {
+      LinkedListKeyNodes k = hashTable[i];
+      if (k != null)
+        System.out.println("[" + i + "]" + " Filled");
+      else {
+        countNull++;
+        System.out.println("[" + i + "]" + " Null");
+      }
+    }
+    System.out
+        .println("Percentage of Hash filled: " + (100 * (n - countNull) / n) + "%");
   }
 
 
   public static void main(String[] args) {
-    String fileName = "test";
-    //    String fileName = "alice_in_wonderland_orig";
+    //    String fileName = "test";
+    String fileName = "alice_in_wonderland_orig";
     String corpus = textFileToString("./input/" + fileName + ".txt");
     HashForText hft = new HashForText();
     hft.parseAndPushStrings(corpus);
     hft.listAllKeys("./output/" + fileName + "_output.txt");
+    hft.printMapDistributionToConsole();
   }
 
   public static String textFileToString(String filePath) {
