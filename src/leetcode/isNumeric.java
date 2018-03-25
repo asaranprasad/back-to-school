@@ -90,9 +90,6 @@ public class isNumeric {
 
     char prev = '0';
     boolean befDec = false;
-    boolean aftDec = false;
-    boolean befE = false;
-    boolean aftE = false;
     boolean decOccured = false;
     boolean eOccured = false;
 
