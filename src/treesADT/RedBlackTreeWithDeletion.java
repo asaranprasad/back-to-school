@@ -6,45 +6,12 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-class RedBlackNode {
-  public RedBlackNode p;
-  public RedBlackNode left;
-  public RedBlackNode right;
-  public int key;
-  public boolean color;
 
-  public RedBlackNode(int key) {
-    this.key = key;
-  }
-
-  public RedBlackNode() {
-    color = true;
-  }
-
-  public boolean isBlack() {
-    return this.color;
-  }
-
-  public boolean isRed() {
-    return !this.color;
-  }
-
-  public void setRed() {
-    color = false;
-  }
-
-  public void setBlack() {
-    color = true;
-  }
-
-}
-
-
-public class RedBlackTree {
+public class RedBlackTreeWithDeletion {
   private RedBlackNode TNil;
   private RedBlackNode TRoot;
 
-  public RedBlackTree() {
+  public RedBlackTreeWithDeletion() {
     TNil = new RedBlackNode();
     TRoot = TNil;
   }
@@ -144,6 +111,46 @@ public class RedBlackTree {
     TRoot.setBlack();
   }
 
+  private void rbTransplant(RedBlackNode u, RedBlackNode v) {
+    if (u.p == TNil)
+      TRoot = v;
+    else if (u == u.p.left)
+      u.p.left = v;
+    else
+      u.p.right = v;
+    v.p = u.p;
+  }
+
+  public void rbDelete(RedBlackNode z) {
+    RedBlackNode y = z;
+    boolean yOrigColor = y.color;
+    RedBlackNode x;
+    if (z.left == TNil) {
+      x = z.right;
+      rbTransplant(z, z.right);
+    } else if (z.right == TNil) {
+      x = z.left;
+      rbTransplant(z, z.left);
+    } else {
+      y = rbMin(z.right);
+      yOrigColor = y.color;
+      x = y.right;
+      if (y.p == z)
+        x.p = y;
+      else {
+        rbTransplant(y, y.right);
+        y.right = z.right;
+        y.right.p = y;
+      }
+      rbTransplant(z, y);
+      y.left = z.left;
+      y.left.p = y;
+      y.color = z.color;
+    }
+    if (yOrigColor)
+      rbDeleteFixup(x);
+  }
+
   private RedBlackNode rbMin(RedBlackNode x) {
     while (x.left != TNil)
       x = x.left;
@@ -156,6 +163,60 @@ public class RedBlackTree {
     return x;
   }
 
+  private void rbDeleteFixup(RedBlackNode x) {
+    while (x != TRoot && x.isBlack()) {
+      if (x == x.p.left) {
+        RedBlackNode w = x.p.right;
+        if (w.isRed()) {
+          w.setBlack();
+          x.p.setRed();
+          leftRotate(x.p);
+          w = x.p.right;
+        }
+        if (w.left.isBlack() && w.right.isBlack()) {
+          w.setRed();
+          x = x.p;
+        } else {
+          if (w.right.isBlack()) {
+            w.left.setBlack();
+            w.setRed();
+            rightRotate(w);
+            w = x.p.right;
+          }
+          w.color = x.p.color;
+          x.p.setBlack();
+          w.right.setBlack();
+          leftRotate(x.p);
+          x = TRoot;
+        }
+      } else {
+        RedBlackNode w = x.p.left;
+        if (w.isRed()) {
+          w.setBlack();
+          x.p.setRed();
+          rightRotate(x.p);
+          w = x.p.left;
+        }
+        if (w.right.isBlack() && w.left.isBlack()) {
+          w.setRed();
+          x = x.p;
+        } else {
+          if (w.left.isBlack()) {
+            w.right.setBlack();
+            w.setRed();
+            leftRotate(w);
+            w = x.p.left;
+          }
+          w.color = x.p.color;
+          x.p.setBlack();
+          w.left.setBlack();
+          rightRotate(x.p);
+          x = TRoot;
+        }
+      }
+    }
+    x.setBlack();
+  }
 
   public RedBlackNode rbSearch(RedBlackNode x, int k) {
     if (x == TNil || k == x.key)
@@ -207,7 +268,7 @@ public class RedBlackTree {
 
   public static void main(String[] args) {
     String fileName = "numbers";
-    RedBlackTree T = new RedBlackTree();
+    RedBlackTreeWithDeletion T = new RedBlackTreeWithDeletion();
     List<Integer> keys = textFileToIntList("./input/" + fileName + ".txt");
 
     // Build tree via inserts
@@ -229,6 +290,7 @@ public class RedBlackTree {
       System.out.println("5. successor");
       System.out.println("6. predecessor");
       System.out.println("7. insert");
+      System.out.println("8. delete");
       System.out.println("9. print-tree");
       System.out.println("10. quit");
       option = scan.nextInt();
@@ -276,6 +338,17 @@ public class RedBlackTree {
           System.out.println("Enter the integer value to insert: ");
           s = scan.nextInt();
           T.rbInsert(new RedBlackNode(s));
+          System.out.println("Done");
+          break;
+        case 8:
+          System.out.println("Enter the key value to delete from the tree: ");
+          s = scan.nextInt();
+          node = T.rbSearch(root, s);
+          if (node == T.TNil) {
+            System.out.println("Node with Key " + s + " not found");
+            break;
+          }
+          T.rbDelete(node);
           System.out.println("Done");
           break;
         case 9:

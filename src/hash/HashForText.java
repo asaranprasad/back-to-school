@@ -63,7 +63,7 @@ class LinkedListKeyNodes {
 
   public void deleteFirstOccuranceOfData(String key) {
     KeyNode curr = head;
-    KeyNode prev = curr;
+    KeyNode prev = null;
     while (curr.next != null) {
       if (curr.key.equals(key))
         break;
@@ -74,7 +74,10 @@ class LinkedListKeyNodes {
   }
 
   private void delete(KeyNode prev, KeyNode node) {
-    prev.next = node.next;
+    if (prev == null)
+      head = node.next;
+    else
+      prev.next = node.next;
   }
 
   public KeyNode findKeyNode(String key) {
@@ -186,6 +189,15 @@ public class HashForText {
         continue;
       increase(word, i + 1); // i+1 denotes position of the word
     }
+
+    insert("random", 5, 9999);
+    increase("random", 9998);
+    System.out.println(find("random").count);
+    delete("random");
+    System.out.println(find("random"));
+    System.out.println(find("noticed").count);
+    increase("noticed", 1);
+    System.out.println(find("noticed").count);
   }
 
   private void printMapDistributionToConsole() {
@@ -212,8 +224,8 @@ public class HashForText {
     String corpus = textFileToString("./input/" + fileName + ".txt");
     HashForText hft = new HashForText();
     hft.parseAndPushStrings(corpus);
-    hft.listAllKeys("./output/" + fileName + "_output.txt");
-    hft.printMapDistributionToConsole();
+    //    hft.listAllKeys("./output/" + fileName + "_output.txt");
+    //    hft.printMapDistributionToConsole();
   }
 
   public static String textFileToString(String filePath) {
