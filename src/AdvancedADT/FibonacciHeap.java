@@ -66,7 +66,7 @@ public class FibonacciHeap {
       createNewRootList(x);
       min = x;
     } else {
-      insertIntoRootList(x);
+      insertIntoRootList(x, min);
       // make x min if rightly so
       if (x.key < min.key)
         min = x;
@@ -83,11 +83,13 @@ public class FibonacciHeap {
   }
 
   /** insert x into the non-empty root list of the heap */
-  private void insertIntoRootList(DNode x) {
-    x.right = min.right;
-    min.right.left = x;
-    min.right = x;
-    x.left = min;
+  private void insertIntoRootList(DNode x, DNode after) {
+    if (after == null)
+      after = min;
+    x.right = after.right;
+    after.right.left = x;
+    after.right = x;
+    x.left = after;
     x.parent = null;
   }
 
@@ -189,7 +191,7 @@ public class FibonacciHeap {
         // make each child of the min node a root node
         do {
           DNode next = x.right;
-          insertIntoRootList(x);
+          insertIntoRootList(x, min);
           x = next;
         } while (x != z.child);
 
@@ -231,7 +233,7 @@ public class FibonacciHeap {
           // making sure to maintain the firstRoot 
           // in order to break the do-while loop
           if (y == firstRoot)
-            firstRoot = y.right;
+            firstRoot = y.left;
           fibHeapLink(y, x);
           A[d] = null;
           d++;
@@ -241,13 +243,16 @@ public class FibonacciHeap {
     min = null;
 
     // build a new root list from A[]
+    DNode prev = min;
     for (int i = 0; i < A.length; i++) {
       if (A[i] != null) {
         if (min == null) {
           createNewRootList(A[i]);
           min = A[i];
+          prev = min;
         } else {
-          insertIntoRootList(A[i]);
+          insertIntoRootList(A[i], prev);
+          prev = A[i];
           if (A[i].key < min.key)
             min = A[i];
         }
@@ -284,7 +289,7 @@ public class FibonacciHeap {
    */
   private void cut(DNode x, DNode y) {
     removeFromChildList(y, x);
-    insertIntoRootList(x);
+    insertIntoRootList(x, min);
     x.parent = null;
     x.mark = false;
   }
@@ -321,22 +326,42 @@ public class FibonacciHeap {
   public static void main(String[] args) {
     FibonacciHeap H = makeFibHeap();
     int[] values = {18, 38, 24, 7, 17, 23, 21, 39, 41, 26, 46, 30, 52, 35};
+    DNode[] nodeValues = new DNode[values.length];
     DNode[] delValues = {new DNode(34), new DNode(43), new DNode(45), new DNode(32),
         new DNode(23), new DNode(4)};
-    for (int value : values)
-      H.fibHeapInsert(new DNode(value));
-    for (DNode node : delValues)
-      H.fibHeapInsert(node);
-    H.printHeap();
-    System.out.println("min: " + H.minimum().key);
 
+    // Insert - Set 1
+    for (int i = 0; i < values.length; i++) {
+      nodeValues[i] = new DNode(values[i]);
+      H.fibHeapInsert(nodeValues[i]);
+    }
+
+    // Insert - Set 2
     for (DNode node : delValues) {
-      System.out.println("Deleting key: " + node.key);
+      H.fibHeapInsert(node);
+      H.printHeap();
+      System.out.println("min: " + H.key(H.minimum()));
+      System.out.println("n: " + H.n());
+    }
+
+    // Delete - Set 1
+    for (DNode node : delValues) {
+      System.out.println("Deleting key: " + H.key(node));
       H.fibHeapDelete(node);
       H.printHeap();
+      System.out.println("min: " + H.key(H.minimum()));
+      System.out.println("n: " + H.n());
     }
-    System.out.println("min: " + H.minimum().key);
-    System.out.println("n: " + H.n());
+
+    // Delete - Set 2
+    for (DNode node : nodeValues) {
+      System.out.println("Deleting key: " + H.key(node));
+      H.fibHeapDelete(node);
+      H.printHeap();
+      System.out.println("min: " + H.key(H.minimum()));
+      System.out.println("n: " + H.n());
+    }
+
   }
 
   /**
