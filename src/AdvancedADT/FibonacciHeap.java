@@ -339,28 +339,33 @@ public class FibonacciHeap {
     // Insert - Set 2
     for (DNode node : delValues) {
       H.fibHeapInsert(node);
-      H.printHeap();
+
       System.out.println("min: " + H.key(H.minimum()));
       System.out.println("n: " + H.n());
     }
+    H.printHeap();
+
+
 
     // Delete - Set 1
     for (DNode node : delValues) {
       System.out.println("Deleting key: " + H.key(node));
       H.fibHeapDelete(node);
-      H.printHeap();
       System.out.println("min: " + H.key(H.minimum()));
       System.out.println("n: " + H.n());
     }
 
-    // Delete - Set 2
-    for (DNode node : nodeValues) {
-      System.out.println("Deleting key: " + H.key(node));
-      H.fibHeapDelete(node);
-      H.printHeap();
-      System.out.println("min: " + H.key(H.minimum()));
-      System.out.println("n: " + H.n());
-    }
+
+    H.printHeap();
+
+    //    // Delete - Set 2
+    //    for (DNode node : nodeValues) {
+    //      System.out.println("Deleting key: " + H.key(node));
+    //      H.fibHeapDelete(node);
+    //      //      H.printHeap();
+    //      System.out.println("min: " + H.key(H.minimum()));
+    //      System.out.println("n: " + H.n());
+    //    }
 
   }
 
