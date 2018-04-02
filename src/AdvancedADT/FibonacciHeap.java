@@ -1,27 +1,5 @@
 package AdvancedADT;
 
-
-class DNode {
-  public int key;
-  public DNode left;
-  public DNode right;
-  public DNode child;
-  public DNode parent;
-  public int degree;
-  public boolean mark;
-
-  public DNode(int key) {
-    this.key = key;
-    left = null;
-    right = null;
-    child = null;
-    parent = null;
-    degree = 0;
-    mark = false;
-  }
-}
-
-
 public class FibonacciHeap {
   private DNode min;
   private int n; // nodes count
@@ -50,6 +28,10 @@ public class FibonacciHeap {
   }
 
   public int n() {
+    return n;
+  }
+
+  public int size() {
     return n;
   }
 
