@@ -19,8 +19,11 @@ public class PrimsMinimumSpanningTree {
     FibonacciHeap Q = new FibonacciHeap();
 
     // fillFibonacciHeap
-    for (Vertex u : G.v())
-      Q.fibHeapInsert(new DNode(u.key, u));
+    for (Vertex u : G.v()) {
+      DNode d = new DNode(u.key, u);
+      u.d = d;
+      Q.fibHeapInsert(d);
+    }
 
     while (Q.size() != 0) {
       Vertex u = Q.fibHeapExtractMin().v;
@@ -31,6 +34,7 @@ public class PrimsMinimumSpanningTree {
         if (w < v.key) {
           v.p = u;
           v.key = w;
+          Q.fibHeapDecreaseKey(v.d, w);
         }
       }
     }
