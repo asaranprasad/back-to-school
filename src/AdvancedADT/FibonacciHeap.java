@@ -198,7 +198,7 @@ public class FibonacciHeap {
 
     DNode firstRoot = min;
     DNode x = firstRoot;
-    if (firstRoot != null)
+    if (firstRoot != null) {
       // Coalescing equal degree roots
       // as they form.
       do {
@@ -222,6 +222,7 @@ public class FibonacciHeap {
         }
         A[d] = x;
       } while (x != firstRoot);
+    }
     min = null;
 
     // build a new root list from A[]
@@ -319,23 +320,23 @@ public class FibonacciHeap {
     }
 
     // Insert - Set 2
-    for (DNode node : delValues) {
-      H.fibHeapInsert(node);
-
-      System.out.println("min: " + H.key(H.minimum()));
-      System.out.println("n: " + H.n());
-    }
+    //    for (DNode node : delValues) {
+    //      H.fibHeapInsert(node);
+    //
+    //      System.out.println("min: " + H.key(H.minimum()));
+    //      System.out.println("n: " + H.n());
+    //    }
     H.printHeap();
 
-
+    H.fibHeapDelete(nodeValues[0]);
 
     // Delete - Set 1
-    for (DNode node : delValues) {
-      System.out.println("Deleting key: " + H.key(node));
-      H.fibHeapDelete(node);
-      System.out.println("min: " + H.key(H.minimum()));
-      System.out.println("n: " + H.n());
-    }
+    //    for (DNode node : delValues) {
+    //      System.out.println("Deleting key: " + H.key(node));
+    //      H.fibHeapDelete(node);
+    //      System.out.println("min: " + H.key(H.minimum()));
+    //      System.out.println("n: " + H.n());
+    //    }
 
 
     H.printHeap();
