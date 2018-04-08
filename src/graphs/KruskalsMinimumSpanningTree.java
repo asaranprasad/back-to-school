@@ -11,13 +11,21 @@ import java.util.List;
 class Node {
   public Node p;
   String name;
+  int graphIndex;
   public Node next;
 
   public Node(String name) {
     this.name = name;
     p = null;
     next = null;
+    graphIndex = 0;
   }
+
+  public Node(String name, int graphIndex) {
+    this(name);
+    this.graphIndex = graphIndex;
+  }
+
 }
 
 
@@ -123,9 +131,39 @@ class DisjointSet {
 /** Represents a graph */
 class KGraph {
   LinkedList<NodesAndWeights>[] Adj;
+  int V; // num of vertices in the graph
+  boolean isUndirected;
 
-  public KGraph(LinkedList<NodesAndWeights>[] Adj) {
+  // init graph just with number of vertices information
+  @SuppressWarnings("unchecked")
+  public KGraph(int V) {
+    this.V = V;
+    Adj = new LinkedList[V];
+    // init Adjacency list
+    for (int i = 0; i < V; i++) {
+      Adj[i] = new LinkedList<NodesAndWeights>();
+    }
+    isUndirected = false;
+  }
+
+  public KGraph(int V, boolean isUndirected) {
+    this(V);
+    this.isUndirected = isUndirected;
+  }
+
+  public static void addEdge(KGraph G, Node source,
+      Node destination, int weight) {
+    // add to adjacency list
+    G.Adj[source.graphIndex].add(new NodesAndWeights(destination, weight));
+
+    // add again vice-versa if graph is undirected
+    if (G.isUndirected)
+      G.Adj[destination.graphIndex].add(new NodesAndWeights(source, weight));
+  }
+
+  public KGraph(LinkedList<NodesAndWeights>[] Adj, boolean isUndirected) {
     this.Adj = Adj;
+    this.isUndirected = isUndirected;
   }
 
   public Node[] v() {
@@ -182,90 +220,55 @@ public class KruskalsMinimumSpanningTree {
     return A;
   }
 
-  @SuppressWarnings("unchecked")
+
+  /** Main method */
   public static void main(String[] args) {
     // create vertices
     int vertex_count = 9;
-    LinkedList<NodesAndWeights>[] Adj = new LinkedList[vertex_count];
-    Node a = new Node("a");
-    Node b = new Node("b");
-    Node c = new Node("c");
-    Node d = new Node("d");
-    Node e = new Node("e");
-    Node f = new Node("f");
-    Node g = new Node("g");
-    Node h = new Node("h");
-    Node i = new Node("i");
+    Node a = new Node("a", 0);
+    Node b = new Node("b", 1);
+    Node c = new Node("c", 2);
+    Node d = new Node("d", 3);
+    Node e = new Node("e", 4);
+    Node f = new Node("f", 5);
+    Node g = new Node("g", 6);
+    Node h = new Node("h", 7);
+    Node i = new Node("i", 8);
 
-    // create edges
-    LinkedList<NodesAndWeights> aNeighbours = new LinkedList<NodesAndWeights>();
-    aNeighbours.add(new NodesAndWeights(a, 0));
-    aNeighbours.add(new NodesAndWeights(b, 4));
-    aNeighbours.add(new NodesAndWeights(h, 8));
+    KGraph G = new KGraph(vertex_count);
 
-    LinkedList<NodesAndWeights> bNeighbours = new LinkedList<NodesAndWeights>();
-    bNeighbours.add(new NodesAndWeights(b, 0));
-    bNeighbours.add(new NodesAndWeights(h, 11));
-    bNeighbours.add(new NodesAndWeights(c, 8));
-    bNeighbours.add(new NodesAndWeights(a, 4));
+    KGraph.addEdge(G, a, a, 0);
+    KGraph.addEdge(G, a, b, 4);
+    KGraph.addEdge(G, a, h, 8);
 
-    LinkedList<NodesAndWeights> cNeighbours = new LinkedList<NodesAndWeights>();
-    cNeighbours.add(new NodesAndWeights(c, 0));
-    cNeighbours.add(new NodesAndWeights(d, 7));
-    cNeighbours.add(new NodesAndWeights(f, 4));
-    cNeighbours.add(new NodesAndWeights(i, 2));
-    cNeighbours.add(new NodesAndWeights(b, 8));
+    KGraph.addEdge(G, b, b, 0);
+    KGraph.addEdge(G, b, c, 8);
+    KGraph.addEdge(G, b, h, 11);
 
-    LinkedList<NodesAndWeights> dNeighbours = new LinkedList<NodesAndWeights>();
-    dNeighbours.add(new NodesAndWeights(d, 0));
-    dNeighbours.add(new NodesAndWeights(c, 7));
-    dNeighbours.add(new NodesAndWeights(e, 9));
-    dNeighbours.add(new NodesAndWeights(f, 14));
+    KGraph.addEdge(G, c, c, 0);
+    KGraph.addEdge(G, c, d, 7);
+    KGraph.addEdge(G, c, f, 4);
+    KGraph.addEdge(G, c, i, 2);
 
-    LinkedList<NodesAndWeights> eNeighbours = new LinkedList<NodesAndWeights>();
-    eNeighbours.add(new NodesAndWeights(e, 0));
-    eNeighbours.add(new NodesAndWeights(d, 9));
-    eNeighbours.add(new NodesAndWeights(f, 10));
+    KGraph.addEdge(G, d, d, 0);
+    KGraph.addEdge(G, d, e, 9);
+    KGraph.addEdge(G, d, f, 14);
 
-    LinkedList<NodesAndWeights> fNeighbours = new LinkedList<NodesAndWeights>();
-    fNeighbours.add(new NodesAndWeights(f, 0));
-    fNeighbours.add(new NodesAndWeights(e, 10));
-    fNeighbours.add(new NodesAndWeights(d, 14));
-    fNeighbours.add(new NodesAndWeights(c, 4));
-    fNeighbours.add(new NodesAndWeights(g, 2));
+    KGraph.addEdge(G, e, e, 0);
+    KGraph.addEdge(G, e, f, 10);
 
-    LinkedList<NodesAndWeights> gNeighbours = new LinkedList<NodesAndWeights>();
-    gNeighbours.add(new NodesAndWeights(g, 0));
-    gNeighbours.add(new NodesAndWeights(f, 2));
-    gNeighbours.add(new NodesAndWeights(i, 6));
-    gNeighbours.add(new NodesAndWeights(h, 1));
+    KGraph.addEdge(G, f, f, 0);
+    KGraph.addEdge(G, f, g, 2);
 
-    LinkedList<NodesAndWeights> hNeighbours = new LinkedList<NodesAndWeights>();
-    hNeighbours.add(new NodesAndWeights(h, 0));
-    hNeighbours.add(new NodesAndWeights(g, 1));
-    hNeighbours.add(new NodesAndWeights(i, 7));
-    hNeighbours.add(new NodesAndWeights(b, 11));
-    hNeighbours.add(new NodesAndWeights(a, 8));
+    KGraph.addEdge(G, g, g, 0);
+    KGraph.addEdge(G, g, h, 1);
+    KGraph.addEdge(G, g, i, 6);
 
-    LinkedList<NodesAndWeights> iNeighbours = new LinkedList<NodesAndWeights>();
-    iNeighbours.add(new NodesAndWeights(i, 0));
-    iNeighbours.add(new NodesAndWeights(c, 2));
-    iNeighbours.add(new NodesAndWeights(g, 6));
-    iNeighbours.add(new NodesAndWeights(h, 7));
+    KGraph.addEdge(G, h, h, 0);
+    KGraph.addEdge(G, h, i, 7);
 
-    // Populate the adjacency list
-    Adj[0] = aNeighbours;
-    Adj[1] = bNeighbours;
-    Adj[2] = cNeighbours;
-    Adj[3] = dNeighbours;
-    Adj[4] = eNeighbours;
-    Adj[5] = fNeighbours;
-    Adj[6] = gNeighbours;
-    Adj[7] = hNeighbours;
-    Adj[8] = iNeighbours;
+    KGraph.addEdge(G, i, i, 0);
 
-    // Init graph with this Adjacency List
-    KGraph G = new KGraph(Adj);
 
     // perform minimal spanning tree generation
     List<Edge> MST = KruskalsMinimumSpanningTree.mstKruskal(G);
