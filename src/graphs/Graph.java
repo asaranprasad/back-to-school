@@ -11,6 +11,10 @@ class VertexAndWeights {
 public class Graph {
   LinkedList<VertexAndWeights>[] Adj;
 
+  public Graph(LinkedList<VertexAndWeights>[] Adj) {
+    this.Adj = Adj;
+  }
+
   public Vertex[] v() {
     Vertex[] vertices = new Vertex[Adj.length];
     for (int i = 0; i < Adj.length; i++)
