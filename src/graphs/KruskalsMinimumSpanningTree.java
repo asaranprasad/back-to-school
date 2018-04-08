@@ -3,13 +3,12 @@ package graphs;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.HashSet;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Set;
 
+/** Represents a vertex in a graph */
 class Node {
-
   public Node p;
   String name;
   public Node next;
@@ -19,10 +18,10 @@ class Node {
     p = null;
     next = null;
   }
-
 }
 
 
+/** Represents a vertex-weight in a graph's adjacency list */
 class NodesAndWeights {
   public Node v;
   public int w;
@@ -34,6 +33,7 @@ class NodesAndWeights {
 }
 
 
+/** Represents an edge in a graph */
 class Edge {
   int w;
   Node from;
@@ -44,9 +44,30 @@ class Edge {
     this.from = from;
     this.to = to;
   }
+
+  // Overriding equals so that edges are considered undirected
+  @Override
+  public boolean equals(Object obj) {
+    if (obj == null)
+      return false;
+    final Edge other = (Edge) obj;
+    if (other.from.name.equals(this.from.name) && other.to.name.equals(this.to.name))
+      return true;
+    if (other.from.name.equals(this.to.name) && other.to.name.equals(this.from.name))
+      return true;
+    return false;
+  }
+
+  // Overriding hashCode by contract for equals
+  @Override
+  public int hashCode() {
+    return this.from.hashCode() + this.to.hashCode();
+  }
+
 }
 
 
+/** Represents a DisjointSet datastructure, enabling to identify the set a node belongs to */
 class DisjointSet {
   public Node head;
   public Node tail;
@@ -67,25 +88,29 @@ class DisjointSet {
   }
 
   public void add(Node n) {
-    n.p = head;
-    if (head == null) {
+    if (head.next == null) {
       head.next = n;
       tail.next = n;
-      n.p = head;
     } else {
+      tail.next.next = n;
       tail.next = n;
       n.next = null;
     }
+    n.p = head;
   }
 
-  public static void union(DisjointSet a, DisjointSet b) {
-    Node t = b.head.next;
+  public static void union(Node a, Node b) {
+    Node aHead = a.p;
+    Node bHead = b.p;
+    Node t = bHead.next;
     while (t != null) {
-      t.p = a.head;
+      t.p = aHead;
       t = t.next;
     }
-    b.tail.p = a.head;
-    a.tail = b.tail;
+    Node aTail = aHead.p;
+    Node bTail = bHead.p;
+    aTail.next.next = bHead.next;
+    aTail.next = bTail.next;
   }
 
   public static Node findSet(Node n) {
@@ -95,8 +120,13 @@ class DisjointSet {
 }
 
 
+/** Represents a graph */
 class KGraph {
   LinkedList<NodesAndWeights>[] Adj;
+
+  public KGraph(LinkedList<NodesAndWeights>[] Adj) {
+    this.Adj = Adj;
+  }
 
   public Node[] v() {
     Node[] nodes = new Node[Adj.length];
@@ -107,6 +137,7 @@ class KGraph {
 }
 
 
+/** Main class */
 public class KruskalsMinimumSpanningTree {
 
   /**
@@ -115,7 +146,7 @@ public class KruskalsMinimumSpanningTree {
    * 
    * @param G - Graph
    */
-  public Set<Edge> mstKruskal(KGraph G) {
+  public static List<Edge> mstKruskal(KGraph G) {
     for (Node v : G.v()) {
       (new DisjointSet()).add(v);
     }
@@ -132,24 +163,28 @@ public class KruskalsMinimumSpanningTree {
 
     // sort the edges in non-decreasing order
     Collections.sort(edges, new Comparator<Edge>() {
+      @Override
       public int compare(Edge a, Edge b) {
         return a.w - b.w;
       }
     });
 
+
     // Final set of edges in the minimum spanning tree
-    Set<Edge> A = new HashSet<Edge>();
+    List<Edge> A = new ArrayList<Edge>();
 
     for (Edge edge : edges) {
       if (DisjointSet.findSet(edge.from) != DisjointSet.findSet(edge.to)) {
-        DisjointSet.union(new DisjointSet(edge.from), new DisjointSet(edge.to));
+        DisjointSet.union(edge.from, edge.to);
         A.add(edge);
       }
     }
     return A;
   }
 
+  @SuppressWarnings("unchecked")
   public static void main(String[] args) {
+    // create vertices
     int vertex_count = 9;
     LinkedList<NodesAndWeights>[] Adj = new LinkedList[vertex_count];
     Node a = new Node("a");
@@ -162,6 +197,7 @@ public class KruskalsMinimumSpanningTree {
     Node h = new Node("h");
     Node i = new Node("i");
 
+    // create edges
     LinkedList<NodesAndWeights> aNeighbours = new LinkedList<NodesAndWeights>();
     aNeighbours.add(new NodesAndWeights(a, 0));
     aNeighbours.add(new NodesAndWeights(b, 4));
@@ -217,6 +253,29 @@ public class KruskalsMinimumSpanningTree {
     iNeighbours.add(new NodesAndWeights(g, 6));
     iNeighbours.add(new NodesAndWeights(h, 7));
 
+    // Populate the adjacency list
+    Adj[0] = aNeighbours;
+    Adj[1] = bNeighbours;
+    Adj[2] = cNeighbours;
+    Adj[3] = dNeighbours;
+    Adj[4] = eNeighbours;
+    Adj[5] = fNeighbours;
+    Adj[6] = gNeighbours;
+    Adj[7] = hNeighbours;
+    Adj[8] = iNeighbours;
+
+    // Init graph with this Adjacency List
+    KGraph G = new KGraph(Adj);
+
+    // perform minimal spanning tree generation
+    List<Edge> MST = KruskalsMinimumSpanningTree.mstKruskal(G);
+
+    // print edges
+    Iterator<Edge> it = MST.iterator();
+    while (it.hasNext()) {
+      Edge ed = it.next();
+      System.out.println(ed.from.name + " -> " + ed.to.name + " : " + ed.w);
+    }
   }
 
 }
