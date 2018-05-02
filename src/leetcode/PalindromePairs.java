@@ -142,9 +142,9 @@ public class PalindromePairs {
     printResults(words2);
   }
 
-  private static void printResults(String[] words1) {
+  private static void printResults(String[] words) {
     PalindromePairs pp = new PalindromePairs();
-    for (List<Integer> pairs : pp.palindromePairs(words1)) {
+    for (List<Integer> pairs : pp.palindromePairs(words)) {
       System.out.print("[");
       System.out.print(pairs.get(0));
       System.out.print(",");
