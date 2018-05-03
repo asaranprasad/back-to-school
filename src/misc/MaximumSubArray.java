@@ -16,6 +16,7 @@ public class MaximumSubArray {
   }
 
   // returns [start, end] and maxSum value - inclusive closed intervals
+  // Improvization of Kadane's algorithm to handle all negative numbers
   private int[] findMaxContinuousSum(int[] a) {
     int start = -1;
     int end = -1;
