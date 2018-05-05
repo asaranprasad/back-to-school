@@ -14,7 +14,7 @@ public class LongestMatchingPath {
    * @param E
    * @return
    */
-  public static int solution(int[] A, int[] E) {
+  public int solution(int[] A, int[] E) {
     int n = A.length;
     List<Integer>[] adj = new LinkedList[n];
 
