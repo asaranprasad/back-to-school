@@ -22,7 +22,7 @@ public class SubStringMatching {
     int bPtr = fromIndex;
     int aRep = bPtr == 0 ? 0 : 1;
     while (bPtr < m) {
-      if (B.charAt(bPtr) != A.charAt(aPtr))
+      if (bPtr < 0 || B.charAt(bPtr) != A.charAt(aPtr))
         return -1;
       bPtr++;
       aPtr++;
@@ -50,20 +50,14 @@ public class SubStringMatching {
     return -1;
   }
 
-
-  private int findEndsWithSubStr(String bigger, String a) {
-    for (int i = a.length(); i >= 0; i--) {
-      String substrA = a.substring(0, i);
-      if (bigger.endsWith(substrA))
-        return bigger.length() - substrA.length();
-    }
-    return -1;
-  }
-
-
+  // Tests
   public static void main(String[] args) {
     SubStringMatching ssm = new SubStringMatching();
-    System.out.println(ssm.solution("abcd", "cdabcdabc")); // Expecting 3
+    System.out.println(ssm.solution("abcd", "cdabcdabc") == 3 ? "true" : "false");
+    System.out.println(ssm.solution("abcde", "cdabcdabc") == -1 ? "true" : "false");
+    System.out.println(ssm.solution("eabcd", "cdabcdabc") == -1 ? "true" : "false");
+    System.out.println(ssm.solution("abcd", "abcd") == 1 ? "true" : "false");
+    System.out.println(ssm.solution("abcd", "abcda") == 2 ? "true" : "false");
   }
 
 }
