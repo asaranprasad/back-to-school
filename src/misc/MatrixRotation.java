@@ -2,22 +2,6 @@ package misc;
 
 public class MatrixRotation {
 
-  public static void main(String[] args) {
-    int[][] mat = {{8, 9, 0, 1}, {1, 2, 3, 4}, {4, 5, 6, 7}, {7, 8, 9, 0}};
-    printMatrix(mat);
-    rotateMatrix90Degrees(mat);
-    printMatrix(mat);
-  }
-
-  private static void printMatrix(int[][] mat) {
-    for (int i = 0; i < mat.length; i++) {
-      for (int j = 0; j < mat[i].length; j++)
-        System.out.print(mat[i][j] + " ");
-      System.out.println();
-    }
-    System.out.println();
-  }
-
   // In-place matrix rotation
   private static void rotateMatrix90Degrees(int[][] mat) {
     int n = mat.length;
@@ -32,5 +16,21 @@ public class MatrixRotation {
         mat[i][end] = top; // top to right
       }
     }
+  }
+
+  public static void main(String[] args) {
+    int[][] mat = {{8, 9, 0, 1}, {1, 2, 3, 4}, {4, 5, 6, 7}, {7, 8, 9, 0}};
+    printMatrix(mat);
+    rotateMatrix90Degrees(mat);
+    printMatrix(mat);
+  }
+
+  private static void printMatrix(int[][] mat) {
+    for (int i = 0; i < mat.length; i++) {
+      for (int j = 0; j < mat[i].length; j++)
+        System.out.print(mat[i][j] + " ");
+      System.out.println();
+    }
+    System.out.println();
   }
 }
