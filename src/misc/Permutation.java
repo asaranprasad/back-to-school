@@ -22,10 +22,7 @@ public class Permutation {
         permute(s, start + 1, end);
         swap(s, start, i);
       }
-
   }
-
-
 
   private static void swap(char[] s, int index1, int index2) {
     char temp = s[index1];
