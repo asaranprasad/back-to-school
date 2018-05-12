@@ -41,11 +41,20 @@ public class PrettyPrintBinaryTree {
           System.out.print(" ");
       }
       System.out.print(n.data);
+
+      // if leaf node, continue
+      if (n.data == ' ')
+        continue;
+
       // Adding children to the frontier queue
       if (n.left != null)
         q.add(n.left);
+      else
+        q.add(new Node(' ')); // leaf node
       if (n.right != null)
         q.add(n.right);
+      else
+        q.add(new Node(' ')); // leaf node
 
       // Spaces mid level fill
       int numSpacesMid = (int) (Math.pow(2, height - hNow + 1) - 1);
@@ -105,6 +114,7 @@ public class PrettyPrintBinaryTree {
   public static void main(String[] args) {
     PrettyPrintBinaryTree p = new PrettyPrintBinaryTree();
     Node root = p.bfsFillChar26();
+    //    root = p.bfsFillChar256();
     p.prettyPrintToConsole(root);
   }
 
