@@ -56,7 +56,7 @@ public class PrettyPrintBinaryTree {
 
   private int dfsForHeight(Node root, int heightNow) {
     if (root == null)
-      return heightNow - 1;
+      return heightNow;
     return Math.max(dfsForHeight(root.left, heightNow + 1),
         dfsForHeight(root.right, heightNow + 1));
   }
@@ -83,14 +83,19 @@ public class PrettyPrintBinaryTree {
     int i = (int) ('a');
     Node root = new Node((char) i);
     Queue<Node> q = new LinkedList<Node>();
+    q.add(root);
     i++;
-    while (!q.isEmpty() && i <= (char) ('z')) {
+    while (!q.isEmpty()) {
       Node n = q.poll();
+      if (i > (int) ('z'))
+        break;
       Node left = new Node((char) (i++));
-      Node right = new Node((char) (i++));
-      n.left = left;
-      n.right = right;
       q.add(left);
+      n.left = left;
+      if (i > (int) ('z'))
+        break;
+      Node right = new Node((char) (i++));
+      n.right = right;
       q.add(right);
     }
     return root;
