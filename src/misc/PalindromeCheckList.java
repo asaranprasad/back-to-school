@@ -1,5 +1,8 @@
 package misc;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class ListNode {
   int val;
   ListNode next;
@@ -57,6 +60,25 @@ public class PalindromeCheckList {
     head = head.next;
 
     return retVal;
+  }
+
+  // Is the integer palindrome.
+  // Solution via not converting into String
+  public boolean isPalindrome(int x) {
+    if (x < 0)
+      return false;
+    List<Integer> num = new ArrayList<Integer>();
+
+    while (x > 0) {
+      num.add(x % 10);
+      x = x / 10;
+    }
+
+    for (int i = 0, j = num.size() - 1; i < j; i++, j--)
+      if (num.get(i) != num.get(j))
+        return false;
+
+    return true;
   }
 
 
