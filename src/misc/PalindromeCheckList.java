@@ -20,8 +20,6 @@ class ListNode {
 
 public class PalindromeCheckList {
 
-  ListNode head;
-
   public static void main(String[] args) {
     ListNode head = new ListNode(1);
     ListNode n1 = new ListNode(2);
@@ -43,23 +41,21 @@ public class PalindromeCheckList {
     n7.next = n8;
 
     PalindromeCheckList rc = new PalindromeCheckList();
-    rc.head = head;
     System.out.println(rc.isPalindrome(head));
   }
 
-  private boolean isPalindrome(ListNode left) {
-    boolean retVal = true;
+  // linked lists
+  public boolean isPalindrome(ListNode head) {
+    return (head == null) ? true : isPalindrome(head, head) != null;
+  }
 
+  // linked lists palindrome helper
+  private ListNode isPalindrome(ListNode left, ListNode head) {
     if (left.next != null)
-      retVal = isPalindrome(left.next);
+      head = isPalindrome(left.next, head);
 
-    if (!retVal)
-      return false;
-
-    retVal = (left.val == head.val);
-    head = head.next;
-
-    return retVal;
+    return (head == null) ? null
+        : (left.val == head.val) ? (head.next == null) ? head : head.next : null;
   }
 
   // Is the integer palindrome.
