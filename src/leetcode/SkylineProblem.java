@@ -9,7 +9,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.PriorityQueue;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
@@ -41,8 +43,23 @@ public class SkylineProblem {
    * Skyline Probem - my algorithm 2.
    * 
    */
-  public List<int[]> getSkyline1(int[][] buildings) {
+  class MaxH_RX implements Comparator<MaxH_RX> {
+    int height;
+    int rX;
 
+    @Override
+    public int compare(MaxH_RX a, MaxH_RX b) {
+      return a.height - b.height;
+    }
+  }
+
+  public List<int[]> getSkyline(int[][] buildings) {
+    List<int[]> out = new LinkedList<int[]>();
+    // Creating a priority queue of currentMaxHeight<->correspondingBuiliding'sRightX pair
+    PriorityQueue<MaxH_RX> pQueue = new PriorityQueue<MaxH_RX>();
+
+
+    return out;
   }
 
   /*
