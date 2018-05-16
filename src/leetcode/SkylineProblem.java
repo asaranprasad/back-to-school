@@ -1,3 +1,4 @@
+
 // Incomplete
 
 // https://leetcode.com/problems/the-skyline-problem/description/
@@ -12,15 +13,12 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
-/*
- * Skyline Probem - my algorithm.
- * 
- */
+
 
 public class SkylineProblem {
   public static void main(String args[]) {
     int[][] buildings = {{2, 9, 10}, {3, 7, 15}, {5, 12, 12}, {15, 20, 10}, {19, 24, 8}};
-    List<int[]> skyPoints = (new SkylineProblem()).getSkyline(buildings);
+    List<int[]> skyPoints = (new SkylineProblem()).getSkyline1(buildings);
 
     for (int[] eachSkyPoint : skyPoints)
       System.out.print("[" + eachSkyPoint[0] + "," + eachSkyPoint[1] + "], ");
@@ -31,14 +29,27 @@ public class SkylineProblem {
 
     System.out.println();
     int[][] buildings2 = {{2, 9, 10}, {3, 4, 15}, {5, 12, 12}};
-    for (int[] eachSkyPoint : (new SkylineProblem()).getSkyline(buildings2))
+    for (int[] eachSkyPoint : (new SkylineProblem()).getSkyline1(buildings2))
       System.out.print("[" + eachSkyPoint[0] + "," + eachSkyPoint[1] + "], ");
 
     // Inp: {{2,9,10},{3,4,15},{5,12,12}}
     // Exp: [2,10],[3,15],[4,10],[5,12],[12,0]
   }
 
-  public List<int[]> getSkyline(int[][] buildings) {
+
+  /*
+   * Skyline Probem - my algorithm 2.
+   * 
+   */
+  public List<int[]> getSkyline1(int[][] buildings) {
+
+  }
+
+  /*
+   * Skyline Probem - my algorithm 1.
+   * 
+   */
+  public List<int[]> getSkyline1(int[][] buildings) {
 
     List<int[]> skyPoints = new ArrayList<int[]>();
 
@@ -125,9 +136,10 @@ class MyTest {
   @Test
   public void testSkyLine() {
     int[][] buildings = {{2, 9, 10}, {3, 7, 15}, {5, 12, 12}, {15, 20, 10}, {19, 24, 8}};
-    List<int[]> skyPoints = (new SkylineProblem()).getSkyline(buildings);
+    List<int[]> skyPoints = (new SkylineProblem()).getSkyline1(buildings);
 
-    int[][] expectedSkyPoints = {{2, 10}, {3, 15}, {7, 12}, {12, 0}, {15, 10}, {20, 8}, {24, 0}};
+    int[][] expectedSkyPoints =
+        {{2, 10}, {3, 15}, {7, 12}, {12, 0}, {15, 10}, {20, 8}, {24, 0}};
 
     Assert.assertArrayEquals(expectedSkyPoints, skyPoints.toArray());
   }
