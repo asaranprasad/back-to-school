@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.PriorityQueue;
@@ -43,20 +44,61 @@ public class SkylineProblem {
    * Skyline Probem - my algorithm 2.
    * 
    */
-  class MaxH_RX implements Comparator<MaxH_RX> {
-    int height;
-    int rX;
+  class MaxH_RX {
+    int h;
+    int rx;
 
-    @Override
-    public int compare(MaxH_RX a, MaxH_RX b) {
-      return a.height - b.height;
+    public MaxH_RX(int h, int rx) {
+      this.rx = rx;
+      this.h = h;
+    }
+  }
+
+  class Building {
+    int lx;
+    int rx;
+    int h;
+
+    public Building(int lx, int rx, int h) {
+      this.lx = lx;
+      this.rx = rx;
+      this.h = h;
     }
   }
 
   public List<int[]> getSkyline(int[][] buildings) {
     List<int[]> out = new LinkedList<int[]>();
+
+    // add and sort buildings by their left x
+    List<Building> bs = new LinkedList<Building>();
+
+    for (int i = 0; i < buildings.length; i++)
+      bs.add(new Building(buildings[i][0], buildings[i][1], buildings[i][2]));
+
+    Collections.sort(bs, new Comparator<Building>() {
+      @Override
+      public int compare(Building a, Building b) {
+        return a.lx - b.lx;
+      }
+    });
+
     // Creating a priority queue of currentMaxHeight<->correspondingBuiliding'sRightX pair
-    PriorityQueue<MaxH_RX> pQueue = new PriorityQueue<MaxH_RX>();
+    PriorityQueue<MaxH_RX> pQueue =
+        new PriorityQueue<MaxH_RX>(new Comparator<MaxH_RX>() {
+          @Override
+          public int compare(MaxH_RX a, MaxH_RX b) {
+            return a.h - b.h;
+          }
+        });
+
+    Iterator<Building> it = bs.iterator();
+    int prevLx = bs.get(0).lx;
+    while (it.hasNext()) {
+      Building b = it.next();
+      pQueue.add(new MaxH_RX(b.h, b.rx));
+      int lx = b.lx;
+
+    }
 
 
     return out;
