@@ -54,6 +54,64 @@ public class CourseSchedule {
 
   }
 
+
+  public int[] findOrder(int numCourses, int[][] prerequisites) {
+    List<Integer>[] adj = new LinkedList[numCourses];
+
+    for (int i = 0; i < numCourses; i++)
+      adj[i] = new LinkedList<Integer>();
+
+    for (int[] p : prerequisites) {
+      //adj[p[1]].add(p[0]);
+      adj[p[0]].add(p[1]);
+    }
+
+    // -10 - not visited (White)
+    // +ve - visited (Black)
+    // -12 - currently in traversal (Gray)
+    int[] visited = new int[numCourses];
+    for (int i = 0; i < numCourses; i++)
+      visited[i] = -10;
+
+    int ord = 0;
+    for (int i = 0; i < numCourses; i++) {
+      if (visited[i] == -10) {
+        ord = dfsCheck(adj, i, visited, ord);
+        if (ord == -1)
+          return new int[0];
+      }
+    }
+
+    int[] order = new int[numCourses];
+    for (int i = 0; i < numCourses; i++) {
+      System.out.print(visited[i] + " ");
+      order[visited[i]] = i;
+    }
+
+    return order;
+  }
+
+  // returns false if a cycle is found
+  public int dfsCheck(List<Integer>[] adj, int node, int[] visited, int order) {
+    for (int neigh : adj[node]) {
+      if (visited[neigh] == -12)
+        return -1; // Cycle exists, i.e. visiting a parent Gray node
+
+      visited[neigh] = -12; // mark as Gray
+      order = dfsCheck(adj, neigh, visited, order);
+
+      if (order == -1)
+        return -1; // cycle detected in sub-traversal        
+    }
+
+    if (visited[node] < 0) {
+      System.out
+          .println("ord: " + order + " node: " + node + " visited: " + visited[node]);
+      visited[node] = order++;
+    }
+    return order;
+  }
+
 }
 
 
