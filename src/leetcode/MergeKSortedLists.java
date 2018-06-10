@@ -47,6 +47,28 @@ public class MergeKSortedLists {
     return ret;
   }
 
+  public void mergeSortedArray(int[] nums1, int m, int[] nums2, int n) {
+    int now = m + n - 1;
+    m = m - 1;
+    n = n - 1;
+    while (m > -1 && n > -1) {
+      if (nums1[m] > nums2[n]) {
+        nums1[now] = nums1[m];
+        m--;
+      } else {
+        nums1[now] = nums2[n];
+        n--;
+      }
+      now--;
+    }
+
+    while (n > -1) {
+      nums1[now] = nums2[n];
+      n--;
+      now--;
+    }
+  }
+
   public static void main(String[] args) {
 
   }
