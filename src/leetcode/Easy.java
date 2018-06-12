@@ -56,6 +56,30 @@ public class Easy {
 
   //---------------------------------------------------------------------------//
 
+  /* https://leetcode.com/problems/path-sum-ii/description/ */
+
+  public List<List<Integer>> pathSum(TreeNode root, int sum) {
+    List<List<Integer>> paths = new LinkedList<List<Integer>>();
+    if (root != null) {
+      List<Integer> initList = new LinkedList<Integer>();
+      initList.add(root.val);
+      allPathsWithSum(root, paths, initList, sum);
+    }
+    return paths;
+  }
+
+  private void allPathsWithSum(TreeNode root, List<List<Integer>> paths,
+      List<Integer> soFar, int target) {
+    if (root.left == null && root.right == null && sumSoFar == target)
+      paths.add(soFar);
+    if (root.right != null)
+      allPathsWithSum(root.right, paths, soFar.add(root.right.val), target);
+    if (root.left != null)
+      allPathsWithSum(root.left, paths, soFar.add(root.left.val), target);
+  }
+
+  //---------------------------------------------------------------------------//
+
   public static void main(String[] args) {
 
   }
