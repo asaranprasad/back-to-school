@@ -16,25 +16,26 @@ public class ZipList {
     ListNode head = new ListNode(0);
     ListNode node = head;
 
-    for (int i = 1; i < 8; i++) {
+    for (int i = 1; i <= 8; i++) {
       node.next = new ListNode(i);
       node = node.next;
     }
 
     ZipList z = new ZipList();
+    z.printList(head);
+    
     ListNode zipped = z.zipList(head);
 
     z.printList(zipped);
   }
 
-  // 0 1 2 3 4 5 6 7 
+  // 0 1 2 3 4 5 6 7 8
   private ListNode zipList(ListNode head) {
     ListNode sp = head;
     ListNode fp = head;
 
     // find the middle of the lsit
     while (fp.next != null && fp.next.next != null) {
-      System.out.println("fp: " + fp.val + " sp: " + sp.val);
       sp = sp.next;
       fp = fp.next.next;
     }
@@ -53,9 +54,15 @@ public class ZipList {
     
     // Begin Interleaving
     ListNode revListHead = prev;
-    
+    ListNode retList = head;
+    ListNode node = retList;
+    head = head.next;
+    while(head != null || revListHead != null) {
+      if(revListHead != null) { node.next = revListHead; revListHead = revListHead.next; node = node.next;}
+      if(head != null) { node.next = head; head = head.next; node = node.next;}
+    }
 
-    return null;
+    return retList;
   }
 
   private void printList(ListNode head) {
