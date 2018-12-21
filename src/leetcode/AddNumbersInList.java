@@ -4,14 +4,15 @@
 
 package leetcode;
 
-class ListNode {
-  int val;
-  ListNode next;
+//class ListNode {
 
-  ListNode(int x) {
-    val = x;
-  }
-}
+//  int val;
+//  ListNode next;
+//
+//  ListNode(int x) {
+//    val = x;
+//  }
+//}
 
 
 public class AddNumbersInList {
