@@ -10,11 +10,6 @@ class ListNode {
   ListNode(int x) {
     val = x;
   }
-
-  public ListNode next() {
-    // TODO Auto-generated method stub
-    return null;
-  }
 }
 
 
