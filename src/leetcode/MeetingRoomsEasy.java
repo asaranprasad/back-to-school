@@ -10,7 +10,6 @@
  *     Interval(int s, int e) { start = s; end = e; }
  * }
  */
-
 class Solution {
     public boolean canAttendMeetings(Interval[] intervals) {
         Arrays.sort(intervals, (a,b) -> a.start - b.start);
