@@ -19,6 +19,7 @@ PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> y - x);
 	Operations:
 		pQueue.add(elm);
 		elm = pQueue.poll(); // Removes and returns the root of the heap. O(1) operation.
+		h = q.peek(); // returns reference to the root of the queue WITHOUT removing it.
 		bool = pQueue.contains(); // O(logN) operation
 		pQueue.toArray(); // comvert toArray
 
