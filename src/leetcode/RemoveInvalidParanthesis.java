@@ -1,3 +1,10 @@
+// 1. Find the count of mismatching left and right paranthesis
+// 2. Idea is to recur over each index of the input string, trying to branch at each of these indices to either 1. include that character and continue, or 2. exclude that paranthesis character and continue.
+// 3. Maintaining variables from step 1 makes sure we don't remove more than the *minimum* characters as mentioned in the problem statement.
+// 4. We can add certain pruning condition to save time of the anyways O(2^N) solution. 
+// 5. One pruning condition is to check if **(count of left Paranthesis included so far) > (count of right Paranthesis included so far)** before continuing to include a right paranthesis and recurse
+// 6. Another pruning condition is taken care by step 3.
+
 class Solution {
     public List<String> removeInvalidParentheses(String s) {
         // Find the count of mismatching left and right paranthesis
