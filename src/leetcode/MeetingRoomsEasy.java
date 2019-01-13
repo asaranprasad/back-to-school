@@ -1,4 +1,4 @@
-// RunTime: O(N)
+// RunTime: O(NLogN) - cauz of sorting.
 // Space: O(1)
 
 /**
