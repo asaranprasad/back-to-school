@@ -1,5 +1,5 @@
 // RunTime: O(NLogN) - cauz of sorting.
-// Space: O(1)
+// Space: O(1) - No Extra space
 
 /**
  * Definition for an interval.
