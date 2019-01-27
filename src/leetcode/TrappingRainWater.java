@@ -1,4 +1,6 @@
 //https://leetcode.com/problems/trapping-rain-water/description/
+// Two Pointer Solution
+
 package leetcode;
 
 public class TrappingRainWater {
