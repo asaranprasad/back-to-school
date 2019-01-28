@@ -1,4 +1,4 @@
-// Followin the recursive definition of a BST
+// Following the recursive definition of a BST
 
 /**
  * Definition for a binary tree node.
