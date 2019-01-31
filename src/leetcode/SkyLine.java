@@ -15,6 +15,7 @@
  
 // 4. And also, quite obviously, we give priority to the starting point of a building to come up in the sorted list.
     
+
 class Solution {
     class Point{
         int x, y, startOrEnd;
