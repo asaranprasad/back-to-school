@@ -1,6 +1,6 @@
-#Java
+# Java
 
-##Queues
+## Queues
 Implemented using linked list
 Queue<Integer> q = new LinkedList<>();
 	Operations: 
@@ -9,7 +9,7 @@ Queue<Integer> q = new LinkedList<>();
 		h = q.peek(); // View the head of the queue i.e. returns reference to the head of the queue
 
 
-##PriorityQueues
+## PriorityQueues
 // MIN HEAP - Default
 PriorityQueue<String> pQueue = new PriorityQueue<String>(); 
 
@@ -24,9 +24,13 @@ PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> y - x);
 		pQueue.toArray(); // comvert toArray
 
 
-##Iterator
+## Iterator
 Available for almost all collections
 	Usage:
 		Iterator itr = pQueue.iterator(); 
         while (itr.hasNext()) 
             System.out.println(itr.next()); 
+
+
+
+            
