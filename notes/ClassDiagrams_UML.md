@@ -1,11 +1,11 @@
-#Class Diagrams - Quick Reference
+# Class Diagrams - Quick Reference
 
-##Symbol Explanation
+## Symbol Explanation
 
 ![Symbol Explanation](images/UML_Expln.png)
 
 
-##Examples
+## Examples
 
 ![UML_Examples_1](images/UML_Examples_1.png)
 
