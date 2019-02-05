@@ -2,7 +2,6 @@ class Solution {
     
     int ways = 0;
     public int numDecodings(String s) {
-        if(Integer.parseInt(s) == 0) return 0;
         decUtil(s, 0);
         return ways;
     }
@@ -19,7 +18,7 @@ class Solution {
                     decUtil(s, i + 2);
                 }
             }
-            decUtil(s, i + 1);            
+            if(c != '0') decUtil(s, i + 1);            
         } else{
             ways++;
         }
