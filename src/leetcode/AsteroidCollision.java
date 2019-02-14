@@ -1,3 +1,11 @@
+// 1. Use a Stack, similar to balancing brackets
+// 2. Time Complexity is O(N) because, we push ans pop each astroid AT MOST once.
+
+// Corner Cases to make sure:
+// 1. Peeking or Popping an empty stack.
+// 2. Encountering negative numbers while peeking an empty stack
+// 3. Handling equal condition after halting pop loop and before pushing into stack.
+
 package leetcode;
 
 import java.util.*;
