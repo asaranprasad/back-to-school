@@ -67,5 +67,4 @@ public class AddTwoLists2 {
         l1.val = sum % 10;
         return sum / 10; // carry
     }
-
 }
