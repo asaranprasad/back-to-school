@@ -39,8 +39,7 @@ public class MinimumWindowSubstring {
             }else{
                 
             }
-        }
-        
+        }        
     }
 
 }
