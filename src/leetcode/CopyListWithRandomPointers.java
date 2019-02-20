@@ -6,6 +6,7 @@
  *     RandomListNode(int x) { this.label = x; }
  * };
  */
+
 public class Solution {
     public RandomListNode copyRandomList(RandomListNode head) {
         if(head == null) return head;
