@@ -7,6 +7,7 @@ package leetcode;
  // 5. Move the recently accessed element to the *head* of the queue, so that it won't get ejected as a LRU Node.
  // 6. Insert and then check for capacity to remove the node before *tail*
 
+
 class LRUCache {
     
     class Node{
