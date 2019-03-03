@@ -1,7 +1,10 @@
 package leetcode;
 
 class LetterCombinationsOfPhone {
-    public List<String> letterCombinations(String digits) {
+    public List<String> letterCombinations(String digits) {        
+        List<String> out = new LinkedList<String>();
+        if(digits.length() < 1) return out;
+        
         Map<Character, String> map = new HashMap<>();
         map.put('2',"abc");
         map.put('3',"def");
@@ -12,7 +15,6 @@ class LetterCombinationsOfPhone {
         map.put('8',"tuv");
         map.put('9',"wxyz");
         
-        List<String> out = new LinkedList<String>();
         
         util(map, out, 0, "", digits);
         
