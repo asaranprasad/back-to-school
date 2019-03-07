@@ -11,11 +11,11 @@
 
 // 2. If two buildings start at same x-val, make the one with larger height come up first in the sorted list. Cauz, for starting points, we ADD heights to the MaxHeap and then update result if its different from previous. So this way, when two starting points have same x-val, we give preference to the one with more height. (Otherwise we get both the heights printed as per our subsequent code)
 
-// 3. If two buildings end at same x-val, make the one with smaller height come up first in the sorted list. Cauz, just like the previous step, for ending points, we REMOVE heights from the MaxHeap. Now, since we are removing from Heap, if we remove the larger height, the next smaller height building ending at same x would still remain in the heap and will eventually get printed in the output since we have a change in height. This is not what we want. Instead, if a series of buildings are ending at same x, we would want to print the lowest NON-terminating building's height from the heap, or if none present, print height ZERO.
+// 3. If two buildings end at same x-val, make the one with smaller height come up first in the sorted list. Cauz, just like the previous step, for ending points, we REMOVE heights from the MaxHeap. Now, since we are removing from Heap, if we remove the larger height, the next smaller height building ending at same x would still remain in the heap and will eventually get printed in the output since we have "a change in height". This is not what we want. Instead, if a series of buildings are ending at same x, we would want to print the lowest NON-terminating building's height from the heap, or if none present, print height ZERO.
  
 // 4. And also, quite obviously, we give priority to the starting point of a building to come up in the sorted list.
     
-class Solution {
+class SkyLine {
     class Point{
         int x, y, startOrEnd;
         Point(int x, int y, int startOrEnd){
