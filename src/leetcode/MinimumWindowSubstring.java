@@ -14,7 +14,7 @@ import java.util.*;
 
 public class MinimumWindowSubstring {
 
-     public String minWindow(String s, String t) {
+    public String minWindow(String s, String t) {
         if(t.length() > s.length()) return "";
         
         HashMap<Character, Integer> map = new HashMap<>();
