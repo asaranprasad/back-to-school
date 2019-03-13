@@ -1,5 +1,3 @@
-// Incomplete
-
 /*
  * https://leetcode.com/problems/longest-palindromic-substring/description/
  */
@@ -21,59 +19,30 @@ public class LongestPalindromicSubstring {
                 + obj.longestPalindrome("sadf09werxrew90984oijrewf"));
   }
 
-  public String longestPalindrome(String a) {
-    if (a.length() == 0)
-      return "";
-
-    String maxString = "";
-    int count;
-
-    for (int i = 0; i < a.length(); i++) {
-      count = 1;
-      int j = i - 1, k = i + 1;
-      while (j >= 0 && k < a.length() && a.charAt(j) == a.charAt(k)) {
-        count += 2;
-        j--;
-        k++;
-      }
-      if (count > maxString.length()) {
-        int start = j + 1;
-        int end = k;
-        if (j < 0)
-          start = 0;
-        if (k > a.length())
-          end = a.length();
-        maxString = a.substring(start, end);
-//        System.out.println("1. i: " + i + " j: " + j + " k: " + k + " start: " + start
-//            + " end: " + end + " str: " + maxString);
-      }
+  public String longestPalindrome(String s) {      
+        if(s == null || s.length() == 0) return "";
+        int maxLen = 0, begin = 0;
+        
+        for(int i = 0; i < s.length(); i++){
+            int lenOdd = expandAroundCenter(s, i, i);
+            int lenEven = expandAroundCenter(s, i, i + 1);
+            int currLen = Math.max(lenOdd, lenEven);
+            
+            if(currLen > maxLen){
+                maxLen = currLen;
+                begin = i - (maxLen - 1) / 2;
+            }
+            System.out.println(maxLen);
+        }
+        return s.substring(begin, begin + maxLen);
     }
-
-    for (int i = 0; i < a.length() - 1; i++) {
-      count = 0;
-      int j = i, k = i + 1;
-      while (j >= 0 && k < a.length() && a.charAt(j) == a.charAt(k)) {
-        count += 2;
-        j--;
-        k++;
-      }
-      if (count > maxString.length()) {
-        int start = j + 1;
-        int end = k;
-        if (j < 0)
-          start = 0;
-        if (k > a.length())
-          end = a.length();
-        maxString = a.substring(start, end);
-        //        System.out.println("2. i: " + i + " j: " + j + " k: " + k + " start: " + start
-        //            + " end: " + end + " str: " + maxString);
-      }
+    
+    private int expandAroundCenter(String s, int a, int b){
+        while(a >= 0 && b < s.length() && s.charAt(a) == s.charAt(b)){
+            a--;
+            b++;
+        }
+        return b - a - 1;
     }
-
-    if (maxString.length() == 0)
-      maxString = maxString + a.charAt(0);
-
-    return maxString;
-  }
 
 }
