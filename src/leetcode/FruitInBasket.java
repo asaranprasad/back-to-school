@@ -8,9 +8,8 @@ public class FruitInBasket {
         int first = -1, second = -1, out = 0, currCount = 0, secondCount = 0;
         for(int t : tree){
             currCount = (t == first || t == second) ? currCount + 1 : secondCount + 1;
-            secondCount++;
+            secondCount = (t == second) ? secondCount + 1 : 1;
             if(t != second) {
-                secondCount = 1;
                 first = second;
                 second = t;
             }
