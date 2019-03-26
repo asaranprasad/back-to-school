@@ -14,7 +14,7 @@ Kahn's TopoSort:
 3. In the queue loop (just like bfs), decrement neighbors' indegrees and add them to queue if they become zero.
 4. Output of the topo sort is the queue order.
 
- */
+*/
 
 package leetcode;
 
