@@ -12,7 +12,7 @@ public class UnitIntervalsRealLine {
 		UnitIntervalsRealLine uirl = new UnitIntervalsRealLine();
 
 		List<Double> out = uirl.findUnitLengthIntervals(input);
-		System.out.println("\n \noutput");
+		System.out.println("output");
 
 		for (double v : out)
 			System.out.println(v + " : " + (v + 1));
@@ -54,19 +54,12 @@ public class UnitIntervalsRealLine {
 				continue;
 			}
 
-			System.out.println("\nBar Bef: i: " + i + " bar: " + bar);
-
 			if (bar == Double.MIN_VALUE) {
-				System.out.println("MinInBucket---");
 				double minInBucket = Double.MAX_VALUE;
-				System.out.println("minInBucket first: " + minInBucket);
 				for (double v : buckets[i]) {
-					System.out.println("v: " + v);
 					if (v < minInBucket)
 						minInBucket = v;
-					System.out.println(minInBucket);
 				}
-				System.out.println("MinInBucket---");
 				out.add(minInBucket);
 				bar = minInBucket + 1;
 			} else {
@@ -83,10 +76,7 @@ public class UnitIntervalsRealLine {
 					bar = justBiggerThanOrEqualToBar + 1;
 				}
 			}
-
-			System.out.println("Bar Aft: i: " + i + " bar: " + bar);
 		}
-
 		return out;
 	}
 
@@ -99,7 +89,7 @@ public class UnitIntervalsRealLine {
 			}
 			System.out.println();
 		}
-		System.out.println("----PrintBuckets----\n\n\n");
+		System.out.println("----PrintBuckets----\n");
 
 	}
 
