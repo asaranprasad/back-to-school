@@ -8,7 +8,7 @@ import java.util.List;
 public class UnitIntervalsRealLine {
 
 	public static void main(String[] args) {
-		double[] input = { 0.65, 0.32, 6.9, 5.95, 6.25, 3.2, 0.4, 9.12, 7.5, 2.6 };
+		double[] input = { 2.65, 2.32, 6.9, 5.95, 6.25, 3.2, 2.4, 9.12, 7.5, 2.6 };
 		UnitIntervalsRealLine uirl = new UnitIntervalsRealLine();
 
 		List<Double> out = uirl.findUnitLengthIntervals(input);
